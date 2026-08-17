@@ -418,430 +418,644 @@ https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 
 
 #EXTINF:-1 group-title="4gtv網頁嗅探",4  民視第一台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 #EXTINF:-1 group-title="4gtv網頁嗅探",5  民視台灣台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 #EXTINF:-1 group-title="4gtv網頁嗅探",6  民視
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 #EXTINF:-1 group-title="4gtv網頁嗅探",9  大愛電視
+parse=1
 https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
 #EXTINF:-1 group-title="4gtv網頁嗅探",10  中視
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
 #EXTINF:-1 group-title="4gtv網頁嗅探",11  中視經典台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
 #EXTINF:-1 group-title="4gtv網頁嗅探",12  華視
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 #EXTINF:-1 group-title="4gtv網頁嗅探",13  三立綜合台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
 #EXTINF:-1 group-title="4gtv網頁嗅探",14  客家電視台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
 #EXTINF:-1 group-title="4gtv網頁嗅探",15  八大綜藝台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
 #EXTINF:-1 group-title="4gtv網頁嗅探",16  中視菁采台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
 #EXTINF:-1 group-title="4gtv網頁嗅探",17  TVBS精采台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 #EXTINF:-1 group-title="4gtv網頁嗅探",18  愛爾達娛樂台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
 #EXTINF:-1 group-title="4gtv網頁嗅探",19  靖天綜合台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 #EXTINF:-1 group-title="4gtv網頁嗅探",20  靖天日本台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 #EXTINF:-1 group-title="4gtv網頁嗅探",21  新唐人亞太台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223
 #EXTINF:-1 group-title="4gtv網頁嗅探",23  ARIRANG阿里郎頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
 #EXTINF:-1 group-title="4gtv網頁嗅探",24  Global Trekker
+parse=1
 https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
 #EXTINF:-1 group-title="4gtv網頁嗅探",25  原住民族電視台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live014?set=1&ch=273
 #EXTINF:-1 group-title="4gtv網頁嗅探",26  Smart知識台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn19?set=1&ch=297
 #EXTINF:-1 group-title="4gtv網頁嗅探",29  東森購物四台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
 #EXTINF:-1 group-title="4gtv網頁嗅探",30  LiveABC互動英語頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188
 #EXTINF:-1 group-title="4gtv網頁嗅探",31  達文西頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 #EXTINF:-1 group-title="4gtv網頁嗅探",32  ELTV生活英語台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn20?set=1&ch=106
 #EXTINF:-1 group-title="4gtv網頁嗅探",33  Nick Jr. 兒童頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219
 #EXTINF:-1 group-title="4gtv網頁嗅探",34  尼克兒童頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
 #EXTINF:-1 group-title="4gtv網頁嗅探",35  DreamWorks 夢工廠動畫
+parse=1
 https://www.4gtv.tv/channel/4gtv-live017?set=1&ch=282
 #EXTINF:-1 group-title="4gtv網頁嗅探",36  靖天卡通台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
 #EXTINF:-1 group-title="4gtv網頁嗅探",37  靖洋卡通Nice Bingo
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 #EXTINF:-1 group-title="4gtv網頁嗅探",38  i-Fun動漫台
+parse=1
 https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=60
 #EXTINF:-1 group-title="4gtv網頁嗅探",39  龍華卡通台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn01?set=1&ch=295
 #EXTINF:-1 group-title="4gtv網頁嗅探",42  MOMO親子台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231
 #EXTINF:-1 group-title="4gtv網頁嗅探",49  東森購物一台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
 #EXTINF:-1 group-title="4gtv網頁嗅探",50  鏡電視新聞台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 #EXTINF:-1 group-title="4gtv網頁嗅探",51  東森新聞台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 #EXTINF:-1 group-title="4gtv網頁嗅探",52  華視新聞
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 #EXTINF:-1 group-title="4gtv網頁嗅探",53  民視新聞台
+parse=1
 https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
 #EXTINF:-1 group-title="4gtv網頁嗅探",54  三立新聞iNEWS
+parse=1
 https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
 #EXTINF:-1 group-title="4gtv網頁嗅探",55  TVBS新聞
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 #EXTINF:-1 group-title="4gtv網頁嗅探",56  東森財經新聞台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 #EXTINF:-1 group-title="4gtv網頁嗅探",57  中視新聞
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
 #EXTINF:-1 group-title="4gtv網頁嗅探",58  中天新聞台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
 #EXTINF:-1 group-title="4gtv網頁嗅探",59  Bloomberg TV
+parse=1
 https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
 #EXTINF:-1 group-title="4gtv網頁嗅探",60  寰宇新聞台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 #EXTINF:-1 group-title="4gtv網頁嗅探",61  寰宇新聞台灣台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 #EXTINF:-1 group-title="4gtv網頁嗅探",62  SBN全球財經台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
 #EXTINF:-1 group-title="4gtv網頁嗅探",63  寰宇財經台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
 #EXTINF:-1 group-title="4gtv網頁嗅探",67  TVBS
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 #EXTINF:-1 group-title="4gtv網頁嗅探",69  東森購物二台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
 #EXTINF:-1 group-title="4gtv網頁嗅探",70  民視綜藝台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
 #EXTINF:-1 group-title="4gtv網頁嗅探",71  豬哥亮歌廳秀
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 #EXTINF:-1 group-title="4gtv網頁嗅探",72  靖天育樂台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
 #EXTINF:-1 group-title="4gtv網頁嗅探",73  KLT-靖天國際台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
 #EXTINF:-1 group-title="4gtv網頁嗅探",74  Nice TV 靖天歡樂台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
 #EXTINF:-1 group-title="4gtv網頁嗅探",75  靖天資訊台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
 #EXTINF:-1 group-title="4gtv網頁嗅探",77  TVBS歡樂台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 #EXTINF:-1 group-title="4gtv網頁嗅探",78  韓國娛樂台 KMTV
+parse=1
 https://www.4gtv.tv/channel/4gtv-live377?set=1&ch=76
 #EXTINF:-1 group-title="4gtv網頁嗅探",80  ROCK Entertainment
+parse=1
 https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
 #EXTINF:-1 group-title="4gtv網頁嗅探",81  Lifetime 娛樂頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217
 #EXTINF:-1 group-title="4gtv網頁嗅探",82  電影原聲台CMusic
+parse=1
 https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
 #EXTINF:-1 group-title="4gtv網頁嗅探",83  TRACE Urban
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 #EXTINF:-1 group-title="4gtv網頁嗅探",84  MTV Live HD 音樂頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live025?set=1&ch=213
 #EXTINF:-1 group-title="4gtv網頁嗅探",86  Mezzo Live HD
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
 #EXTINF:-1 group-title="4gtv網頁嗅探",87  CLASSICA 古典樂
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv059?set=1&ch=80
 #EXTINF:-1 group-title="4gtv網頁嗅探",90  東森購物三台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
 #EXTINF:-1 group-title="4gtv網頁嗅探",97  博斯高球台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48
 #EXTINF:-1 group-title="4gtv網頁嗅探",98  博斯高球二台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn06?set=1&ch=298
 #EXTINF:-1 group-title="4gtv網頁嗅探",99  博斯運動一台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50
 #EXTINF:-1 group-title="4gtv網頁嗅探",100  博斯無限台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51
 #EXTINF:-1 group-title="4gtv網頁嗅探",101  博斯網球台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn09?set=1&ch=52
 #EXTINF:-1 group-title="4gtv網頁嗅探",102  博斯運動二台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn08?set=1&ch=299
 #EXTINF:-1 group-title="4gtv網頁嗅探",103  博斯魅力台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn04?set=1&ch=300
 #EXTINF:-1 group-title="4gtv網頁嗅探",104  TRACE Sport Stars
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 #EXTINF:-1 group-title="4gtv網頁嗅探",105  智林體育台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
 #EXTINF:-1 group-title="4gtv網頁嗅探",106  時尚運動X
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv014?set=1&ch=69
 #EXTINF:-1 group-title="4gtv網頁嗅探",107  車迷TV
+parse=1
 https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160
 #EXTINF:-1 group-title="4gtv網頁嗅探",108  GINX Esports TV
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=179
 #EXTINF:-1 group-title="4gtv網頁嗅探",110  Pet Club TV
+parse=1
 https://www.4gtv.tv/channel/4gtv-live110?set=1&ch=182
 #EXTINF:-1 group-title="4gtv網頁嗅探",111  民視旅遊台
+parse=1
 https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
 #EXTINF:-1 group-title="4gtv網頁嗅探",112  滾動力rollor
+parse=1
 https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
 #EXTINF:-1 group-title="4gtv網頁嗅探",113  亞洲旅遊台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250
 #EXTINF:-1 group-title="4gtv網頁嗅探",114  fun探索娛樂台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=274
 #EXTINF:-1 group-title="4gtv網頁嗅探",115  幸福空間居家台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
 #EXTINF:-1 group-title="4gtv網頁嗅探",116  Love Nature
+parse=1
 https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
 #EXTINF:-1 group-title="4gtv網頁嗅探",117  History 歷史頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
 #EXTINF:-1 group-title="4gtv網頁嗅探",120  愛爾達生活旅遊台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 #EXTINF:-1 group-title="4gtv網頁嗅探",121  LUXE TV Channel
+parse=1
 https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
 #EXTINF:-1 group-title="4gtv網頁嗅探",122  TV5MONDE STYLE HD 生活時尚
+parse=1
 https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
 #EXTINF:-1 group-title="4gtv網頁嗅探",124  龍華偶像台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn12?set=1&ch=296
 #EXTINF:-1 group-title="4gtv網頁嗅探",125  公視戲劇
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
 #EXTINF:-1 group-title="4gtv網頁嗅探",126  民視影劇台
+parse=1
 https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=24
 #EXTINF:-1 group-title="4gtv網頁嗅探",127  龍華戲劇台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn18?set=1&ch=23
 #EXTINF:-1 group-title="4gtv網頁嗅探",128  HITS頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
 #EXTINF:-1 group-title="4gtv網頁嗅探",129  龍華日韓台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28
 #EXTINF:-1 group-title="4gtv網頁嗅探",130  八大精彩台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172
 #EXTINF:-1 group-title="4gtv網頁嗅探",131  霹靂布袋戲
+parse=1
 https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 #EXTINF:-1 group-title="4gtv網頁嗅探",132  靖天戲劇台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 #EXTINF:-1 group-title="4gtv網頁嗅探",133  靖洋戲劇台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
 #EXTINF:-1 group-title="4gtv網頁嗅探",134  CI 罪案偵查頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215
 #EXTINF:-1 group-title="4gtv網頁嗅探",135  視納華仁紀實頻道
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
 #EXTINF:-1 group-title="4gtv網頁嗅探",136  影迷數位紀實台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212
 #EXTINF:-1 group-title="4gtv網頁嗅探",137  金光布袋戲
+parse=1
 https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
 #EXTINF:-1 group-title="4gtv網頁嗅探",138  ROCK Action
+parse=1
 https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
 #EXTINF:-1 group-title="4gtv網頁嗅探",145  采昌影劇台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
 #EXTINF:-1 group-title="4gtv網頁嗅探",146  靖天映畫
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
 #EXTINF:-1 group-title="4gtv網頁嗅探",147  靖天電影台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
 #EXTINF:-1 group-title="4gtv網頁嗅探",148  龍華電影台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn03?set=1&ch=121
 #EXTINF:-1 group-title="4gtv網頁嗅探",149  龍華經典台
+parse=1
 https://www.4gtv.tv/channel/litv-longturn21?set=1&ch=324
 #EXTINF:-1 group-title="4gtv網頁嗅探",152  影迷數位電影台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
 #EXTINF:-1 group-title="4gtv網頁嗅探",153  amc電影台
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 #EXTINF:-1 group-title="4gtv網頁嗅探",154  CinemaWorld
+parse=1
 https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225
 #EXTINF:-1 group-title="4gtv網頁嗅探",157  My Cinema Europe HD 我的歐洲電影
+parse=1
 https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176
 #EXTINF:-1 group-title="4gtv網頁嗅探",160  好消息
+parse=1
 https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9
 #EXTINF:-1 group-title="4gtv網頁嗅探",161  好消息2台
+parse=1
 https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=8
 #EXTINF:-1 group-title="4gtv網頁嗅探",163  大愛二台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
 #EXTINF:-1 group-title="4gtv網頁嗅探",164  人間衛視
+parse=1
 https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210
 #EXTINF:-1 group-title="4gtv網頁嗅探",169  FRANCE24 英文台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live146?set=1&ch=316
 #EXTINF:-1 group-title="4gtv網頁嗅探",170  半島國際新聞台
+parse=1
 https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=85
 #EXTINF:-1 group-title="4gtv網頁嗅探",171  VOA美國之音
+parse=1
 https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 #EXTINF:-1 group-title="4gtv網頁嗅探",172  CNBC Asia 財經台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live130?set=1&ch=235
 #EXTINF:-1 group-title="4gtv網頁嗅探",173  DW德國之聲
+parse=1
 https://www.4gtv.tv/channel/4gtv-live071?set=1&ch=226
 #EXTINF:-1 group-title="4gtv網頁嗅探",185  國會頻道1
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
 #EXTINF:-1 group-title="4gtv網頁嗅探",186  國會頻道2
+parse=1
 https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
 #EXTINF:-1 group-title="4gtv網頁嗅探",199  TVBS綜藝台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
 #EXTINF:-1 group-title="4gtv網頁嗅探",200  TVBS台劇台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
 #EXTINF:-1 group-title="4gtv網頁嗅探",201  經典電影台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
 #EXTINF:-1 group-title="4gtv網頁嗅探",202  經典卡通台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202
 #EXTINF:-1 group-title="4gtv網頁嗅探",204  精選動漫台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
 #EXTINF:-1 group-title="4gtv網頁嗅探",205  戲劇免費看 1台
+parse=1
 https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 #EXTINF:-1 group-title="4gtv網頁嗅探",501  市井豪門-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live001?set=1&ch=341
 #EXTINF:-1 group-title="4gtv網頁嗅探",502  戲說台灣-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live002?set=1&ch=342
 #EXTINF:-1 group-title="4gtv網頁嗅探",503  中視經典戲劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live003?set=1&ch=328
 #EXTINF:-1 group-title="4gtv網頁嗅探",504  花系列戲劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live004?set=1&ch=329
 #EXTINF:-1 group-title="4gtv網頁嗅探",505  華視好劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live005?set=1&ch=330
 #EXTINF:-1 group-title="4gtv網頁嗅探",506  公視好劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live006?set=1&ch=337
 #EXTINF:-1 group-title="4gtv網頁嗅探",507  客家好劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live007?set=1&ch=346
 #EXTINF:-1 group-title="4gtv網頁嗅探",508  懷舊經典電影-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live008?set=1&ch=333
 #EXTINF:-1 group-title="4gtv網頁嗅探",509  精選華語電影-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live009?set=1&ch=335
 #EXTINF:-1 group-title="4gtv網頁嗅探",510  台灣靈異事件-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live010?set=1&ch=326
 #EXTINF:-1 group-title="4gtv網頁嗅探",511  新兵日記-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live011?set=1&ch=382
 #EXTINF:-1 group-title="4gtv網頁嗅探",512  以家人之名-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live012?set=1&ch=383
 #EXTINF:-1 group-title="4gtv網頁嗅探",513  加油喜事-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live013?set=1&ch=384
 #EXTINF:-1 group-title="4gtv網頁嗅探",514  去有風的地方-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live014?set=1&ch=386
 #EXTINF:-1 group-title="4gtv網頁嗅探",515  多情城市-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live015?set=1&ch=389
 #EXTINF:-1 group-title="4gtv網頁嗅探",516  黃金歲月-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live016?set=1&ch=392
 #EXTINF:-1 group-title="4gtv網頁嗅探",517  花千骨-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live017?set=1&ch=397
 #EXTINF:-1 group-title="4gtv網頁嗅探",518  別打擾我種田-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live018?set=1&ch=398
 #EXTINF:-1 group-title="4gtv網頁嗅探",519  5566偶像劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live019?set=1&ch=399
 #EXTINF:-1 group-title="4gtv網頁嗅探",520  不敗愛情偶像劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live020?set=1&ch=401
 #EXTINF:-1 group-title="4gtv網頁嗅探",521  國外電影精選-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live021?set=1&ch=414
 #EXTINF:-1 group-title="4gtv網頁嗅探",522  日韓電影大賞-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live022?set=1&ch=415
 #EXTINF:-1 group-title="4gtv網頁嗅探",523  大愛精選-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live023?set=1&ch=416
 #EXTINF:-1 group-title="4gtv網頁嗅探",524  飛龍在天-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live024?set=1&ch=417
 #EXTINF:-1 group-title="4gtv網頁嗅探",525  女士的品格-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live025?set=1&ch=418
 #EXTINF:-1 group-title="4gtv網頁嗅探",526  台灣傳奇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live026?set=1&ch=419
 #EXTINF:-1 group-title="4gtv網頁嗅探",527  小資女孩向前衝-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live027?set=1&ch=420
 #EXTINF:-1 group-title="4gtv網頁嗅探",528  世間路-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live028?set=1&ch=421
 #EXTINF:-1 group-title="4gtv網頁嗅探",529  恐怖電影-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live029?set=1&ch=422
 #EXTINF:-1 group-title="4gtv網頁嗅探",530  古裝武俠劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live030?set=1&ch=423
 #EXTINF:-1 group-title="4gtv網頁嗅探",531  以愛為營-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live031?set=1&ch=424
 #EXTINF:-1 group-title="4gtv網頁嗅探",532  藍色水玲瓏-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live032?set=1&ch=425
 #EXTINF:-1 group-title="4gtv網頁嗅探",533  精彩陸劇-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live033?set=1&ch=426
 #EXTINF:-1 group-title="4gtv網頁嗅探",534  包青天-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live034?set=1&ch=427
 #EXTINF:-1 group-title="4gtv網頁嗅探",535  007情報員-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live035?set=1&ch=439
 #EXTINF:-1 group-title="4gtv網頁嗅探",701  天才衝衝衝-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live201?set=1&ch=343
 #EXTINF:-1 group-title="4gtv網頁嗅探",702  一字千金-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live202?set=1&ch=344
 #EXTINF:-1 group-title="4gtv網頁嗅探",703  綜藝大集合-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live203?set=1&ch=345
 #EXTINF:-1 group-title="4gtv網頁嗅探",704  女人我最大-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live204?set=1&ch=347
 #EXTINF:-1 group-title="4gtv網頁嗅探",705  食尚玩家-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live205?set=1&ch=348
 #EXTINF:-1 group-title="4gtv網頁嗅探",706  11點熱吵店-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live206?set=1&ch=349
 #EXTINF:-1 group-title="4gtv網頁嗅探",707  WTO姐妹會-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live207?set=1&ch=350
 #EXTINF:-1 group-title="4gtv網頁嗅探",708  威廉沈歡樂送-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live208?set=1&ch=435
 #EXTINF:-1 group-title="4gtv網頁嗅探",709  全家有智慧-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live209?set=1&ch=375
 #EXTINF:-1 group-title="4gtv網頁嗅探",710  少康戰情室-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live210?set=1&ch=376
 #EXTINF:-1 group-title="4gtv網頁嗅探",711  姊妹亮起來-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live211?set=1&ch=377
 #EXTINF:-1 group-title="4gtv網頁嗅探",712  娛樂百分百-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live212?set=1&ch=378
 #EXTINF:-1 group-title="4gtv網頁嗅探",713  超級冰冰Show-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live213?set=1&ch=379
 #EXTINF:-1 group-title="4gtv網頁嗅探",714  豬哥會社-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live214?set=1&ch=380
 #EXTINF:-1 group-title="4gtv網頁嗅探",715  過年特輯民視第一發發發-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live215?set=1&ch=381
 #EXTINF:-1 group-title="4gtv網頁嗅探",716  全能歌手-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live216?set=1&ch=385
 #EXTINF:-1 group-title="4gtv網頁嗅探",717  上奅台灣歌-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live217?set=1&ch=387
 #EXTINF:-1 group-title="4gtv網頁嗅探",718  鬥陣大廟埕-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live218?set=1&ch=388
 #EXTINF:-1 group-title="4gtv網頁嗅探",719  我的成長-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live219?set=1&ch=390
 #EXTINF:-1 group-title="4gtv網頁嗅探",720  健康2.0-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live220?set=1&ch=391
 #EXTINF:-1 group-title="4gtv網頁嗅探",721  律由經-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live221?set=1&ch=393
 #EXTINF:-1 group-title="4gtv網頁嗅探",722  TVBS看板人物-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live222?set=1&ch=394
 #EXTINF:-1 group-title="4gtv網頁嗅探",723  野蠻遊戲：We Play -FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live223?set=1&ch=395
 #EXTINF:-1 group-title="4gtv網頁嗅探",724  最愛韓星-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live224?set=1&ch=396
 #EXTINF:-1 group-title="4gtv網頁嗅探",725  美食+-x廚-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live225?set=1&ch=400
 #EXTINF:-1 group-title="4gtv網頁嗅探",726  廚神明星秀-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live226?set=1&ch=402
 #EXTINF:-1 group-title="4gtv網頁嗅探",727  浩克慢遊-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live227?set=1&ch=403
 #EXTINF:-1 group-title="4gtv網頁嗅探",728  環遊世界800天 -FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live228?set=1&ch=413
 #EXTINF:-1 group-title="4gtv網頁嗅探",729  娛樂超skr-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live229?set=1&ch=428
 #EXTINF:-1 group-title="4gtv網頁嗅探",730  綜藝新時代-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live230?set=1&ch=429
 #EXTINF:-1 group-title="4gtv網頁嗅探",731  幸福保衛戰-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live231?set=1&ch=430
 #EXTINF:-1 group-title="4gtv網頁嗅探",732  同學！搞什麼鬼-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live232?set=1&ch=431
 #EXTINF:-1 group-title="4gtv網頁嗅探",733  爸媽囧很大-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live233?set=1&ch=432
 #EXTINF:-1 group-title="4gtv網頁嗅探",734  醫學大聯盟-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live234?set=1&ch=433
 #EXTINF:-1 group-title="4gtv網頁嗅探",735  GoGoTaiwan-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live235?set=1&ch=434
 #EXTINF:-1 group-title="4gtv網頁嗅探",736  新春歡樂不斷電-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live236?set=1&ch=440
 #EXTINF:-1 group-title="4gtv網頁嗅探",737  新年蛇麼攏賀-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live237?set=1&ch=441
 #EXTINF:-1 group-title="4gtv網頁嗅探",901  霹靂布袋戲-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live401?set=1&ch=338
 #EXTINF:-1 group-title="4gtv網頁嗅探",902  金光布袋戲-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live402?set=1&ch=339
 #EXTINF:-1 group-title="4gtv網頁嗅探",903  超人力霸王《TV版》FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live403?set=1&ch=318
 #EXTINF:-1 group-title="4gtv網頁嗅探",904  超人力霸王《劇場版》FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live404?set=1&ch=325
 #EXTINF:-1 group-title="4gtv網頁嗅探",905  哆啦A夢-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live405?set=1&ch=331
 #EXTINF:-1 group-title="4gtv網頁嗅探",906  經典卡通-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live406?set=1&ch=332
 #EXTINF:-1 group-title="4gtv網頁嗅探",907  免費精選動畫-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live407?set=1&ch=437
 #EXTINF:-1 group-title="4gtv網頁嗅探",908  經典迪士尼-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live408?set=1&ch=340
 #EXTINF:-1 group-title="4gtv網頁嗅探",909  免費兒童卡通-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live409?set=1&ch=334
 #EXTINF:-1 group-title="4gtv網頁嗅探",910  FOOD超人-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live410?set=1&ch=327
 #EXTINF:-1 group-title="4gtv網頁嗅探",911  小兒子-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live411?set=1&ch=336
 #EXTINF:-1 group-title="4gtv網頁嗅探",912  親子一起看-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live412?set=1&ch=436
 #EXTINF:-1 group-title="4gtv網頁嗅探",913  怪獸之王-FastTV飛速看
+parse=1
 https://www.4gtv.tv/channel/fast-live413?set=1&ch=438
