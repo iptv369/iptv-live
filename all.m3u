@@ -1492,3 +1492,98 @@ https://4gtv.tvbjack.ggff.net/?id=448
 #EXTINF:-1 tvg-id="484" tvg-name="MOMO親子精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live415.png" group-title="兒童與青少年",MOMO親子精選-FastTV飛速看
 https://4gtv.tvbjack.ggff.net/?id=484
 
+#EXTM3U
+#PLAYLIST: YouTube 直播 (嗅探直连, 需挂节点)
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0k8QANRQ9zOGRM0gAXPpH0kPGFpV_bP_WKw" tvg-id="setn" tvg-name="三立新聞 SETN" group-title="YouTube" parse=1,三立新聞 SETN
+https://www.youtube.com/@setn/live
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mM1xHrYeyrYddXBQbTOyJ3wqHZ6Q" tvg-id="ettoday" tvg-name="東森新聞 ETtoday" group-title="YouTube" parse=1,東森新聞 ETtoday
+https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lkHcxAMAPztS4jJMi2WJkAmzLHs" tvg-id="tvbs" tvg-name="TVBS 新聞" group-title="YouTube" parse=1,TVBS 55台 新聞
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMpKOXXhGQyNqLpGBaYaWd" tvg-id="tvbs2" tvg-name="TVBS新聞2" group-title="YouTube" parse=1,TVBS新聞2 (備用)
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMpKOXXhGQyNqLpGBaYaWd" tvg-id="cti" tvg-name="中天新聞 CTI" group-title="YouTube" parse=1,中天新聞 CTI
+https://www.youtube.com/watch?v=vr3XyVCR4T0
+#EXTINF:-1 tvg-id="ftv" tvg-name="民視新聞 FTV" tvg-logo="/4gtv_logo/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_pc.webp" group-title="YouTube" parse=1,民視新聞 FTV
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-id="pts" tvg-name="公視新聞 PTS" tvg-logo="/4gtv_logo/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="YouTube" parse=1,公視新聞 PTS
+https://www.youtube.com/@ptsnews/live
+#EXTINF:-1 tvg-id="pts_taiwan" tvg-name="公視台語台" tvg-logo="/4gtv_logo/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="YouTube" parse=1,公視台語台
+https://www.youtube.com/@TaiwaneseNews/live
+#EXTINF:-1 tvg-id="cts" tvg-name="華視新聞 CTS" tvg-logo="/4gtv_logo/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="YouTube" parse=1,華視新聞 CTS
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-id="ttv" tvg-name="台視新聞 TTV" tvg-logo="/4gtv_logo/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="YouTube" parse=1,台視新聞 TTV
+https://www.youtube.com/@ttvnews/live
+#EXTINF:-1 tvg-id="globalnews" tvg-name="寰宇新聞台" tvg-logo="/4gtv_logo/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="YouTube" parse=1,寰宇新聞台
+https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-id="ettv_fin" tvg-name="東森財經新聞" group-title="YouTube" parse=1,東森財經新聞
+https://www.youtube.com/watch?v=1I2iq41Akmo
+#EXTINF:-1 tvg-id="setn_fin" tvg-name="三立iNEWS財經" group-title="YouTube" parse=1,三立iNEWS財經
+https://www.youtube.com/watch?v=pF507BLtbqU
+#EXTINF:-1 tvg-id="cv" tvg-name="中視新聞 CTV" group-title="YouTube" parse=1,中視新聞 CTV
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 tvg-id="global_tw" tvg-name="寰宇台灣台" group-title="YouTube" parse=1,寰宇台灣台
+https://www.youtube.com/watch?v=w87VGpgd90U
+#EXTINF:-1 tvg-id="mnews" tvg-name="鏡新聞 Mirror News" group-title="YouTube" parse=1,鏡新聞 Mirror News
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-id="phoenix_info" tvg-name="鳳凰衛視資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF.png" group-title="YouTube" parse=1,鳳凰衛視資訊台
+https://www.youtube.com/live/Ry--eMIjYLQ?si=Dm7-mC0Rr5C3nKFi
+#EXTINF:-1 tvg-id="ytn" tvg-name="YTN新闻 (韩)" tvg-logo="https://yt3.googleusercontent.com/Sd77hfGXNh1K4VgLCnYVrzWVkUKh04N5VDClPweoP-sbaZXzH3llUz2W1N_-Z4RX5_XauYpvSQ=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,YTN新闻 (韩)
+https://www.youtube.com/@ytnnews24/live
+#EXTINF:-1 tvg-id="nhk" tvg-name="NHK World (日)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m9YDtPWqgZW91_-QTdsVWLbnR0ZQ1BaHX38ZcSRVGnfd0=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,NHK World (日)
+https://www.youtube.com/@NHKWORLDJapan/live
+#EXTINF:-1 tvg-id="cna" tvg-name="CNA亚洲新闻 (新)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="YouTube" parse=1,CNA亚洲新闻 (新)
+https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN中国环球" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kr4kXVpJgGG7hQr7S0LJl_7eNj2sE5G_DfbjP9eA=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,CGTN中国环球
+https://www.youtube.com/@CGTN/live
+#EXTINF:-1 tvg-id="trt" tvg-name="TRT World (土)" tvg-logo="https://yt3.googleusercontent.com/luLQWmGFG4iDC1U_2JlzZ1mquci_sUdfZfFl4eWgBkDpW6tvZT0MEA4c4JebJdi9hCo518q1=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,TRT World (土)
+https://www.youtube.com/@trtworld/streams
+#EXTINF:-1 tvg-id="dw" tvg-name="DW News (德)" tvg-logo="https://yt3.googleusercontent.com/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,DW News (德)
+https://www.youtube.com/@dwnews/live
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24 (法)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="YouTube" parse=1,France 24 (法)
+https://www.youtube.com/@FRANCE24/live
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera (卡塔尔)" tvg-logo="https://yt3.googleusercontent.com/oN_i26ADOuQ4PdypHo8yjVXh6QSXZ1kMeYzaRH3hNOlQE1uEUUQ-gkCh0o1rUQ2PM7Qx6QvY2g=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,Al Jazeera (卡塔尔)
+https://www.youtube.com/@aljazeera/live
+#EXTINF:-1 tvg-id="lofi_girl" tvg-name="Lofi Girl (音乐)" tvg-logo="https://yt3.googleusercontent.com/_BSh2VVvVMzqBoKyWbQnyC35XFOV-ZbXavf9nfu3ZjpFUGEImQnlWt9ZlpfGQBqWEbGNc4rPWg=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,Lofi Girl (音乐)
+https://www.youtube.com/@LofiGirl/live
+#EXTINF:-1 tvg-id="chillhop" tvg-name="Chillhop Music (音乐)" tvg-logo="https://yt3.googleusercontent.com/5sz00tGeNdll17IqVECF7s7shUzz0nlirAK86WgY0yz7-4t2S51_XMvjM7HaJfdwNlM6rm_Hrg=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,Chillhop Music (音乐)
+https://www.youtube.com/@ChillhopMusic/live
+#EXTINF:-1 tvg-id="cbc_music" tvg-name="CBC Music (加音乐)" tvg-logo="https://yt3.googleusercontent.com/PFujg06kCSfYHqUGghZtM_Y0YgJRkiUbSOnael5D1YaTDGv7zXSMlOTXLGc7mApUBnueDxWOyA=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,CBC Music (加音乐)
+https://www.youtube.com/@CBCMusic/live
+#EXTINF:-1 tvg-id="nasa" tvg-name="NASA Live (科普)" tvg-logo="https://yt3.googleusercontent.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,NASA Live (科普)
+https://www.youtube.com/@NASA/live
+#EXTINF:-1 tvg-id="cctv_cn" tvg-name="CCTV 中文 (央视综合)" tvg-logo="https://yt3.googleusercontent.com/UldwlGABN4ST-DVLUDoaKlA4bcE3TvYpLoJvcQslZeJdo2qJrDMR1ZHmFVIhBSxdDUUNgDEAFw=s900-c-k-c0x00ffffff-no-rj" group-title="YouTube" parse=1,CCTV 中文 (央视综合)
+https://www.youtube.com/watch?v=vNVp6bxkL1c
+#EXTINF:-1 tvg-id="awani" tvg-name="Astro AWANI (马来西亚新闻)" group-title="YouTube" parse=1,Astro AWANI (马来西亚新闻)
+https://www.youtube.com/watch?v=mkVyNaGee8A
+#EXTINF:-1 tvg-id="sg_ndp" tvg-name="Singapore NDP (新加坡)" group-title="YouTube" parse=1,Singapore NDP (新加坡)
+https://www.youtube.com/watch?v=ipqTkEH3mhE
+#EXTINF:-1 tvg-id="fox_livenow" tvg-name="LiveNOW from FOX (美国)" group-title="YouTube" parse=1,LiveNOW from FOX (美国)
+https://www.youtube.com/watch?v=C96oohpWBGw
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN (美国新闻)" group-title="YouTube" parse=1,CNN (美国新闻)
+https://www.youtube.com/watch?v=GotlA1KKWoo
+#EXTINF:-1 tvg-id="abc7ny" tvg-name="ABC 7 New York (美国)" group-title="YouTube" parse=1,ABC 7 New York (美国)
+https://www.youtube.com/watch?v=VrhYz4CL70I
+#EXTINF:-1 tvg-id="cts_variety" tvg-name="華視綜藝頻道 (台湾)" group-title="YouTube" parse=1,華視綜藝頻道 (台湾)
+https://www.youtube.com/watch?v=0ePhPlTJbGo
+#EXTINF:-1 tvg-id="ettv_variety" tvg-name="東森綜合台 (台湾)" group-title="YouTube" parse=1,東森綜合台 (台湾)
+https://www.youtube.com/watch?v=cimbpAZUjzw
+#EXTINF:-1 tvg-id="kbs_world" tvg-name="KBS WORLD TV (韩国)" group-title="YouTube" parse=1,KBS WORLD TV (韩国)
+https://www.youtube.com/watch?v=OxQQsIvJTTU
+#EXTINF:-1 tvg-id="yonhap" tvg-name="Yonhap News (韩国联合新闻)" group-title="YouTube" parse=1,Yonhap News (韩国联合新闻)
+https://www.youtube.com/watch?v=6QZ_qc75ihU
+#EXTINF:-1 tvg-id="tbs_news" tvg-name="TBS NEWS DIG (日本新闻)" group-title="YouTube" parse=1,TBS NEWS DIG (日本新闻)
+https://www.youtube.com/watch?v=Anr15FA9OCI
+#EXTINF:-1 tvg-id="nagoya_tv" tvg-name="Nagoya TV News (名古屋)" group-title="YouTube" parse=1,Nagoya TV News (名古屋)
+https://www.youtube.com/watch?v=-C6FE2m7kX8
+#EXTINF:-1 tvg-id="tv_asahi" tvg-name="テレ朝NEWS (日本朝日)" group-title="YouTube" parse=1,テレ朝NEWS (日本朝日)
+https://www.youtube.com/watch?v=coYw-eVU0Ks
+#EXTINF:-1 tvg-id="ntv_news" tvg-name="日テレNEWS (日本新闻)" group-title="YouTube" parse=1,日テレNEWS (日本新闻)
+https://www.youtube.com/watch?v=t9kwjZBLI-A
+#EXTINF:-1 tvg-id="gtv_drama" tvg-name="八大劇樂部 (惡作劇之吻)" group-title="YouTube" parse=1,八大劇樂部 (惡作劇之吻)
+https://www.youtube.com/watch?v=6lKL5znyZkc
+#EXTINF:-1 tvg-id="cts_drama" tvg-name="華視戲劇頻道 (台灣靈異事件)" group-title="YouTube" parse=1,華視戲劇頻道 (台灣靈異事件)
+https://www.youtube.com/watch?v=6ZowCmLBcMY
+#EXTINF:-1 tvg-id="berita_rtm" tvg-name="Berita RTM (马来西亚新闻)" group-title="YouTube" parse=1,Berita RTM (马来西亚新闻)
+https://www.youtube.com/watch?v=2BtKvwKyCRA
