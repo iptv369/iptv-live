@@ -1,0 +1,48 @@
+油管,#genre#
+parse=1
+TVBS 55台 新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞2 (備用),https://www.youtube.com/watch?v=m_dhMSvUCIc
+華視新聞 CTS,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+鳳凰衛視資訊台,https://www.youtube.com/live/Ry--eMIjYLQ?si=Dm7-mC0Rr5C3nKFi
+華視綜藝頻道 (台湾),https://www.youtube.com/watch?v=0ePhPlTJbGo
+華視戲劇頻道 (台灣靈異事件),https://www.youtube.com/watch?v=6ZowCmLBcMY
+三立新聞 SETN,https://www.youtube.com/live/ljDm11vsLC0?si=wzIRdJz-5zWIJMUa
+東森新聞 ETtoday,https://www.youtube.com/watch?v=V1p33hqPrUk
+中天新聞 CTI,https://www.youtube.com/watch?v=vr3XyVCR4T0
+民視新聞 FTV,https://www.youtube.com/watch?v=ylYJSBUgaMA
+公視新聞 PTS,https://www.youtube.com/@ptsnews/live
+台視新聞 TTV,https://www.youtube.com/@ttvnews/live
+寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+三立iNEWS財經,https://www.youtube.com/watch?v=pF507BLtbqU
+中視新聞 CTV,https://www.youtube.com/watch?v=TCnaIE_SAtM
+鏡新聞 Mirror News,https://www.youtube.com/watch?v=5n0y6b0Q25o
+YTN新闻 (韩),https://www.youtube.com/@ytnnews24/live
+NHK World (日),https://www.youtube.com/@NHKWORLDJapan/live
+CNA亚洲新闻 (新),https://www.youtube.com/watch?v=XWq5kBlakcQ
+DW News (德),https://www.youtube.com/@dwnews/live
+Astro AWANI (马来西亚新闻),https://www.youtube.com/watch?v=mkVyNaGee8A
+CNN (美国新闻),https://www.youtube.com/watch?v=GotlA1KKWoo
+Yonhap News (韩国联合新闻),https://www.youtube.com/watch?v=6QZ_qc75ihU
+TBS NEWS DIG (日本新闻),https://www.youtube.com/watch?v=Anr15FA9OCI
+Nagoya TV News (名古屋),https://www.youtube.com/watch?v=-C6FE2m7kX8
+テレ朝NEWS (日本朝日),https://www.youtube.com/watch?v=coYw-eVU0Ks
+日テレNEWS (日本新闻),https://www.youtube.com/watch?v=t9kwjZBLI-A
+Berita RTM (马来西亚新闻),https://www.youtube.com/watch?v=2BtKvwKyCRA
+公視台語台,https://www.youtube.com/@TaiwaneseNews/live
+寰宇台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+CGTN中国环球,https://www.youtube.com/@CGTN/live
+TRT World (土),https://www.youtube.com/@trtworld/streams
+France 24 (法),https://www.youtube.com/@FRANCE24/live
+Al Jazeera (卡塔尔),https://www.youtube.com/@aljazeera/live
+Lofi Girl (音乐),https://www.youtube.com/@LofiGirl/live
+Chillhop Music (音乐),https://www.youtube.com/@ChillhopMusic/live
+CBC Music (加音乐),https://www.youtube.com/@CBCMusic/live
+NASA Live (科普),https://www.youtube.com/@NASA/live
+CCTV 中文 (央视综合),https://www.youtube.com/watch?v=vNVp6bxkL1c
+Singapore NDP (新加坡),https://www.youtube.com/watch?v=ipqTkEH3mhE
+LiveNOW from FOX (美国),https://www.youtube.com/watch?v=C96oohpWBGw
+ABC 7 New York (美国),https://www.youtube.com/watch?v=VrhYz4CL70I
+東森綜合台 (台湾),https://www.youtube.com/watch?v=cimbpAZUjzw
+KBS WORLD TV (韩国),https://www.youtube.com/watch?v=OxQQsIvJTTU
+八大劇樂部 (惡作劇之吻),https://www.youtube.com/watch?v=6lKL5znyZkc
