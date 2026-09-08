@@ -1,3 +1,167 @@
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-1 综合
+https://tv.cctv.com/live/cctv1/
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视;央视频" parse=1,CCTV-1 综合
+https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-2 财经
+https://tv.cctv.com/live/cctv2/
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视;央视频" parse=1,CCTV-2 财经
+https://yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-3 综艺
+https://tv.cctv.com/live/cctv3/
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-4 中文国际
+https://tv.cctv.com/live/cctv4/
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视;央视频" parse=1,CCTV-4 中文国际
+https://yangshipin.cn/tv/home?pid=600001814
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-5 体育
+https://tv.cctv.com/live/cctv5/
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视;央视频" parse=1,CCTV-5 体育
+https://yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-5+ 体育赛事
+https://tv.cctv.com/live/cctv5plus/
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视;央视频" parse=1,CCTV-5+ 体育赛事
+https://yangshipin.cn/tv/home?pid=600001817
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-6 电影
+https://tv.cctv.com/live/cctv6/
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视;央视频" parse=1,CCTV-6 电影
+https://yangshipin.cn/tv/home?pid=600108442
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-7 国防军事
+https://tv.cctv.com/live/cctv7/
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视;央视频" parse=1,CCTV-7 国防军事
+https://yangshipin.cn/tv/home?pid=600004092
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-8 电视剧
+https://tv.cctv.com/live/cctv8/
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视;央视频" parse=1,CCTV-8 电视剧
+https://yangshipin.cn/tv/home?pid=600001803
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-9 纪录
+https://tv.cctv.com/live/cctvjilu/
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视;央视频" parse=1,CCTV-9 纪录
+https://yangshipin.cn/tv/home?pid=600004078
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-10 科教
+https://tv.cctv.com/live/cctv10/
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视;央视频" parse=1,CCTV-10 科教
+https://yangshipin.cn/tv/home?pid=600001805
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-11 戏曲
+https://tv.cctv.com/live/cctv11/
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视;央视频" parse=1,CCTV-11 戏曲
+https://yangshipin.cn/tv/home?pid=600001806
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-12 社会与法
+https://tv.cctv.com/live/cctv12/
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视;央视频" parse=1,CCTV-12 社会与法
+https://yangshipin.cn/tv/home?pid=600001807
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-13 新闻
+https://tv.cctv.com/live/cctv13/
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视;央视频" parse=1,CCTV-13 新闻
+https://yangshipin.cn/tv/home?pid=600001811
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-14 少儿
+https://tv.cctv.com/live/cctvchild/
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视;央视频" parse=1,CCTV-14 少儿
+https://yangshipin.cn/tv/home?pid=600001809
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-15 音乐
+https://tv.cctv.com/live/cctv15/
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视;央视频" parse=1,CCTV-15 音乐
+https://yangshipin.cn/tv/home?pid=600001815
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-16 奥林匹克
+https://tv.cctv.com/live/cctv16/
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视;央视频" parse=1,CCTV-16 奥林匹克
+https://yangshipin.cn/tv/home?pid=600098637
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-17 农业农村
+https://tv.cctv.com/live/cctv17/
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视;央视频" parse=1,CCTV-17 农业农村
+https://yangshipin.cn/tv/home?pid=600001810
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4欧洲.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-4 中文国际 (欧)
+https://tv.cctv.com/live/cctveurope/index.shtml
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4美洲.png" group-title="央视;央视网" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" parse=1,CCTV-4 中文国际 (美)
+https://tv.cctv.com/live/cctvamerica/
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="央视;央视频" parse=1,CGTN英语
+https://yangshipin.cn/tv/home?pid=600014550
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="央视;央视频" parse=1,CGTN记录
+https://yangshipin.cn/tv/home?pid=600084781
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="央视;央视频" parse=1,CGTN俄语
+https://yangshipin.cn/tv/home?pid=600084758
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="央视;央视频" parse=1,CGTN法语
+https://yangshipin.cn/tv/home?pid=600084704
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN西语.png" group-title="央视;央视频" parse=1,CGTN西语
+https://yangshipin.cn/tv/home?pid=600084744
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN阿语.png" group-title="央视;央视频" parse=1,CGTN阿语
+https://yangshipin.cn/tv/home?pid=600084782
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视;央视频" parse=1,CCTV 风云剧场
+https://yangshipin.cn/tv/home?pid=600099658
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视;央视频" parse=1,CCTV 第一剧场
+https://yangshipin.cn/tv/home?pid=600099655
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视;央视频" parse=1,CCTV 怀旧剧场
+https://yangshipin.cn/tv/home?pid=600099620
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视;央视频" parse=1,北京卫视
+https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视;央视频" parse=1,江苏卫视
+https://yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视;央视频" parse=1,东方卫视
+https://yangshipin.cn/tv/home?pid=600002483
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视;央视频" parse=1,浙江卫视
+https://yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视;央视频" parse=1,湖南卫视
+https://yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视;央视频" parse=1,湖北卫视
+https://yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视;央视频" parse=1,广东卫视
+https://yangshipin.cn/tv/home?pid=600002485
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视;央视频" parse=1,广西卫视
+https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视;央视频" parse=1,黑龙江卫视
+https://yangshipin.cn/tv/home?pid=600002498
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视;央视频" parse=1,海南卫视
+https://yangshipin.cn/tv/home?pid=600002506
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视;央视频" parse=1,重庆卫视
+https://yangshipin.cn/tv/home?pid=600002531
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视;央视频" parse=1,深圳卫视
+https://yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视;央视频" parse=1,四川卫视
+https://yangshipin.cn/tv/home?pid=600002516
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视;央视频" parse=1,河南卫视
+https://yangshipin.cn/tv/home?pid=600002525
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东卫视
+https://www.gdtv.cn/tvChannelDetail/43
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东珠江
+https://www.gdtv.cn/tvChannelDetail/44
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东新闻
+https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东民生.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东民生
+https://www.gdtv.cn/tvChannelDetail/48
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东体育
+https://www.gdtv.cn/tvChannelDetail/47
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,大湾区卫视
+https://www.gdtv.cn/tvChannelDetail/51
+#EXTINF:-1 tvg-name="大湾区卫视（海外版）" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,大湾区卫视（海外版）
+https://www.gdtv.cn/tvChannelDetail/46
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东影视.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东影视
+https://www.gdtv.cn/tvChannelDetail/53
+#EXTINF:-1 tvg-name="4K超高清" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东4K.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,4K超高清
+https://www.gdtv.cn/tvChannelDetail/16
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东少儿.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东少儿
+https://www.gdtv.cn/tvChannelDetail/54
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,嘉佳卡通
+https://www.gdtv.cn/tvChannelDetail/66
+#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/南方购物.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,南方购物
+https://www.gdtv.cn/tvChannelDetail/42
+#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/岭南戏曲.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,岭南戏曲
+https://www.gdtv.cn/tvChannelDetail/15
+#EXTINF:-1 tvg-name="广东移动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东移动.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东移动
+https://www.gdtv.cn/tvChannelDetail/74
+#EXTINF:-1 tvg-name="荔枝台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/荔枝台.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,荔枝台
+https://www.gdtv.cn/tvChannelDetail/100
+#EXTINF:-1 tvg-name="纪录片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,纪录片
+https://www.gdtv.cn/tvChannelDetail/94
+#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/GRTN健康频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,GRTN健康频道
+https://www.gdtv.cn/tvChannelDetail/99
+#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/GRTN文化频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,GRTN文化频道
+https://www.gdtv.cn/tvChannelDetail/75
+#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/GRTN生活频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,GRTN生活频道
+https://www.gdtv.cn/tvChannelDetail/102
+#EXTINF:-1 tvg-name="GRTN教育频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/GRTN教育频道.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,GRTN教育频道
+https://www.gdtv.cn/tvChannelDetail/104
+#EXTINF:-1 tvg-name="广东新闻广播" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东新闻广播.png" group-title="广东" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0" parse=1,广东新闻广播
+https://www.gdtv.cn/audioChannelDetail/85
+
 #EXTM3U x-tvg-url="https://iptv.yang-1989.xyz/epg.xml.gz"
 #EXT-X-APTV-PREVIEW: FALSE
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="「Juli」",翡翠台
@@ -1686,6 +1850,56 @@ https://www.youtube.com/watch?v=OxQQsIvJTTU
 
 #EXTINF:-1 tvg-id="gtv_drama" tvg-name="八大劇樂部 (惡作劇之吻)" group-title="YouTube" parse=1,八大劇樂部 (惡作劇之吻)
 https://www.youtube.com/watch?v=6lKL5znyZkc
+
+#EXTM3U
+#EXTINF:-1 group-title="欧菲",中視
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="欧菲",華視
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="欧菲",好消息2台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-ftv17
+#EXTINF:-1 group-title="欧菲",好消息
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-ftv16
+#EXTINF:-1 group-title="欧菲",ELTV生活英語台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang20
+#EXTINF:-1 group-title="欧菲",龍華卡通台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang01
+#EXTINF:-1 group-title="欧菲",亞洲旅遊台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv076
+#EXTINF:-1 group-title="欧菲",Smart知識台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang19
+#EXTINF:-1 group-title="欧菲",龍華戲劇台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang18
+#EXTINF:-1 group-title="欧菲",台灣戲劇台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang22
+#EXTINF:-1 group-title="欧菲",東森購物1台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv102
+#EXTINF:-1 group-title="欧菲",龍華偶像台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang12
+#EXTINF:-1 group-title="欧菲",龍華日韓台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-xinchuang11
+#EXTINF:-1 group-title="欧菲",東森購物2台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv103
+#EXTINF:-1 group-title="欧菲",華視新聞
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="欧菲",鏡電視新聞台
+https://ha.msbot.dpdns.org/ofiii.php?id=mnews
+#EXTINF:-1 group-title="欧菲",三立新聞LIVE
+https://ha.msbot.dpdns.org/ofiii.php?id=setnews
+#EXTINF:-1 group-title="欧菲",三立新聞iNEWS
+https://ha.msbot.dpdns.org/ofiii.php?id=iNEWS
+#EXTINF:-1 group-title="欧菲",寰宇財經台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv158
+#EXTINF:-1 group-title="欧菲",中視新聞
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="欧菲",中天新聞台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="欧菲",寰宇新聞台灣台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv156
+#EXTINF:-1 group-title="欧菲",寰宇新聞台
+https://ha.msbot.dpdns.org/ofiii.php?id=litv-longturn14
+#EXTINF:-1 group-title="欧菲",第1商業台
+https://ha.msbot.dpdns.org/ofiii.php?id=4gtv-4gtv104
 
 #EXTM3U
 #EXTINF:-1 group-title="TW怡淳211",頻道總覽表
