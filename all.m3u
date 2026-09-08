@@ -1,203 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv.yang-1989.xyz/epg.xml.gz"
 #EXT-X-APTV-PREVIEW: FALSE
-#EXT-X-APTV-LATENCY: FALSE
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="央視.卫视",CCTV 1 綜合「Relay」
-https://iptv.yang-1989.xyz/cn/36mj6y?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="央視.卫视",CCTV 2 財經「Relay」
-https://iptv.yang-1989.xyz/cn/2738gk?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="央視.卫视",CCTV 3 綜藝「Relay」
-https://iptv.yang-1989.xyz/cn/94daeg?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="央視.卫视",CCTV 4 中文國際「Relay」
-https://iptv.yang-1989.xyz/cn/mvczjm?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="央視.卫视",CCTV 5 體育「Relay」
-https://iptv.yang-1989.xyz/cn/b4ufj9?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="央視.卫视",CCTV 5+ 體育賽事「Relay」
-https://iptv.yang-1989.xyz/cn/cf5qdt?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="央視.卫视",CCTV 6 電影「Relay」
-https://iptv.yang-1989.xyz/cn/4yvwy7?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="央視.卫视",CCTV 7 國防軍事「Relay」
-https://iptv.yang-1989.xyz/cn/gfgmvx?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="央視.卫视",CCTV 8 電視劇「Relay」
-https://iptv.yang-1989.xyz/cn/tvj3ds?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="央視.卫视",CCTV 9 記錄「Relay」
-https://iptv.yang-1989.xyz/cn/s4edsf?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="央視.卫视",CCTV 10 科教「Relay」
-https://iptv.yang-1989.xyz/cn/7pa58t?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="央視.卫视",CCTV 11 戲曲「Relay」
-https://iptv.yang-1989.xyz/cn/wtuzkx?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="央視.卫视",CCTV 12 社會與法「Relay」
-https://iptv.yang-1989.xyz/cn/s63n2z?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="央視.卫视",CCTV 13 新聞「Relay」
-https://iptv.yang-1989.xyz/cn/f6ryam?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="央視.卫视",CCTV 14 少兒「Relay」
-https://iptv.yang-1989.xyz/cn/ywh4nc?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV15.webp" group-title="央視.卫视",CCTV 15 音樂「Relay」
-https://iptv.yang-1989.xyz/cn/vg6u3z?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV16.webp" group-title="央視.卫视",CCTV 16 奧林匹克「Relay」
-https://iptv.yang-1989.xyz/cn/uv5y5n?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV17.webp" group-title="央視.卫视",CCTV 17 農村農業「Relay」
-https://iptv.yang-1989.xyz/cn/rddfw9?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/北京卫视.webp" group-title="央視.卫视",北京衛視「Relay」
-https://iptv.yang-1989.xyz/cn/e5b4ky?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东方卫视.webp" group-title="央視.卫视",東方衛視「Relay」
-https://iptv.yang-1989.xyz/cn/789ptx?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广东卫视.webp" group-title="央視.卫视",廣東衛視「Relay」
-https://iptv.yang-1989.xyz/cn/7mdktt?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/浙江卫视.webp" group-title="央視.卫视",浙江衛視「Relay」
-https://iptv.yang-1989.xyz/cn/7qgthw?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江苏卫视.webp" group-title="央視.卫视",江蘇衛視「Relay」
-https://iptv.yang-1989.xyz/cn/rcdtsh?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖南卫视.webp" group-title="央視.卫视",湖南衛視「Relay」
-https://iptv.yang-1989.xyz/cn/r8njqy?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/四川卫视.webp" group-title="央視.卫视",四川衛視「Relay」
-https://iptv.yang-1989.xyz/cn/qa8dvp?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="香港" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.8",鳳凰衛視·中文「72小时回看」
-#EXTVLCOPT:http-user-agent=okhttp/3.8
-https://iptv.yang-1989.xyz/phoenix/zmn6cj?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="香港" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.8",鳳凰衛視·資訊「72小时回看」
-#EXTVLCOPT:http-user-agent=okhttp/3.8
-https://iptv.yang-1989.xyz/phoenix/n3zjmb?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="香港" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.8",鳳凰衛視·香港「72小时回看」
-#EXTVLCOPT:http-user-agent=okhttp/3.8
-https://iptv.yang-1989.xyz/phoenix/57arsz?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="香港" catchup="append" catchup-days="1" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台「24小时回看」
-https://iptv.yang-1989.xyz/hk/xb6s4b?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp" group-title="香港",無綫新聞台
-https://iptv.yang-1989.xyz/hk/3ka64z?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://iptv.yang-1989.xyz/logo/明珠台.webp" group-title="香港",明珠台
-https://iptv.yang-1989.xyz/hk/rxazry?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Plus.webp" group-title="香港",TVB Plus
-https://iptv.yang-1989.xyz/hk/c3mn4w?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/美亞電影台.webp" group-title="香港",美亞電影台
-https://iptv.yang-1989.xyz/hk/euuac9?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://iptv.yang-1989.xyz/logo/PopC.webp" group-title="香港",PopC
-https://iptv.yang-1989.xyz/hk/ramdn7?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://iptv.yang-1989.xyz/logo/ViuTV.webp" group-title="香港",ViuTV
-https://iptv.yang-1989.xyz/hk/zr92hy?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://iptv.yang-1989.xyz/logo/ViuTVsix.webp" group-title="香港",ViuTVsix
-https://iptv.yang-1989.xyz/hk/ytn8dq?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now直播台.webp" group-title="香港",Now直播台
-https://iptv.yang-1989.xyz/hk/fbpzny?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now新聞台.webp" group-title="香港",Now新聞台
-https://iptv.yang-1989.xyz/hk/qzqxg5?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now財經台.webp" group-title="香港",Now財經台
-https://iptv.yang-1989.xyz/hk/vsv6mu?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://iptv.yang-1989.xyz/logo/Now%20Sports%20精選.webp" group-title="香港",Now Sports 精選
-https://iptv.yang-1989.xyz/hk/utszfd?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-name="Now Sports 英超2台" tvg-logo="https://iptv.yang-1989.xyz/logo/Now%20Sports%20英超2台.webp" group-title="香港",Now Sports 英超
-https://iptv.yang-1989.xyz/hkg/yt8x9c?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://iptv.yang-1989.xyz/logo/商業電台%20雷霆881.webp" group-title="香港",雷霆881「電台」
-https://iptv.yang-1989.xyz/hkg/9pvdck?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://iptv.yang-1989.xyz/logo/商業電台%20叱咤903.webp" group-title="香港",叱咤903「電台」
-https://iptv.yang-1989.xyz/hkg/cbk64u?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="商業電台 AM864" tvg-name="商業電台 AM864" tvg-logo="https://iptv.yang-1989.xyz/logo/商業電台%20AM864.webp" group-title="香港",AM864「電台」
-https://iptv.yang-1989.xyz/hkg/d3a967?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20國際財經台.webp" group-title="香港",HOY 國際財經台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20TV.webp" group-title="香港",HOY TV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20資訊台.webp" group-title="香港",HOY 資訊台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK31.webp" group-title="香港",RTHK 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK32.webp" group-title="香港",RTHK 32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK33.webp" group-title="香港",RTHK 33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門衛星.webp" group-title="香港",澳門衛星
-https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門葡萄牙.webp" group-title="香港",澳門葡文
-https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視澳門.webp" group-title="香港",澳視澳門
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門資訊.webp" group-title="香港",澳門資訊
-https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="香港",澳門體育
-https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門綜藝.webp" group-title="香港",澳門綜藝
-https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來日本台.webp" group-title="台灣",緯來日本「Relay」
-https://iptv.yang-1989.xyz/tw/g38g9c?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來體育台.webp" group-title="台灣",緯來體育「Relay」
-https://iptv.yang-1989.xyz/tw/5m82zd?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來電影台.webp" group-title="台灣",緯來電影「Relay」
-https://iptv.yang-1989.xyz/tw/pbubjp?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來綜合台.webp" group-title="台灣",緯來綜合「Relay」
-https://iptv.yang-1989.xyz/tw/5nbzj6?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來戲劇台.webp" group-title="台灣",緯來戲劇「Relay」
-https://iptv.yang-1989.xyz/tw/5nyy49?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來育樂台.webp" group-title="台灣",緯來育樂「Relay」
-https://iptv.yang-1989.xyz/tw/uj3dvc?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育1台.webp" group-title="台灣",愛爾達體育 一
-https://iptv.yang-1989.xyz/tw/f2dysd?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育2台.webp" group-title="台灣",愛爾達體育 二
-https://iptv.yang-1989.xyz/tw/petszh?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育3台.webp" group-title="台灣",愛爾達體育 三
-https://iptv.yang-1989.xyz/tw/z7p35e?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="https://iptv.yang-1989.xyz/logo/愛爾達體育4台.webp" group-title="台灣",愛爾達體育 四
-https://iptv.yang-1989.xyz/tw/mhz7j5?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://iptv.yang-1989.xyz/logo/DAZN%201.webp" group-title="台灣",DAZN 1
-https://iptv.yang-1989.xyz/tw/qy7cav?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://iptv.yang-1989.xyz/logo/DAZN%202.webp" group-title="台灣",DAZN 2
-https://iptv.yang-1989.xyz/tw/t8jxpw?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/年代新聞台.webp" group-title="台灣",年代新聞「Relay」
-https://iptv.yang-1989.xyz/tw/xg4vxu?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天亞洲台.webp" group-title="台灣",中天亞洲「Relay」
-https://iptv.yang-1989.xyz/tw/s54r3y?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天綜合台.webp" group-title="台灣",中天綜合「Relay」
-https://iptv.yang-1989.xyz/tw/p6nknj?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天娛樂台.webp" group-title="台灣",中天娛樂「Relay」
-https://iptv.yang-1989.xyz/tw/r5rr9f?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森電影台.webp" group-title="台灣",東森電影「Relay」
-https://iptv.yang-1989.xyz/tw/hpdfnx?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森洋片台.webp" group-title="台灣",東森洋片「Relay」
-https://iptv.yang-1989.xyz/tw/z5dv97?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森綜合台.webp" group-title="台灣",東森綜合「Relay」
-https://iptv.yang-1989.xyz/tw/84cbkp?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森戲劇台.webp" group-title="台灣",東森戲劇「Relay」
-https://iptv.yang-1989.xyz/tw/kx67x8?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://iptv.yang-1989.xyz/logo/東森幼幼台.webp" group-title="台灣",東森幼幼「Relay」
-https://iptv.yang-1989.xyz/tw/23pq5d?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://iptv.yang-1989.xyz/logo/台視.webp" group-title="台灣",台視「Relay」
-https://iptv.yang-1989.xyz/tw/gdvwp3?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="MTV綜合台" tvg-name="MTV綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/MTV綜合台.webp" group-title="台灣",MTV綜合台「Relay」
-https://iptv.yang-1989.xyz/tw/tv8kcz?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://iptv.yang-1989.xyz/logo/動物星球.webp" group-title="台灣",動物星球「Relay」
-https://iptv.yang-1989.xyz/tw/8nctfb?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/CATCHPLAY電影台.webp" group-title="台灣",CATCHPLAY 電影「Relay」
-https://iptv.yang-1989.xyz/tw/4tthqm?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="https://iptv.yang-1989.xyz/logo/龍祥時代.webp" group-title="台灣",龍祥時代「Relay」
-https://iptv.yang-1989.xyz/tw/cgjydp?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/好萊塢電影台.webp" group-title="台灣",好萊塢電影「Relay」
-https://iptv.yang-1989.xyz/tw/mczv85?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://iptv.yang-1989.xyz/logo/CINEMAX.webp" group-title="台灣",CINEMAX「Relay」
-https://iptv.yang-1989.xyz/tw/nytj32?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華偶像台.webp" group-title="台灣",龍華偶像「ofiii」
-https://iptv.yang-1989.xyz/ofiii/2azmpq?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華卡通台.webp" group-title="台灣",龍華卡通「ofiii」
-https://iptv.yang-1989.xyz/ofiii/qgq2f3?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華戲劇台.webp" group-title="台灣",龍華戲劇「ofiii」
-https://iptv.yang-1989.xyz/ofiii/dwedkn?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華日韓台.webp" group-title="台灣",龍華日韓「ofiii」
-https://iptv.yang-1989.xyz/ofiii/r66xwv?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華洋片台.webp" group-title="台灣",龍華洋片「ofiii」
-https://iptv.yang-1989.xyz/ofiii/wp369f?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華經典台.webp" group-title="台灣",龍華經典「ofiii」
-https://iptv.yang-1989.xyz/ofiii/mthrkb?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/龍華電影台.webp" group-title="台灣",龍華電影「ofiii」
-https://iptv.yang-1989.xyz/ofiii/8jfjtk?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/中天新聞台.webp" group-title="台灣",中天新聞「ofiii」
-https://iptv.yang-1989.xyz/ofiii/kt2fxp?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://iptv.yang-1989.xyz/logo/台灣戲劇台.webp" group-title="台灣",台灣戲劇「ofiii」
-https://iptv.yang-1989.xyz/ofiii/w54mgx?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://iptv.yang-1989.xyz/logo/寰宇財經台.webp" group-title="台灣",寰宇財經「ofiii」
-https://iptv.yang-1989.xyz/ofiii/tremha?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://iptv.yang-1989.xyz/logo/DayStar.webp" group-title="台灣",DayStar「ofiii」
-https://iptv.yang-1989.xyz/ofiii/2gcxta?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="第1商業" tvg-name="第1商業" tvg-logo="https://iptv.yang-1989.xyz/logo/第1商業.webp" group-title="台灣",第1商業「ofiii」
-https://iptv.yang-1989.xyz/ofiii/snf55u?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://iptv.yang-1989.xyz/logo/Smart知識台.webp" group-title="台灣",Smart知識「ofiii」
-https://iptv.yang-1989.xyz/ofiii/dzdkm6?token=0c6a5ac5bbc3a11e673c13666a2f299a82ae72813b48d8e9
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="「Juli」",翡翠台
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="「Juli」",翡翠台 4K「字幕」
@@ -2127,3 +1929,586 @@ https://hb.msbot.dpdns.org/?id=nhk-world
 https://hb.msbot.dpdns.org/?id=dw
 #EXTINF:-1 group-title="myvideo",CBeebies
 https://hb.msbot.dpdns.org/?id=bbc-cbeebies
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/refs/heads/main/koreatvEPG.xml,https://raw.githubusercontent.com/dbghelp/Dummy-EPG/refs/heads/main/dummy.xml,https://github.com/darkbrow/iptv_kr/raw/refs/heads/main/kr_epg.xml,https://iptv-epg.org/files/epg-kr.xml"
+
+[Korean TV channels - stable version]
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRvOnuXX5lRhIr5OUmJhr2jFHHt594c7b2YerRJ6vvg&s=10" group-title="테스트 채널", ABN Channel • 아름방송
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1LAwdA0fNWG1gxRipc9oWc4B8gQ7kMta9Fpt22_GZKha0bsGBgCJcjcc&s=10" group-title="테스트 채널", Arirang TV • 아리랑 TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/79/2c/e8/792ce883-5e48-7c4d-ff81-ac69b069cdf4/f7253474-5c6f-4411-aeac-0f3c98fe0957.png/1200x1200bf-60.jpg" group-title="테스트 채널", Arirang Radio • 아리랑 라디오
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Buddhist_Broadcasting_System_logo.png" group-title="테스트 채널", BBS TV • BBS 불교방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg" group-title="테스트 채널", BTN TV • BTN 불교
+https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="http://www.btn.co.kr/images/main/fs_05.jpg" group-title="테스트 채널", BTN TV • BTN 불교 (v2)
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCvHxGG2rjV831Koe-DdZkjtf8KKFDiRiIA&s" group-title="테스트 채널", Channel A (OnDemandKorea)
+https://amg01923-amg01923c86-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c86-amgplt0187/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULft5AmiGaIzwRat96TjMr1HDpXjjIVdTOA&s" group-title="테스트 채널", Channel i • 채널i
+http://1.201.160.177:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJ온스타일" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png" group-title="테스트 채널", CJ OnStyle • CJ 온스타일
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJ온스타일플러스" tvg-logo="https://company.cjonstyle.com/images/cjonstyle/imgIntroLogoSystem.png" group-title="테스트 채널", CJ OnStyle+ • CJ 온스타일+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZR6nhnbzksExbkf2fSXuVq4gE6k7DI1nhaA&s" group-title="테스트 채널", CTS TV Korea • CTS 기독교
+http://schedule.zroad.tv:1935/live/ctstv/master.m3u8
+
+#EXTINF:-1 tvg-id="EBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/3840px-EBS_1TV_Logo.svg.png" group-title="테스트 채널", EBS 1 • EBS 제1텔레비전
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/3840px-EBS_1TV_Logo.svg.png" group-title="테스트 채널", EBS 1TV • EBS 제1텔레비전
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/3840px-EBS_1TV_Logo.svg.png" group-title="테스트 채널", EBS 1 (OnDemandKorea)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01923-odkmedia-lifestyleandculture1-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS2" tvg-logo="https://logowik.com/content/uploads/images/ebs2-20181732222753.logowik.com.webp" group-title="테스트 채널", EBS 2TV • EBS 제2텔레비전
+http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS플러스1" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png" group-title="테스트 채널", EBS+ 1 • EBS 플러스 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS플러스2" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="테스트 채널", EBS+ 2 • EBS 플러스 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWkj9_z2Va5bDN_20ivK3H5tN4PE9AUSvsEp0Vh5RRmT2XcxY8xcvTnbaS&s=10" group-title="테스트 채널", EBS English • EBS E
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71H6l5R_FmHgDIssaG6vTSdOZfV1Cg3ZR3g&s" group-title="테스트 채널", EBS FMTV
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS KIDS" tvg-logo="https://logowik.com/content/uploads/images/ebs-kids1732222839.logowik.com.webp" group-title="테스트 채널", EBS Kids • EBS 키즈
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="G1 방송" tvg-logo="https://i.namu.wiki/i/raR6SK6Jnbzq8FNzOA2DC2Wlg5dpV0KfwDsWY5F02A-7RN5iNkH7nTBxDnrnxs5NrtsbwRYYBgyZEwBJqTzwTg.webp" group-title="테스트 채널", G1-SBS • G1 방송
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5K_umNA-IxqT2dM_vnkkTDoxsJlnQcxpbQ&s" group-title="테스트 채널", GCN24 Korea • GCN24 방송
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://play-lh.googleusercontent.com/GUpUMSk51VT2TBsc0GKpH8g_fa9Htn37v2HRxsxyIfy-upsrdlpC2zKaaoEPlj1SSA" group-title="테스트 채널", GOODTV Korea • GOODTV 기독교복음방송
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="공영쇼핑" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ca/72/d6ca72b6-fa61-5563-3197-7640c84056a0/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/1200x630wa.png" group-title="테스트 채널", Gongyoung Shopping TV • 공영쇼핑
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KFN" tvg-logo="https://velloflix.com/wp-content/uploads/2025/11/maxresdefault-96.jpg" group-title="테스트 채널", Gugbang TV - KFN • 국방 TV 
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="국악방송" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlb9w4K8DN5cWvG1L4GAkkoMygGcEOfF3hAA&s" group-title="테스트 채널", Gugak TV • 국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GS SHOP" tvg-logo="https://needl.co/app/sites/all/custom/resources/company/300/39511/gs-shop.jpg" group-title="테스트 채널", GS Shop • GS 마이샵
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GS마이샵" tvg-logo="https://needl.co/app/sites/all/custom/resources/company/300/39511/gs-shop.jpg" group-title="테스트 채널", GS MY Shop • GS MY 마이샵
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQ0oBXoVE6ssiuMxSECpEk6lwvyH4GgkoVg&s" group-title="테스트 채널", Hankyung TV • 한국경제TV
+http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="홈&쇼핑" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpztwJv4QsOLU4RPp6ZRhnSMz8cLi4pNZ--A&s" group-title="테스트 채널", Home & Shopping TV • 홈&쇼핑
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="현대홈쇼핑" tvg-logo="https://file.mk.co.kr/meet/neds/2023/04/image_readtop_2023_309241_16820536225440644.jpg" group-title="테스트 채널", Hyundai Home Shopping • 현대홈쇼핑
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="현대홈쇼핑+샵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGpi9-tGueIfFmIkR4ddo_exikNtZKgxRFbw&s" group-title="테스트 채널", Hyundai Home Shopping Plus • 현대홈쇼핑+
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://static.mytuner.mobi/media/radios-150px/NRMvxK4SzP.jpg" group-title="테스트 채널", JIBS FMTV (LQ)
+http://123.140.197.22/stream/2/play.m3u8
+
+#EXTINF:-1 tvg-id="JIBS 제주방송" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwbtNuFfKwXaDxszka3SRoX-2nOBkwh4KTUec57J-3ONUOOAIbHUvSVyf&s=10" group-title="테스트 채널", JIBS-SBS (Digital)
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8im2EIx7v05Oo0dsgg2grMJ8bXFwP6uPhmJsThhfEjSPzZJRRvsfgeQ&s=10" group-title="테스트 채널", JJCTV • 지방자치TV
+http://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8im2EIx7v05Oo0dsgg2grMJ8bXFwP6uPhmJsThhfEjSPzZJRRvsfgeQ&s=10" group-title="테스트 채널", JJCTV HD • 지방자치TV
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_426_5FDDD1E3.m3u8
+
+#EXTINF:-1 tvg-id="JTBCGOLFAndSPORTS.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbTGE-LwRl0u1_8NjVU7n5xpr6BOrFn9DD_P9R5BOIQ&s=10" group-title="테스트 채널", JTBC Sports • JTBC 스포츠
+http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
+
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2020/3/23/1584964694173_178117.jpg" group-title="테스트 채널", KBS Drama • KBS 드라마
+http://koreatv.dothome.co.kr/kbsdrama.php
+
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_0b9gbd79dclkkh7g2f7dide77746a_240x149.jpg" group-title="테스트 채널", KBS Joy • KBS 조이
+http://koreatv.dothome.co.kr/kbsjoy.php
+
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3LxyHcrnDcowMq1fin9Ah7yq_ob7pANs2ZA&s" group-title="테스트 채널", KBS Kids • KBS 키즈
+http://koreatv.dothome.co.kr/kbskids.php
+
+#EXTINF:-1 tvg-id="KBSLIFE.kr" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/5/28/1622175270507_252276.jpg" group-title="테스트 채널", KBS Life • KBS 라이프
+http://koreatv.dothome.co.kr/kbslife.php
+
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://i.ytimg.com/vi/yGufjOTdmBk/maxresdefault.jpg" group-title="테스트 채널", KBS Story • KBS 스토리
+http://koreatv.dothome.co.kr/kbsstory.php
+
+#EXTINF:-1 tvg-id="KTV 국민방송" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReAb3C7jKPsWq6NyH0BLenz-PPppwzocRBA&s" group-title="테스트 채널", Korea TV • KTV 국민방송 
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV 국민방송" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReAb3C7jKPsWq6NyH0BLenz-PPppwzocRBA&s" group-title="테스트 채널", Korea TV • KTV 국민방송 (v2)
+https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="롯데홈쇼핑" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-5fG5XkmCn6Br31e26zLPBBxoLursqsAiTA&s" group-title="테스트 채널", Lotte Home Shopping • 롯데홈쇼핑
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-id="롯데 OneTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwgBAVka6t6HSTjs_1nHPeQ35u8o7RLEToQ&s" group-title="테스트 채널", Lotte One • 롯데원
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 tvg-id="MBC" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="테스트 채널", MBC (Digital)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="테스트 채널", MBC (FHD+)
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://yt3.googleusercontent.com/A63zXzK-h1PtD8D0L0YB-qCvxdZl6fcvizcqBOZCo4YwiLg3ynsNE0v0ocB_e6uuhq4P-erweg=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", MBC EVERY1 (OnDemandKorea)
+https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg?v=641c1dc7&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBkFWutEyJSrYwY5wCtE_lQvLTng" group-title="테스트 채널", MBN Money TV • 매일경제TV
+http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://i.ytimg.com/vi/s9xL1DpBsfQ/hq720.jpg?v=641c1dc7&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDBkFWutEyJSrYwY5wCtE_lQvLTng" group-title="테스트 채널", MBN Money TV HD • 매일경제TV
+http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBS한국농업방송" tvg-logo="https://yt3.googleusercontent.com/YDcKsNfyTGI1_k2rxowFSoYErNON6ade0nkvPXoHnyTZxIfEW3vfpE5V04i30NTwf0VH8mvz=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", NBS TV • 한국농업방송
+https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBS한국농업방송" tvg-logo="https://yt3.googleusercontent.com/YDcKsNfyTGI1_k2rxowFSoYErNON6ade0nkvPXoHnyTZxIfEW3vfpE5V04i30NTwf0VH8mvz=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", NBS TV • 한국농업방송 (v2)
+http://media.joycorp.co.kr:1935/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbgEeV8EU9yN-UuK9LPwNGSg9ZnJKcqDD-w&s" group-title="테스트 채널", Nonghyup TV • NHTV 농협방송
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NS홈쇼핑" tvg-logo="https://image.ajunews.com/content/image/2020/05/07/20200507105021909945.jpg" group-title="테스트 채널", NS Home Shopping • NS 홈쇼핑
+http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-id="NS Shop+" tvg-logo="https://i.namu.wiki/i/d1WMVMn0lRnhZPJ1XsCHBWgxmavj80Qli9IqITMH9lD_D6FIe7gH5cz3SGW_igbVvrJVltHVO8fj-TuD9Q2ydQ.webp" group-title="테스트 채널", NS Shop+ • NS 홈쇼핑+
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
+
+#EXTINF:-1 tvg-id="OBS 경인TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBbaDGjulVazlg8whLtbCHL6WnqmL-YNoMQ&s" group-title="테스트 채널", OBS Gyeongin • OBS 경인TV
+https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OBS 경인TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBbaDGjulVazlg8whLtbCHL6WnqmL-YNoMQ&s" group-title="테스트 채널", OBS Gyeongin TV • OBS 경인TV (v2)
+https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4dqcJyMGoBLJ3PTrg8BbtT95ZoGDgBkxbQ&s" group-title="테스트 채널", OUN Broadcasting University TV • OUN 방송대학 TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://i.ytimg.com/vi/g_AuNnv8Pow/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkE7ca0NT6Cr1OnZs5KqOnWL7Wnw" group-title="테스트 채널", RNA TV • 채널 RNA
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://i.ytimg.com/vi/g_AuNnv8Pow/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAkE7ca0NT6Cr1OnZs5KqOnWL7Wnw" group-title="테스트 채널", RNA TV Backup • 채널 RNA
+http://10st.vcast.im/CHsoom/LIVE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://yt3.googleusercontent.com/0kdhQmQiR_TeEkRU0kZwnrM2xr4DZ_Jzs8sS9WRP-akBQvmORcowT03gPWRDdCROgalXJg_KeA=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", RUTC.TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mtqgXVzNO58ODd3vO9Y0zyBohQ9E3raNRsbmeDOc7DxuA=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", SCS TV08 • SCS 서경방송
+http://live.iscs.co.kr:1935/m_live/480p.stream/chunklist_w1805076787.m3u8
+
+#EXTINF:-1 tvg-id="쇼핑엔티" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDNA6yTr51-ONjAqqfDhbSOeIJTXU0vHEacA&s" group-title="테스트 채널", Shopping NT Mall • 쇼핑엔티
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-id="신세계쇼핑" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSwiQ3q4fDKfosmZv-uMGGHdL7uOHck0DXw&s" group-title="테스트 채널", Shinsegae Shopping TV • 신세계쇼핑
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNr7y9L8n0aVrDP_1e3UJeNIuK1c8EppDLwg&s" group-title="테스트 채널", Silver iTV • 실버아이TV
+http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SKstoa.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsASwS8eFTtOYLh2NJPvdU6SxGgY7xBngOFQ&s" group-title="테스트 채널", SK Stoa • SK스토아
+http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
+
+#EXTINF:-1 tvg-id="SKstoa.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsASwS8eFTtOYLh2NJPvdU6SxGgY7xBngOFQ&s" group-title="테스트 채널", SK Stoa HD • SK스토아
+http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SKstoa.kr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsASwS8eFTtOYLh2NJPvdU6SxGgY7xBngOFQ&s" group-title="테스트 채널", SK Stoa SD • SK스토아 
+http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://i.namu.wiki/i/dktR5dv3ufIdnsSUFecuP1JWbuikxLOVqJ6oVfSnMrcbPvE8Lmvs0b1YCqdlrhUk4g4OjGwXrRqmzlk1AVwgWg.webp" group-title="테스트 채널", TBS FM Seoul (FMTV)
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://yt3.googleusercontent.com/5kZPLkGa1K_E8Zd1cEOXPwSiTRQNnDUiaPqAstViQBK1vjLNMCVsQ0ayeQ102w91P3nq3IrKJw=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", TBS eFM Seoul (FMTV)
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_720.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tbsTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIoACTfEJEOq8tJZ8hvHmL6eerzaYCrLGs0g&s" group-title="테스트 채널", TBS Seoul • 교통방송
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JIYFGTBJl0O-gF8ndRSf3_q1yg9aFYY_ww&s" group-title="테스트 채널", TV Chosun (ODK)
+https://amg01923-amg01923c85-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c85-amgplt0187/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV CHOSUN2" tvg-logo="https://image.xportsnews.com/contents/images/upload/article/2017/0725/1500969539451745.png" group-title="테스트 채널", TV Chosun 2 (Digital)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://yt3.googleusercontent.com/SMAp7ZQGqd7uRgTU3Q-oNZ7ucMJrpKbbpToyCBALVfEHqVqTbF85Lu6UdmLyRKF407RFSjzu=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", tvN KR (FHD+)
+https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://web-cf-image.cjenm.com/crop/1344x756/public/share/metamng/boards/tvn-story.jpg?v=1654568281" group-title="테스트 채널", tvN STORY (OnDemandKorea)
+https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN%20Movies
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://image.edaily.co.kr/images/Photo/files/NP/S/2024/10/PS24100800007.jpg" group-title="테스트 채널", UBC FMTV (일시적으로 채널)
+https://stream.ubc.co.kr/hls/ubcfmstream/index.m3u8
+
+#EXTINF:-1 tvg-id="W쇼핑" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZtS13PHU4I97_26UFjTuAKMST15QYvT7Lw&s" group-title="테스트 채널", W Shopping • W쇼핑
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://lh6.googleusercontent.com/proxy/vw3BdeSLBdgb1I_b1j7P454KSAXywRTF-TNQ0mVy6UC_lutUJXKI_gNBjkeZRBUuRe9fEhssYTn4Cg" group-title="테스트 채널", WBS Buddhist TV • WBS원음방송
+http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_409.m3u8
+
+#EXTINF:-1 tvg-id="연합뉴스TV.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kFqbmXOoxJIaLVQYrJMB8gR8_LTF7Wm1lDpZbCmqhJh3U=s900-c-k-c0x00ffffff-no-rj" group-title="테스트 채널", Yonhap News TV (OnDemandKorea)
+https://amg01923-amg01923c146-amgplt0456.playout.now3.amagi.tv/playlist/amg01923-amg01923c146-amgplt0456/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_7dbd0d78-49b8-4a20-bf35-d3034fb92a63" group-title="테스트 채널", YTN (FHD+)
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
+
+#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://raw.githubusercontent.com/dbghelp/Dummy-EPG/refs/heads/main/dummy.xml,https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz,https://github.com/mathlabroom/SKyperfectv-EPG-/releases/download/latest/epg_ultimate.xml,https://raw.githubusercontent.com/dbghelp/JCOM-TV-EPG/refs/heads/main/jcom.xml"
+
+- RakutenTV チャンネル -
+
+#EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-logo="https://channel.rakuten.co.jp/service/img/ogp/logo_ogp.png?t=29420640" group-title="Rakuten-JP", 日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="108" tvg-id="rch_108" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" group-title="Rakuten-JP", FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_115" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" group-title="Rakuten-JP", MBS ニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="45" tvg-id="rch_45" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/107_whethernews.png" group-title="Rakuten-JP", ウェザーニュース LIVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+
+#EXTINF:-1 tvg-dt="88" tvg-id="rch_88" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" group-title="Rakuten-JP", TOKYOMX チャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="56" tvg-id="rch_56" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP", 共同通信News
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="101" tvg-id="rch_101" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png" group-title="Rakuten-JP", 日テレNEWSセレクト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="54" tvg-id="rch_54" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews_02.png" group-title="Rakuten-JP", オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="103" tvg-id="rch_103" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png" group-title="Rakuten-JP", Newsworld (Japan Sub)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="70" tvg-id="rch_70" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png" group-title="Rakuten-JP", Bloomberg TV+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="90" tvg-id="rch_90" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png" group-title="Rakuten-JP", ユーロニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_120" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png" group-title="Rakuten-JP", Reuters 60°
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/d654d70b-14e0-427d-bf97-7c010df88f04/0.m3u8
+
+#EXTINF:-1 tvg-dt="102" tvg-id="rch_102" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_qvc.png" group-title="Rakuten-JP", QVC TV (Rチャンネル)
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+
+#EXTINF:-1 tvg-id="rch_112" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png" group-title="Rakuten-JP", GSTV (Rチャンネル)
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8?ads.device_make=rchweb&ads.url=channel.rakuten.co.jp&ads.uuid=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.uid_rch=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.refid=0
+
+#EXTINF:-1 tvg-dt="89" tvg-id="rch_89" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png" group-title="Rakuten-JP", TOP BARÇA
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="75" tvg-id="rch_75" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/123_golf.png" group-title="Rakuten-JP", ゴルフ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="97" tvg-id="rch_97" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png" group-title="Rakuten-JP", 日ﾃﾚﾌﾟﾛﾚｽ ｱｰｶｲ部
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="49" tvg-id="rch_49" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png" group-title="Rakuten-JP", スカイ A - サプリ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="51" tvg-id="rch_51" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/130_gaorazero.png" group-title="Rakuten-JP", GAORA ZERO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="64" tvg-id="rch_64" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png" group-title="Rakuten-JP", FUELTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="73" tvg-id="rch_73" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png" group-title="Rakuten-JP", 手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="65" tvg-id="rch_65" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png" group-title="Rakuten-JP", キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="34" tvg-id="rch_34" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png" group-title="Rakuten-JP", ムビドラTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="43" tvg-id="rch_43" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="Rakuten-JP", HISTORY CHANNEL
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="30" tvg-id="rch_30" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" group-title="Rakuten-JP", 鉄道・旅
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="30" tvg-id="rch_30" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" group-title="Rakuten-JP", 鉄道・旅 (B)
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+
+#EXTINF:-1 tvg-dt="86" tvg-id="rch_86" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png" group-title="Rakuten-JP", ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rch_113" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png" group-title="Rakuten-JP", - ぷれいば！～ゲーム専門チャンネル～
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8?ads.device_make=rchweb&ads.url=channel.rakuten.co.jp&ads.uuid=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.uid_rch=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.refid=0&ads.rch_hid=&ads.rch_rp=2b325b2f3c87694f9df2c364de7690edd9371221
+
+#EXTINF:-1 tvg-dt="46" tvg-id="rch_46" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/198_fishing.png" group-title="Rakuten-JP", 釣り
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="100" tvg-id="rch_100" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png" group-title="Rakuten-JP", 囲碁・将棋ライト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="36" tvg-id="rch_36" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/205_shogi.png" group-title="Rakuten-JP", 将棋
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="74" tvg-id="rch_74" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png" group-title="Rakuten-JP", 麻雀
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="35" tvg-id="rch_35" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png" group-title="Rakuten-JP", パチンコ・パチスロ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="37" tvg-id="rch_37" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png" group-title="Rakuten-JP", エンタメ～テレ DEEP
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="104" tvg-id="rch_104" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png" group-title="Rakuten-JP", That's 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="105" tvg-id="rch_105" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png" group-title="Rakuten-JP", That's 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="106" tvg-id="rch_106" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_thats_90s00s.png" group-title="Rakuten-JP", That's 90s & 00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="107" tvg-id="rch_107" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png" group-title="Rakuten-JP", That's ROCK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="85" tvg-id="rch_85" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png" group-title="Rakuten-JP", 演歌・歌謡
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="98" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="Rakuten-JP", セクシーエンタメチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="59" tvg-id="rch_59" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="Rakuten-JP", おとなの歓楽街 by MEN'S NECO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="59" tvg-id="rch_59" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="Rakuten-JP", おとなの歓楽街 by MEN'S NECO (B)
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+
+#EXTINF:-1 tvg-dt="41" tvg-id="rch_41" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="Rakuten-JP", アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="41" tvg-id="rch_41" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="Rakuten-JP", アイドル・グラビア (B)
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+
+#EXTINF:-1 tvg-dt="40" tvg-id="rch_40" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="Rakuten-JP", 刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="40" tvg-id="rch_40" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="Rakuten-JP", 刺激ストロング (B)
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+
+#EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="Rakuten-JP", 映画 (R15+)
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+
+- BAHEULATVJP FREE-
+
+#EXTINF:-1 tvg-id="commercial" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/commercial/logo.png" group-logo="https://play-lh.googleusercontent.com/5LRK0pt4jAOL_SOMvZVkCC7dhFhATXOrMnveXPiH1wZITZNON16JUhTSivcZJbZaJznz" group-title="RavenTV-JP", AbemaTV CM (VPN JP)
+https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
+
+#EXTINF:-1  tvg-id="abema-news" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png" group-title="RavenTV-JP", AbemaTV NEWS (VPN JP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cPvUWPYWUZy1TKctTQOMBQ==","kid":"cC4qJlB/Wk2W7a7T7sMteg=="}],"type":"temporary"}
+https://ds-linear-abematv.akamaized.net/channel/abema-news/manifest.mpd
+
+#EXTINF:-1  tvg-id="news-plus" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/news-plus/logo.png" group-title="RavenTV-JP",  AbemaTV NEWSPLUS (VPN JP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3lL0KlyeWd+iy/wnpF25Tw==","kid":"tLxY8dMZWAaxphsdnDBOvQ=="}],"type":"temporary"}
+https://ds-linear-abematv.akamaized.net/channel/news-plus/manifest.mpd
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/OM659334/3760597490189526-7_SC_logo_color.jpg" group-title="RavenTV-JP", Anime 24/7 (ROKU)
+https://amg01923-amg01923c113-amgplt0019.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01923-amg01923c113-amgplt0019/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
+
+#EXTINF:-1 tvg-id="ES300029LP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" group-title="RavenTV-JP", Anime Visión (Spain)
+https://jmp2.uk/stvp-ES300029LP
+
+#EXTINF:-1 tvg-id="ES3000288I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png" group-title="RavenTV-JP", Anime Visión Classics (Spain)
+https://jmp2.uk/stvp-ES3000288I
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b92deed3dd556cf91c911a36e948fde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730996857858_Anime_HiDive_HXA_ImageHUD.png" group-title="RavenTV-JP", AnimeXHIDIVE (ROKU)
+https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="BSフジ_jp" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" group-title="RavenTV-JP", BS Fuji 182 (ConvergeTV)
+http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="BS日テレ_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeRhUrry5b4MVZRkedqz6qdllBn8nv4rpcZxbWmHcZtxvi6OKdQrixAM&s=10" group-title="RavenTV-JP", BS4 Nittele Premium (ConvergeTV)
+http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001422&contentid=ch00000000000000001422&videoid=ch00000090990000001213&recommendtype=0&userid=1829774634107&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HQFPYZNKI2XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="BS10_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDbIzMJeDE7iF3RM2aenZcN3Q4aPu68NKY4po4a5MjAzj4rwAOXlSp9-W&s=10" group-title="RavenTV-JP", BS10 Orange Channel (ConvergeTV)
+http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKFsjmgx5VjAE_tffPotakEnGZBD0iAlg2gHCa2i4bw&s=10" http-referrer="http://japan.cgntv.net/HD_player_jp.html" group-title="RavenTV-JP", CGNTV Japan (HD)
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-id="CH.523" tvg-logo="https://play-lh.googleusercontent.com/f6tXg0-cwJlnkcDwapbuvg17I9Xj7CWV5IkMILw6sAUJz1XKanOknV_3IoVYgSA2DFq8MVZaJEOEN3LKQzBfsg=w600-h300-pc0xffffff-pd" group-title="RavenTV-JP", CS523 - Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="CH.525" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaFwHL06XFqiKsKWsHFFXuxk_7h2j9VK1tfF98Wo0NC7PtFTtmQpuPNmw8&s=10" group-title="RavenTV-JP", CS525 - QVC TV JP
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 tvg-id="CH.527" tvg-logo="https://prtimes.jp/data/corp/65598/ogp/tmp-e4d5e531b574b0e3f6f600f6fc11bdd6-f1eff486027528b7a3d945ebed378f4b.jpg" group-title="RavenTV-JP", CS527 - GSTV Jewelry Channel
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU132409/12531341656995521-FilmRiseAnimeRebrand_SC_logo_color.png" group-title="RavenTV-JP", FILMRISE Anime (TCL)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814508/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=FilmriseAnime&ads.csid=tcl2_us_filmriseanime_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814508&ads.xumo_channelName=FilmriseAnime&ads.xumo_contentId=260&ads.xumo_contentName=FilmriseAnime&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88814508&declaredCC1Language=en&includeAssetTags=true
+
+#EXTINF:-1 tvg-id="フジテレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_8ae9a619c16e4cc195516a865cdd1fa0~mv2.png/v1/fit/w_264,h_261,q_75,enc_avif,quality_auto/512769_8ae9a619c16e4cc195516a865cdd1fa0~mv2.png" group-title="RavenTV-JP", Fuji Terebi (MOV3)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://img.cdn.nimg.jp/s/comch/channel-icon/original/ch2645554/7023554.jpg/512x512l_FFFFFFFF?key=72efdf3abf4224f4af8e96a06d311a533cf44ce0006295cc27cc91dcec8225d7" group-title="RavenTV-JP", MEN'S NECO CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+#EXTINF:-1 tvg-id="NHK・BS_jp" tvg-logo="https://static.wixstatic.com/media/512769_8fc96cbe56eb4495b50adae3a1315c30~mv2.png/v1/fit/w_261,h_261,q_75,enc_avif,quality_auto/512769_8fc96cbe56eb4495b50adae3a1315c30~mv2.png" group-title="RavenTV-JP", NHK BS101 Premium (Contra)
+http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1  tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="RavenTV-JP",  NHK G Tokyo (AVG FHD)
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+
+#EXTINF:-1  tvg-id="NHK東京・総合_jp" tvg-logo="https://static.wixstatic.com/media/512769_c8316273489b4a49b3735cb3179859a7~mv2.png/v1/fit/w_261,h_261,q_75,enc_avif,quality_auto/512769_c8316273489b4a49b3735cb3179859a7~mv2.png" group-title="RavenTV-JP",  NHK G Tokyo (MOV3)
+https://nhk4.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-id="jcom_2_19456_32448" tvg-logo="https://storage.googleapis.com/studio-cms-assets/projects/wQOVlkXZaD/s-1200x630_v-fms_webp_b9e70652-c217-457e-8c5a-e1f347c0bcca_middle.webp" group-title="RavenTV-JP", NHK G Yamagata (Test Transmission)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKワールド-JAPAN_jp" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/78/6d/1c786d3f-0b2a-e0be-95e7-2a0b410d26de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png" group-title="RavenTV-JP", NHK World Japan (Main Ch)
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKワールド-JAPAN_jp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25Z2sgQhOT2RlE_SdwoEZ3hH52q4N7L9bG21ecLaEp52aUDjox0CTZT8&s=10" group-title="RavenTV-JP", NHK World Japan (Backup Feed)
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NHKワールド-JAPAN_jp" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/78/6d/1c786d3f-0b2a-e0be-95e7-2a0b410d26de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png" group-title="RavenTV-JP", NHK World Japan (FULL HD)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 tvg-id="日本テレビ_jp" tvg-logo="https://static.wixstatic.com/media/512769_529914ac06ed4fc9a9abb5b6e33a67d2~mv2.png/v1/fit/w_261,h_261,q_75,enc_avif,quality_auto/512769_529914ac06ed4fc9a9abb5b6e33a67d2~mv2.png" group-title="RavenTV-JP", NipponTV - NTV (MOV3)
+https://ntv5.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-WIcOmOA6tyLr1QkQ-1UncWqWR4FNLWYFRbOQLAzcpQEC-wgdSSHlLk&s=10" group-title="RavenTV-JP", NHK World (Tokyo Landscape)
+https://masterpl.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-id="ショップチャンネル_jp" tvg-logo="https://www.sumitomocorp.com/en/jp/enrich/contents/-/media/Images/hq/Enriching/0041/logo.png" group-title="RavenTV-JP", Shop Channel (JP)
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://www.stockvoice.tv/images/common/logo.png" group-title="RavenTV-JP", Stockvoice TV Japan
+https://p14080-live02.videog.jp/stockvoice/abr-streamnt/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://www.stockvoice.tv/images/common/logo.png" group-title="RavenTV-JP", Stockvoice TV Live
+https://p14080-live02.videog.jp/stockvoice/abr-streamnt/svlivent/1.5m/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TBS_jp" tvg-logo="https://static.wixstatic.com/media/512769_26cf072a57f348788ac10ed6dc5363f1~mv2.png/v1/fit/w_261,h_261,q_75,enc_avif,quality_auto/512769_26cf072a57f348788ac10ed6dc5363f1~mv2.png" group-title="RavenTV-JP", TBS Terebi (MOV3)
+https://tbs5.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-id="gmt+8" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU572810/14490431765440765-TCL_Anime_SC_logo_color.png" group-title="RavenTV-JP", TCL Anime (TCL+)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88884642/hls/master.m3u8?declaredCC1Language=en&ads.xumo_channelId=88884642&ads.xumo_streamId=88884642&ads.channelId=88884642&ads.channelName=tclanime_us&ads.csid=tcl2_us_tclanime_ssai&ads.caid=tclanime&ads.genre=Anime&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_h_x_country=US&ads.xumo_contentId=4387&ads.xumo_contentName=TCLHunterxHunter&ads.xumo_providerId=4387&ads.xumo_providerName=TCLHunterxHunter&ads.xumo_channelName=TCLHunterxHunter&includeAssetTags=true&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-logo="https://static.wixstatic.com/media/512769_d4e8c6d11d054ec580d95267be5b1766~mv2.png/v1/fit/w_264,h_261,q_75,enc_avif,quality_auto/512769_d4e8c6d11d054ec580d95267be5b1766~mv2.png" group-title="RavenTV-JP", TVAsahi (MOV3)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+
+#EXTINF:-1 tvg-id="テレ東_jp" tvg-logo="https://static.wikitide.net/avidwiki/thumb/b/b2/TV_Tokyo_%282025%2C_from_Replica%29.png/534px-TV_Tokyo_%282025%2C_from_Replica%29.png" group-title="RavenTV-JP", TV TOKYO HD
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+
+- TVer JP (NON-GEOBLOCK)  -
+
+#EXTINF:-1 tvg-id="tver_cx" tvg-logo="https://statics.tver.jp/images/icon/cx.jpg?v=2" group-logo="https://statics.tver.jp/img/ogimg.png" group-title="TVer-JP", フジテレビ系 (TVerチャンネル)
+https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
+
+#EXTINF:-1 tvg-id="tver_ntv" tvg-logo="https://statics.tver.jp/images/icon/ntv.jpg" group-title="TVer-JP", 日テレ系 (TVerチャンネル)
+https://live-tver-simul-ntv.streaks.jp/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest_1.m3u8
+
+#EXTINF:-1 tvg-id="tver_tbs" tvg-logo="https://statics.tver.jp/images/icon/tbs.jpg?v=2" group-title="TVer-JP", TBS系 (TVerチャンネル)
+https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY
+
+#EXTINF:-1 tvg-id="tver_ex" tvg-logo="https://statics.tver.jp/images/icon/ex.jpg?v=2" group-title="TVer-JP", テレ朝系 (TVerチャンネル)
+https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0
+
+#EXTINF:-1 tvg-id="tver_tx" tvg-logo="https://statics.tver.jp/images/icon/tx.jpg?v=2" group-title="TVer-JP", テレ東系 (TVerチャンネル)
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://statics.tver.jp/images/content/thumbnail/live/xlarge/lexcqiug5m.jpg" group-title="TVer-JP", TBS NEWS DIG (TVerチャンネル)
+https://live-tver-splive.streaks.jp/05a91aefdac545aabba48738d9070a8b/b2a39ea960a24ca6a593dd1b0eaf8150/manifest_1.m3u8
+
+#EXTINF:-1 tvg-id="gmt+9" tvg-logo="https://statics.tver.jp/images/content/thumbnail/live/xlarge/letibz75z1.jpg" group-title="TVer-JP", 日テレ NEWS24 (TVerチャンネル)
+https://live-tver-splive.streaks.jp/31966fcb839e41d686f4de277069b7e7/f9ab86d37d93450d945901933d9d64f9/manifest_1.m3u8
+
+- FastTV JP -
+
+#EXTINF:-1 tvg-id="fastch_v2_samri" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo"  group-logo="https://storage.googleapis.com/production-os-assets/assets/d41a02db-cfd8-4be7-abfd-51e69cf94878" group-title="VFastCH-JP (v2)",《09.30終》時代劇TV（Powered by 時代劇専門チャンネル）
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_busns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》ビジネス・プレミアムチャンネル
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_news1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》丸ごと九州 チャンネル
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_jpthp" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》ぴあ落語ざんまい
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_comdy" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》LEMINO TV
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo"  group-title="VFastCH-JP (v2)",《09.30終》エンタメ・アジア (FREE)
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_snyon" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》FASHIONPLUS (F+)
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_pett1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》ペットTV
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_goshogi" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》囲碁・将棋ライト
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_camng" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》キャンプ・アウトドアチャンネル (POWERED by ハピキャン)
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_travl" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》今日のごはんなに?
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》GOLF LIFE TV
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_hokkaido" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》丸ごと北海道 チャンネル
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》アニマックス FREE
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》韓流チャンネル
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_recip" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》観るたび (PRODUCED by るるぶ)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_entns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》エンタメニュース (POWERED by ORICON NEWS)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》東海ロキポチャンネル
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 tvg-id="fastch_v2_17live" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/17live/channel_logo" group-title="VFastCH-JP (v2)",《09.30終》FREETV ニュース • POWERED by 17LIVE
+https://livetv.fastv.jp/channel_assembly/699989FA00007532CED8/master.m3u8
