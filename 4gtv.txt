@@ -555,3 +555,195 @@ ABC 7 New York (美国),https://www.youtube.com/watch?v=VrhYz4CL70I
 東森綜合台 (台湾),https://www.youtube.com/watch?v=cimbpAZUjzw
 KBS WORLD TV (韩国),https://www.youtube.com/watch?v=OxQQsIvJTTU
 八大劇樂部 (惡作劇之吻),https://www.youtube.com/watch?v=6lKL5znyZkc
+Rakuten-JP,#genre#
+ 日テレNEWS,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+ FNNプライムオンライン,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+ MBS ニュース,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+ ウェザーニュース LIVE,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+ TOKYOMX チャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+ 共同通信News,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+ 日テレNEWSセレクト,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+ オリコンニュース,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+ Newsworld (Japan Sub),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+ Bloomberg TV+,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+ ユーロニュース,https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+ Reuters 60°,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/d654d70b-14e0-427d-bf97-7c010df88f04/0.m3u8
+ QVC TV (Rチャンネル),https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+ GSTV (Rチャンネル),https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8?ads.device_make=rchweb&ads.url=channel.rakuten.co.jp&ads.uuid=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.uid_rch=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.refid=0
+ TOP BARÇA,https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+ ゴルフ,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fitness-cmaf1-rakutenjp/playlist.m3u8
+ 日ﾃﾚﾌﾟﾛﾚｽ ｱｰｶｲ部,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+ スカイ A - サプリ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-skyacmaf-rakutenjp/playlist.m3u8
+ GAORA ZERO,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8
+ FUELTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+ 手塚プロダクションTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+ キッズ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+ ムビドラTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+ HISTORY CHANNEL,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
+ 鉄道・旅,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+ 鉄道・旅 (B),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+ ワンニャンチャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+ - ぷれいば！～ゲーム専門チャンネル～,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8?ads.device_make=rchweb&ads.url=channel.rakuten.co.jp&ads.uuid=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.uid_rch=4f6cea7e-b66a-5dcf-bd84-86c4eda86ddd&ads.refid=0&ads.rch_hid=&ads.rch_rp=2b325b2f3c87694f9df2c364de7690edd9371221
+ 釣り,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp/playlist.m3u8
+ 囲碁・将棋ライト,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+ 将棋,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shogicmaf-rakutenjp/playlist.m3u8
+ 麻雀,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+ パチンコ・パチスロ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+ エンタメ～テレ DEEP,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+ That's 70s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+ That's 80s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+ That's 90s & 00s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+ That's ROCK,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+ 演歌・歌謡,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
+ セクシーエンタメチャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+ おとなの歓楽街 by MEN'S NECO,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+ おとなの歓楽街 by MEN'S NECO (B),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+ アイドル・グラビア,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+ アイドル・グラビア (B),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+ 刺激ストロング,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+ 刺激ストロング (B),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8?ads.uuid=79f6c984-2f32-573c-a7ff-a13644466ce4&ads.device_make=rchweb&ads.refid=0&ads.url=channel.rakuten.co.jp&ads.uid_ss=&ads.uid_rch=79f6c984-2f32-573c-a7ff-a13644466ce4
+ 映画 (R15+),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+RavenTV-JP,#genre#
+ AbemaTV CM (VPN JP),https://ds-linear-abematv.akamaized.net/channel/commercial/manifest.mpd
+ AbemaTV NEWS (VPN JP),#KODIPROP:inputstream.adaptive.license_type=clearkey
+  AbemaTV NEWSPLUS (VPN JP),#KODIPROP:inputstream.adaptive.license_type=clearkey
+ Anime 24/7 (ROKU),https://amg01923-amg01923c113-amgplt0019.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01923-amg01923c113-amgplt0019/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-
+ Anime Visión (Spain),https://jmp2.uk/stvp-ES300029LP
+ Anime Visión Classics (Spain),https://jmp2.uk/stvp-ES3000288I
+ AnimeXHIDIVE (ROKU),https://aka-live1050.delivery.roku.com/bb8d07e9-952d-40b5-8104-5fe09bdb3f65/t2-origin/out/v1/live.m3u8
+ BS Fuji 182 (ConvergeTV),http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+ BS4 Nittele Premium (ConvergeTV),http://136.158.97.2:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001422&contentid=ch00000000000000001422&videoid=ch00000090990000001213&recommendtype=0&userid=1829774634107&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HQFPYZNKI2XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+ BS10 Orange Channel (ConvergeTV),http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001421&contentid=ch00000000000000001421&videoid=ch00000090990000001202&recommendtype=0&userid=1162923937911&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DZNL8HTZEICXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+ CGNTV Japan (HD),#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+ CS523 - Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+ CS525 - QVC TV JP,https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+ CS527 - GSTV Jewelry Channel,https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+ FILMRISE Anime (TCL),https://d3f4oii5n0oeqi.cloudfront.net/11701/88814508/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=FilmriseAnime&ads.csid=tcl2_us_filmriseanime_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814508&ads.xumo_channelName=FilmriseAnime&ads.xumo_contentId=260&ads.xumo_contentName=FilmriseAnime&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88814508&declaredCC1Language=en&includeAssetTags=true
+ Fuji Terebi (MOV3),https://fujitv4.mov3.co/hls/fujitv.m3u8
+ MEN'S NECO CHANNEL,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ NHK BS101 Premium (Contra),http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+  NHK G Tokyo (AVG FHD),http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+  NHK G Tokyo (MOV3),https://nhk4.mov3.co/hls/nhk.m3u8
+ NHK G Yamagata (Test Transmission),https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+ NHK World Japan (Main Ch),https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+ NHK World Japan (Backup Feed),https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+ NHK World Japan (FULL HD),https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+ NipponTV - NTV (MOV3),https://ntv5.mov3.co/hls/ntv.m3u8
+ NHK World (Tokyo Landscape),https://masterpl.hls.nhkworld.jp/hls/wp/live/master.m3u8
+ Shop Channel (JP),http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+ Stockvoice TV Japan,https://p14080-live02.videog.jp/stockvoice/abr-streamnt/playlist_dvr.m3u8
+ Stockvoice TV Live,https://p14080-live02.videog.jp/stockvoice/abr-streamnt/svlivent/1.5m/chunks_dvr.m3u8
+ TBS Terebi (MOV3),https://tbs5.mov3.co/hls/tbs.m3u8
+ TCL Anime (TCL+),https://d3f4oii5n0oeqi.cloudfront.net/11701/88884642/hls/master.m3u8?declaredCC1Language=en&ads.xumo_channelId=88884642&ads.xumo_streamId=88884642&ads.channelId=88884642&ads.channelName=tclanime_us&ads.csid=tcl2_us_tclanime_ssai&ads.caid=tclanime&ads.genre=Anime&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_h_x_country=US&ads.xumo_contentId=4387&ads.xumo_contentName=TCLHunterxHunter&ads.xumo_providerId=4387&ads.xumo_providerName=TCLHunterxHunter&ads.xumo_channelName=TCLHunterxHunter&includeAssetTags=true&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+ TVAsahi (MOV3),https://tvasahi.mov3.co/hls/tvasahi.m3u8
+ TV TOKYO HD,https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+TVer-JP,#genre#
+ フジテレビ系 (TVerチャンネル),https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
+ 日テレ系 (TVerチャンネル),https://live-tver-simul-ntv.streaks.jp/938232e586b34196b704a5839663984b/cb593b5eafbb4645907e979d757e1dd5/manifest_1.m3u8
+ TBS系 (TVerチャンネル),https://ssai-variants.streaks.jp/v5/tver-simul-tbs/8e4c80725b9842cdb0f6f91260945222/b72f7e116957436b824f95d5138ea7a3/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-176-7925/2a38d855-a521-4d96-a6c7-933a0bf29754/0.m3u8?pdt=-9133&session=2a38d855-a521-4d96-a6c7-933a0bf29754&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjksInBkdCI6Ii05MTMzIn0.wWY9OBF4yy2xGYlTx_N_eud7S1bwrGw7oXya1meGNFY
+ テレ朝系 (TVerチャンネル),https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0
+ テレ東系 (TVerチャンネル),https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0
+ TBS NEWS DIG (TVerチャンネル),https://live-tver-splive.streaks.jp/05a91aefdac545aabba48738d9070a8b/b2a39ea960a24ca6a593dd1b0eaf8150/manifest_1.m3u8
+ 日テレ NEWS24 (TVerチャンネル),https://live-tver-splive.streaks.jp/31966fcb839e41d686f4de277069b7e7/f9ab86d37d93450d945901933d9d64f9/manifest_1.m3u8
+VFastCH-JP (v2),#genre#
+《09.30終》時代劇TV（Powered by 時代劇専門チャンネル）,https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+《09.30終》ビジネス・プレミアムチャンネル,https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+《09.30終》丸ごと九州 チャンネル,https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+《09.30終》ぴあ落語ざんまい,https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+《09.30終》LEMINO TV,https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+《09.30終》エンタメ・アジア (FREE),https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+《09.30終》FASHIONPLUS (F+),https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+《09.30終》ペットTV,https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+《09.30終》囲碁・将棋ライト,https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+《09.30終》キャンプ・アウトドアチャンネル (POWERED by ハピキャン),https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+《09.30終》今日のごはんなに?,https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+《09.30終》GOLF LIFE TV,https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+《09.30終》丸ごと北海道 チャンネル,https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+《09.30終》アニマックス FREE,https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+《09.30終》韓流チャンネル,https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+《09.30終》観るたび (PRODUCED by るるぶ),https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+《09.30終》エンタメニュース (POWERED by ORICON NEWS),https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+《09.30終》東海ロキポチャンネル,https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+《09.30終》FREETV ニュース • POWERED by 17LIVE,https://livetv.fastv.jp/channel_assembly/699989FA00007532CED8/master.m3u8
+테스트 채널,#genre#
+ ABN Channel • 아름방송,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+ Arirang TV • 아리랑 TV,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+ Arirang Radio • 아리랑 라디오,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+ BBS TV • BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+ BTN TV • BTN 불교,https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+ BTN TV • BTN 불교 (v2),http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+ Channel A (OnDemandKorea),https://amg01923-amg01923c86-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c86-amgplt0187/playlist.m3u8
+ Channel i • 채널i,http://1.201.160.177:1935/live/myStream/playlist.m3u8
+ CJ OnStyle • CJ 온스타일,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+ CJ OnStyle+ • CJ 온스타일+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+ CTS TV Korea • CTS 기독교,http://schedule.zroad.tv:1935/live/ctstv/master.m3u8
+ EBS 1 • EBS 제1텔레비전,https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+ EBS 1TV • EBS 제1텔레비전,http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+ EBS 1 (OnDemandKorea),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01923-odkmedia-lifestyleandculture1-ono/playlist.m3u8
+ EBS 2TV • EBS 제2텔레비전,http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+ EBS+ 1 • EBS 플러스 1,http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+ EBS+ 2 • EBS 플러스 2,http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+ EBS English • EBS E,http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+ EBS FMTV,https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
+ EBS Kids • EBS 키즈,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+ G1-SBS • G1 방송,http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+ GCN24 Korea • GCN24 방송,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+ GOODTV Korea • GOODTV 기독교복음방송,http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+ Gongyoung Shopping TV • 공영쇼핑,https://etv.publichs.com/live5.stream/playlist.m3u8
+ Gugbang TV - KFN • 국방 TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+ Gugak TV • 국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+ GS Shop • GS 마이샵,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+ GS MY Shop • GS MY 마이샵,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+ Hankyung TV • 한국경제TV,http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
+ Home & Shopping TV • 홈&쇼핑,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+ Hyundai Home Shopping • 현대홈쇼핑,https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+ Hyundai Home Shopping Plus • 현대홈쇼핑+,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+ JIBS FMTV (LQ),http://123.140.197.22/stream/2/play.m3u8
+ JIBS-SBS (Digital),http://123.140.197.22/stream/1/play.m3u8
+ JJCTV • 지방자치TV,http://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
+ JJCTV HD • 지방자치TV,http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_426_5FDDD1E3.m3u8
+ JTBC Sports • JTBC 스포츠,http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
+ KBS Drama • KBS 드라마,http://koreatv.dothome.co.kr/kbsdrama.php
+ KBS Joy • KBS 조이,http://koreatv.dothome.co.kr/kbsjoy.php
+ KBS Kids • KBS 키즈,http://koreatv.dothome.co.kr/kbskids.php
+ KBS Life • KBS 라이프,http://koreatv.dothome.co.kr/kbslife.php
+ KBS Story • KBS 스토리,http://koreatv.dothome.co.kr/kbsstory.php
+ Korea TV • KTV 국민방송,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+ Korea TV • KTV 국민방송 (v2),https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+ Lotte Home Shopping • 롯데홈쇼핑,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+ Lotte One • 롯데원,https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+ MBC (Digital),https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+ MBC (FHD+),http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+ MBC EVERY1 (OnDemandKorea),https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8
+ MBN Money TV • 매일경제TV,http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
+ MBN Money TV HD • 매일경제TV,http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
+ NBS TV • 한국농업방송,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+ NBS TV • 한국농업방송 (v2),http://media.joycorp.co.kr:1935/live/live_720p/playlist.m3u8
+ Nonghyup TV • NHTV 농협방송,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+ NS Home Shopping • NS 홈쇼핑,http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
+ NS Shop+ • NS 홈쇼핑+,http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
+ OBS Gyeongin • OBS 경인TV,https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+ OBS Gyeongin TV • OBS 경인TV (v2),https://vod3.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+ OUN Broadcasting University TV • OUN 방송대학 TV,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+ RNA TV • 채널 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+ RNA TV Backup • 채널 RNA,http://10st.vcast.im/CHsoom/LIVE/playlist.m3u8
+ RUTC.TV,http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+ SCS TV08 • SCS 서경방송,http://live.iscs.co.kr:1935/m_live/480p.stream/chunklist_w1805076787.m3u8
+ Shopping NT Mall • 쇼핑엔티,https://live.shoppingntmall.com/live/10011.m3u8
+ Shinsegae Shopping TV • 신세계쇼핑,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+ Silver iTV • 실버아이TV,http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
+ SK Stoa • SK스토아,http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
+ SK Stoa HD • SK스토아,http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
+ SK Stoa SD • SK스토아,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
+ TBS FM Seoul (FMTV),https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8
+ TBS eFM Seoul (FMTV),https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_720.smil/playlist.m3u8
+ TBS Seoul • 교통방송,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+ TV Chosun (ODK),https://amg01923-amg01923c85-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c85-amgplt0187/playlist.m3u8
+ TV Chosun 2 (Digital),#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+ tvN KR (FHD+),https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+ tvN STORY (OnDemandKorea),https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN%20Movies
+ UBC FMTV (일시적으로 채널),https://stream.ubc.co.kr/hls/ubcfmstream/index.m3u8
+ W Shopping • W쇼핑,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+ WBS Buddhist TV • WBS원음방송,http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_409.m3u8
+ Yonhap News TV (OnDemandKorea),https://amg01923-amg01923c146-amgplt0456.playout.now3.amagi.tv/playlist/amg01923-amg01923c146-amgplt0456/playlist.m3u8
+ YTN (FHD+),https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
