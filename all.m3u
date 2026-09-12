@@ -2386,715 +2386,570 @@ https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 https://livetv.fastv.jp/channel_assembly/699989FA00007532CED8/master.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="AXN Asia Taiwan (1080p)" tvg-name="AXN Asia Taiwan (1080p)" group-title="星火源",AXN Asia Taiwan (1080p)
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 tvg-id="CTS News (華視新聞資訊) [Geo-blocked]" tvg-name="CTS News (華視新聞資訊) [Geo-blocked]" group-title="星火源",CTS News (華視新聞資訊) [Geo-blocked]
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="CTi Variety (中天綜合台) (720p)" tvg-name="CTi Variety (中天綜合台) (720p)" group-title="星火源",CTi Variety (中天綜合台) (720p)
-http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="DaAi1 (大愛1) (720p)" tvg-name="DaAi1 (大愛1) (720p)" group-title="星火源",DaAi1 (大愛1) (720p)
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]" tvg-name="EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]" group-title="星火源",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EBC News (東森新聞台) (1080p) [Not 24/7]" tvg-name="EBC News (東森新聞台) (1080p) [Not 24/7]" group-title="星火源",EBC News (東森新聞台) (1080p) [Not 24/7]
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ELTA生活旅遊" tvg-name="ELTA生活旅遊" group-title="星火源",ELTA生活旅遊
-https://t.freetv.fun/live/eltasheng-huo-lu-you-5.m3u8
-#EXTINF:-1 tvg-id="ELTA體育2(備用)" tvg-name="ELTA體育2(備用)" group-title="星火源",ELTA體育2(備用)
-https://t.freetv.fun/live/cctv4mei-zhou.php
-#EXTINF:-1 tvg-id="ELTA體育3(備用)" tvg-name="ELTA體育3(備用)" group-title="星火源",ELTA體育3(備用)
-https://t.freetv.fun/live/cctv-4k.m3u8
-#EXTINF:-1 tvg-id="ELTA體育4(備用)" tvg-name="ELTA體育4(備用)" group-title="星火源",ELTA體育4(備用)
-https://t.freetv.fun/live/delta-tv-1.m3u8
-#EXTINF:-1 tvg-id="FTV (民視) (720p) [Not 24/7]" tvg-name="FTV (民視) (720p) [Not 24/7]" group-title="星火源",FTV (民視) (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="FTV One (民視第一台) (720p) [Not 24/7]" tvg-name="FTV One (民視第一台) (720p) [Not 24/7]" group-title="星火源",FTV One (民視第一台) (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="FTV Taiwan (民視台灣台) (720p) [Not 24/7]" tvg-name="FTV Taiwan (民視台灣台) (720p) [Not 24/7]" group-title="星火源",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="LIVE三立" tvg-name="LIVE三立" group-title="星火源",LIVE三立
-https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-#EXTINF:-1 tvg-id="SET News (三立新聞) (1080p) [Geo-blocked]" tvg-name="SET News (三立新聞) (1080p) [Geo-blocked]" group-title="星火源",SET News (三立新聞) (1080p) [Geo-blocked]
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" group-title="星火源",TVBS Asia
-https://t.freetv.fun/live/tvbs-asia.m3u8
-#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" group-title="星火源",TVBS Asia #2
-https://t.freetv.fun/live/tvbsya-zhou-28.m3u8
-#EXTINF:-1 tvg-id="TVBS Asia" tvg-name="TVBS Asia" group-title="星火源",TVBS Asia #3
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBS News (TVBS新聞台) [Geo-blocked]" tvg-name="TVBS News (TVBS新聞台) [Geo-blocked]" group-title="星火源",TVBS News (TVBS新聞台) [Geo-blocked]
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞HD" tvg-name="TVBS新聞HD" group-title="星火源",TVBS新聞HD
-https://t.freetv.fun/live/tvbsxin-wen-2.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" group-title="星火源",TVBS新聞台
-http://74.91.26.218:82/live/tvbsxw.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞臺" tvg-name="TVBS新聞臺" group-title="星火源",TVBS新聞臺
-http://173.208.234.146/live/tvbsnews.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" group-title="星火源",TVBS新闻
-https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="Taiwan Plus TV (1080p)" tvg-name="Taiwan Plus TV (1080p)" group-title="星火源",Taiwan Plus TV (1080p)
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="三立INEWS HD" tvg-name="三立INEWS HD" group-title="星火源",三立INEWS HD
-https://t.freetv.fun/live/san-li-xin-wen-inews.php
-#EXTINF:-1 tvg-id="三立INEWS HD" tvg-name="三立INEWS HD" group-title="星火源",三立INEWS HD #2
-https://t.freetv.fun/live/san-li-inews-10.m3u8
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" group-title="星火源",三立新聞
-http://173.208.234.146/live/setnews.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" group-title="星火源",三立新闻
-https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" group-title="星火源",东森新闻
-https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="星火源",东森洋片
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
-#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" group-title="星火源",中天新聞
-http://173.208.234.146/live/ctinews.m3u8
-#EXTINF:-1 tvg-id="中天新聞FHD" tvg-name="中天新聞FHD" group-title="星火源",中天新聞FHD
-https://t.freetv.fun/live/zhong-tian-xin-wen.m3u8
-#EXTINF:-1 tvg-id="中天新聞FHD" tvg-name="中天新聞FHD" group-title="星火源",中天新聞FHD #2
-https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-#EXTINF:-1 tvg-id="中天新聞FHD" tvg-name="中天新聞FHD" group-title="星火源",中天新聞FHD #3
-rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-#EXTINF:-1 tvg-id="中天新聞FHD" tvg-name="中天新聞FHD" group-title="星火源",中天新聞FHD #4
-https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.php
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" group-title="星火源",中天新闻
-https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" group-title="星火源",中視
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" group-title="星火源",中視 #2
-http://173.208.234.146/live/ctv.m3u8
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" group-title="星火源",中視 #3
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD
-https://t.freetv.fun/live/zhong-shi-2.m3u8
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD #2
-https://t.freetv.fun/live/zhong-shi-3-1.m3u8
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD #3
-rtmp://f13h.mine.nu:1935/sat/tv091
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD #4
-https://t.freetv.fun/live/zhong-shi-5.ts
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD #5
-https://t.freetv.fun/live/zhong-shi-7.php
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD #6
-https://t.freetv.fun/live/zhong-shi-28.m3u8
-#EXTINF:-1 tvg-id="中視HD" tvg-name="中視HD" group-title="星火源",中視HD #7
-https://t.freetv.fun/live/zhong-shi-3.php
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" group-title="星火源",中視新聞
-https://t.freetv.fun/live/zhong-shi-xin-wen-ee.php
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" group-title="星火源",中視新聞 #2
-http://173.208.234.146/live/ctvnews.m3u8
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" group-title="星火源",中視新聞 #3
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-id="中視新聞FHD" tvg-name="中視新聞FHD" group-title="星火源",中視新聞FHD
-https://t.freetv.fun/live/zhong-shi-xin-wen.m3u8
-#EXTINF:-1 tvg-id="中視新聞FHD" tvg-name="中視新聞FHD" group-title="星火源",中視新聞FHD #2
-https://t.freetv.fun/live/zhong-shi-xin-wen-1.php
-#EXTINF:-1 tvg-id="中視新聞臺" tvg-name="中視新聞臺" group-title="星火源",中視新聞臺
-https://t.freetv.fun/live/zhong-shi-xin-wen-1-1.php
-#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" group-title="星火源",中視經典
-https://t.freetv.fun/live/zhong-shi-jing-dian.m3u8
-#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" group-title="星火源",中視經典 #2
-http://173.208.234.146/live/ctvjd.m3u8
-#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" group-title="星火源",中視經典 #3
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-id="中視菁採" tvg-name="中視菁採" group-title="星火源",中視菁採
-http://173.208.234.146/live/ctvjc.m3u8
-#EXTINF:-1 tvg-id="中視菁採" tvg-name="中視菁採" group-title="星火源",中視菁採 #2
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 tvg-id="中視菁采臺" tvg-name="中視菁采臺" group-title="星火源",中視菁采臺
-https://t.freetv.fun/live/zhong-shi-jing-cai.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" group-title="星火源",中视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" group-title="星火源",八大精彩
-https://t.freetv.fun/live/ba-da-jing-cai.php
-#EXTINF:-1 tvg-id="八大綜藝" tvg-name="八大綜藝" group-title="星火源",八大綜藝
-https://t.freetv.fun/live/ba-da-zong-yi.php
-#EXTINF:-1 tvg-id="公視" tvg-name="公視" group-title="星火源",公視
-https://t.freetv.fun/live/gong-shi-28.m3u8
-#EXTINF:-1 tvg-id="公視" tvg-name="公視" group-title="星火源",公視 #2
-http://173.208.234.146/live/pts.m3u8
-#EXTINF:-1 tvg-id="公視" tvg-name="公視" group-title="星火源",公視 #3
-http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 tvg-id="公視HD" tvg-name="公視HD" group-title="星火源",公視HD
-https://t.freetv.fun/live/gong-shi.m3u8
-#EXTINF:-1 tvg-id="公視HD" tvg-name="公視HD" group-title="星火源",公視HD #2
-https://t.freetv.fun/live/gong-shi-2.ts
-#EXTINF:-1 tvg-id="公視HD" tvg-name="公視HD" group-title="星火源",公視HD #3
-https://t.freetv.fun/live/xiao-gong-shi.m3u8
-#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" group-title="星火源",公視台語台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" group-title="星火源",公視戲劇
-https://t.freetv.fun/live/gong-shi-xi-ju.m3u8
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" group-title="星火源",公視戲劇 #2
-https://t.freetv.fun/live/gong-shi-xi-ju-1.php
-#EXTINF:-1 tvg-id="公視臺語臺" tvg-name="公視臺語臺" group-title="星火源",公視臺語臺
-https://t.freetv.fun/live/gong-shi-tai-yu.m3u8
-#EXTINF:-1 tvg-id="公視臺語臺" tvg-name="公視臺語臺" group-title="星火源",公視臺語臺 #2
-http://173.208.234.146/live/ptsty.m3u8
-#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" group-title="星火源",华视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="星火源剧专区" tvg-name="星火源剧专区" group-title="星火源",星火源剧专区
-https://huyazhibo.de5.net/?id=11342436
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" group-title="星火源",台視
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" group-title="星火源",台視HD
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" group-title="星火源",台視HD #2
-https://t.freetv.fun/live/tai-shi-1-1.m3u8
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" group-title="星火源",台視HD #3
-https://t.freetv.fun/live/tai-shi-2.ts
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" group-title="星火源",台視HD #4
-https://t.freetv.fun/live/tai-shi-3.m3u8
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" group-title="星火源",台視HD #5
-rtmp://f13h.mine.nu:1935/sat/tv071
-#EXTINF:-1 tvg-id="台視HD" tvg-name="台視HD" group-title="星火源",台視HD #6
-https://t.freetv.fun/live/tai-shi-28.ts
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" group-title="星火源",台視新聞
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-id="台視新聞FHD" tvg-name="台視新聞FHD" group-title="星火源",台視新聞FHD
-https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
-#EXTINF:-1 tvg-id="台視新聞FHD" tvg-name="台視新聞FHD" group-title="星火源",台視新聞FHD #2
-https://t.freetv.fun/live/tai-shi-xin-wen-1-1.m3u8
-#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" group-title="星火源",台視綜合
-http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 tvg-id="台視財經" tvg-name="台視財經" group-title="星火源",台視財經
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 tvg-id="台视 (720p)" tvg-name="台视 (720p)" group-title="星火源",台视 (720p)
-http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 tvg-id="客家電視" tvg-name="客家電視" group-title="星火源",客家電視
-https://t.freetv.fun/live/ke-jia-dian-shi.php
-#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" group-title="星火源",寰宇新聞
-https://t.freetv.fun/live/huan-yu-xin-wen.php
-#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" group-title="星火源",寰宇新聞 #2
-https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8
-#EXTINF:-1 tvg-id="寰宇新聞FHD" tvg-name="寰宇新聞FHD" group-title="星火源",寰宇新聞FHD
-https://t.freetv.fun/live/huan-yu-xin-wen-1.php
-#EXTINF:-1 tvg-id="寰宇新聞台灣臺" tvg-name="寰宇新聞台灣臺" group-title="星火源",寰宇新聞台灣臺
-https://t.freetv.fun/live/huan-yu-xin-wen-tai-wan.php
-#EXTINF:-1 tvg-id="寰宇財經" tvg-name="寰宇財經" group-title="星火源",寰宇財經
-https://t.freetv.fun/live/huan-yu-cai-jing.php
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" group-title="星火源",小公視
-http://173.208.234.146/live/ptsse.m3u8
-#EXTINF:-1 tvg-id="小公視" tvg-name="小公視" group-title="星火源",小公視 #2
-http://74.91.26.218:82/live/ptsse.m3u8
-#EXTINF:-1 tvg-id="年代新聞HD" tvg-name="年代新聞HD" group-title="星火源",年代新聞HD
-https://t.freetv.fun/live/nian-dai-xin-wen-2.m3u8
-#EXTINF:-1 tvg-id="東森戲劇" tvg-name="東森戲劇" group-title="星火源",東森戲劇
-https://t.freetv.fun/live/dong-sen-xi-ju-ee.php
-#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" group-title="星火源",東森新聞
-http://173.208.234.146/live/ebcnews.m3u8
-#EXTINF:-1 tvg-id="東森新聞HD" tvg-name="東森新聞HD" group-title="星火源",東森新聞HD
-https://t.freetv.fun/live/dong-sen-xin-wen.ts
-#EXTINF:-1 tvg-id="東森新聞HD" tvg-name="東森新聞HD" group-title="星火源",東森新聞HD #2
-https://t.freetv.fun/live/dong-sen-xin-wen-ee.php
-#EXTINF:-1 tvg-id="東森新聞臺" tvg-name="東森新聞臺" group-title="星火源",東森新聞臺
-https://t.freetv.fun/live/dong-sen-xin-wen-1.php
-#EXTINF:-1 tvg-id="東森洋片" tvg-name="東森洋片" group-title="星火源",東森洋片
-https://t.freetv.fun/live/dong-sen-yang-pian-1.m3u8
-#EXTINF:-1 tvg-id="東森洋片" tvg-name="東森洋片" group-title="星火源",東森洋片 #2
-https://t.freetv.fun/live/dong-sen-yang-pian-ee.php
-#EXTINF:-1 tvg-id="東森美洲" tvg-name="東森美洲" group-title="星火源",東森美洲
-https://t.freetv.fun/live/dong-sen-mei-zhou-2.m3u8
-#EXTINF:-1 tvg-id="東森美洲" tvg-name="東森美洲" group-title="星火源",東森美洲 #2
-https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
-#EXTINF:-1 tvg-id="東森美洲" tvg-name="東森美洲" group-title="星火源",東森美洲 #3
-https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8
-#EXTINF:-1 tvg-id="東森美洲" tvg-name="東森美洲" group-title="星火源",東森美洲 #4
-https://t.freetv.fun/live/dong-sen-mei-zhou-1-1.m3u8
-#EXTINF:-1 tvg-id="東森衛視" tvg-name="東森衛視" group-title="星火源",東森衛視
-https://t.freetv.fun/live/dong-sen-mei-zhou-xin-wen-tai.m3u8
-#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" group-title="星火源",東森財經新聞
-https://t.freetv.fun/live/dong-sen-cai-jing-xin-wen.php
-#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" group-title="星火源",東森超視
-rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" group-title="星火源",東森超視 #2
-https://t.freetv.fun/live/dong-sen-chao-shi-34-5-1.m3u8
-#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" group-title="星火源",東森超視 #3
-https://t.freetv.fun/live/dong-sen-chao-shi-34-5-2.m3u8
-#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" group-title="星火源",東森電影
-https://t.freetv.fun/live/dong-sen-dian-ying-1.m3u8
-#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" group-title="星火源",東森電影 #2
-https://t.freetv.fun/live/dong-sen-dian-ying-ee.php
-#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" group-title="星火源",東森電影 #3
-https://t.freetv.fun/live/dong-sen-dian-ying.php
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="星火源",民視
-https://t.freetv.fun/live/min-shi-2.php
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="星火源",民視 #2
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="星火源",民視 #3
-http://173.208.234.146/live/ftv.m3u8
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" group-title="星火源",民視 #4
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" group-title="星火源",民視HD
-https://t.freetv.fun/live/min-shi.m3u8
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" group-title="星火源",民視HD #2
-https://t.freetv.fun/live/min-shi-1.ts
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" group-title="星火源",民視HD #3
-https://t.freetv.fun/live/min-shi-2-1.php
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" group-title="星火源",民視HD #4
-https://t.freetv.fun/live/min-shi-3-1.m3u8
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" group-title="星火源",民視HD #5
-https://t.freetv.fun/live/min-shi-4.php
-#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" group-title="星火源",民視HD #6
-https://t.freetv.fun/live/min-shi-28.m3u8
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" group-title="星火源",民視台灣台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 tvg-id="民視影劇臺" tvg-name="民視影劇臺" group-title="星火源",民視影劇臺
-https://t.freetv.fun/live/min-shi-ying-ju.m3u8
-#EXTINF:-1 tvg-id="民視影劇臺" tvg-name="民視影劇臺" group-title="星火源",民視影劇臺 #2
-https://t.freetv.fun/live/min-shi-ying-ju-1.php
-#EXTINF:-1 tvg-id="民視影劇臺" tvg-name="民視影劇臺" group-title="星火源",民視影劇臺 #3
-https://t.freetv.fun/live/min-shi-ying-ju-1-1.php
-#EXTINF:-1 tvg-id="民視新聞 HD" tvg-name="民視新聞 HD" group-title="星火源",民視新聞 HD
-https://t.freetv.fun/live/min-shi-xin-wen-2.m3u8
-#EXTINF:-1 tvg-id="民視新聞 HD" tvg-name="民視新聞 HD" group-title="星火源",民視新聞 HD #2
-https://t.freetv.fun/live/min-shi-xin-wen-1-1.php
-#EXTINF:-1 tvg-id="民視新聞HD" tvg-name="民視新聞HD" group-title="星火源",民視新聞HD
-https://t.freetv.fun/live/min-shi-xin-wen.m3u8
-#EXTINF:-1 tvg-id="民視新聞HD" tvg-name="民視新聞HD" group-title="星火源",民視新聞HD #2
-https://t.freetv.fun/live/min-shi-xin-wen-1.ts
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="星火源",民視新聞台
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="民視新聞臺" tvg-name="民視新聞臺" group-title="星火源",民視新聞臺
-http://173.208.234.146/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="民視旅遊臺" tvg-name="民視旅遊臺" group-title="星火源",民視旅遊臺
-https://t.freetv.fun/live/min-shi-lu-you.php
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="星火源",民視第一台
-https://t.freetv.fun/live/min-shi-di-yi.m3u8
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" group-title="星火源",民視第一台 #2
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 tvg-id="民視第一臺" tvg-name="民視第一臺" group-title="星火源",民視第一臺
-https://t.freetv.fun/live/min-shi-di-yi-1.php
-#EXTINF:-1 tvg-id="民視第一臺" tvg-name="民視第一臺" group-title="星火源",民視第一臺 #2
-http://173.208.234.146/live/ftvdy.m3u8
-#EXTINF:-1 tvg-id="民視綜藝臺" tvg-name="民視綜藝臺" group-title="星火源",民視綜藝臺
-https://t.freetv.fun/live/min-shi-zong-yi.php
-#EXTINF:-1 tvg-id="民視綜藝臺" tvg-name="民視綜藝臺" group-title="星火源",民視綜藝臺 #2
-https://t.freetv.fun/live/min-shi-zong-yi-1.php
-#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" group-title="星火源",民視臺灣台
-https://t.freetv.fun/live/min-shi-tai-wan.m3u8
-#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" group-title="星火源",民視臺灣台 #2
-https://t.freetv.fun/live/min-shi-tai-wan-1-1.php
-#EXTINF:-1 tvg-id="民視臺灣臺" tvg-name="民視臺灣臺" group-title="星火源",民視臺灣臺
-http://173.208.234.146/live/ftvtw.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" group-title="星火源",民视新闻
-https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" group-title="星火源",緯來日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" group-title="星火源",緯來日本 #2
-https://t.freetv.fun/live/wei-lai-ri-ben-ee.php
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" group-title="星火源",緯來育樂
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" group-title="星火源",緯來電影
-https://t.freetv.fun/live/wei-lai-dian-ying.m3u8
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" group-title="星火源",緯來電影 #2
-https://t.freetv.fun/live/wei-lai-dian-ying-1.php
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" group-title="星火源",緯來電影 #3
-https://t.freetv.fun/live/wei-lai-dian-ying-1-1.php
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" group-title="星火源",緯來體育
-https://t.freetv.fun/live/wei-lai-ti-yu.m3u8
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" group-title="星火源",緯來體育 #2
-rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" group-title="星火源",緯來體育 #3
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" group-title="星火源",緯來體育 #4
-https://t.freetv.fun/live/wei-lai-ti-yu-ee.php
-#EXTINF:-1 tvg-id="臺灣戲劇臺" tvg-name="臺灣戲劇臺" group-title="星火源",臺灣戲劇臺
-https://t.freetv.fun/live/tai-wan-xi-ju.php
-#EXTINF:-1 tvg-id="臺視" tvg-name="臺視" group-title="星火源",臺視
-http://173.208.234.146/live/ttv.m3u8
-#EXTINF:-1 tvg-id="臺視HD" tvg-name="臺視HD" group-title="星火源",臺視HD
-https://t.freetv.fun/live/tai-shi.php
-#EXTINF:-1 tvg-id="臺視新聞" tvg-name="臺視新聞" group-title="星火源",臺視新聞
-http://173.208.234.146/live/ttvnews.m3u8
-#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" group-title="星火源",臺視新聞臺
-https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
-#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" group-title="星火源",臺視新聞臺 #2
-https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
-#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" group-title="星火源",臺視新聞臺 #3
-https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
-#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" group-title="星火源",臺視新聞臺 #4
-https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
-#EXTINF:-1 tvg-id="臺視新聞臺" tvg-name="臺視新聞臺" group-title="星火源",臺視新聞臺 #5
-https://t.freetv.fun/live/tai-shi-xin-wen-3.php
-#EXTINF:-1 tvg-id="臺視綜合" tvg-name="臺視綜合" group-title="星火源",臺視綜合
-https://t.freetv.fun/live/tai-shi-zong-he.m3u8
-#EXTINF:-1 tvg-id="臺視綜合" tvg-name="臺視綜合" group-title="星火源",臺視綜合 #2
-http://173.208.234.146/live/ttvzh.m3u8
-#EXTINF:-1 tvg-id="臺視財經" tvg-name="臺視財經" group-title="星火源",臺視財經
-http://173.208.234.146/live/ttvcj.m3u8
-#EXTINF:-1 tvg-id="臺視財經臺" tvg-name="臺視財經臺" group-title="星火源",臺視財經臺
-https://t.freetv.fun/live/tai-shi-cai-jing.m3u8
-#EXTINF:-1 tvg-id="臺視財經臺" tvg-name="臺視財經臺" group-title="星火源",臺視財經臺 #2
-https://t.freetv.fun/live/tai-shi-cai-jing-1.php
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" group-title="星火源",華視
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" group-title="星火源",華視 #2
-http://173.208.234.146/live/cts.m3u8
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" group-title="星火源",華視 #3
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-id="華視HD" tvg-name="華視HD" group-title="星火源",華視HD
-https://t.freetv.fun/live/hua-shi-1.m3u8
-#EXTINF:-1 tvg-id="華視HD" tvg-name="華視HD" group-title="星火源",華視HD #2
-https://t.freetv.fun/live/hua-shi-2.ts
-#EXTINF:-1 tvg-id="華視HD" tvg-name="華視HD" group-title="星火源",華視HD #3
-https://t.freetv.fun/live/hua-shi-28.m3u8
-#EXTINF:-1 tvg-id="華視HD" tvg-name="華視HD" group-title="星火源",華視HD #4
-https://t.freetv.fun/live/hua-shi-3.php
-#EXTINF:-1 tvg-id="華視教育文化" tvg-name="華視教育文化" group-title="星火源",華視教育文化
-https://t.freetv.fun/live/hua-shi-jiao-yu-ti-yu-wen-hua.m3u8
-#EXTINF:-1 tvg-id="華視教育體育文化" tvg-name="華視教育體育文化" group-title="星火源",華視教育體育文化
-http://173.208.234.146/live/ctsjy.m3u8
-#EXTINF:-1 tvg-id="華視教育體育文化" tvg-name="華視教育體育文化" group-title="星火源",華視教育體育文化 #2
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" group-title="星火源",華視新聞
-https://t.freetv.fun/live/hua-shi-xin-wen.php
-#EXTINF:-1 tvg-id="華視新聞資訊" tvg-name="華視新聞資訊" group-title="星火源",華視新聞資訊
-https://t.freetv.fun/live/hua-shi-xin-wen-zi-xun.m3u8
-#EXTINF:-1 tvg-id="華視新聞資訊" tvg-name="華視新聞資訊" group-title="星火源",華視新聞資訊 #2
-http://173.208.234.146/live/ctsnews.m3u8
-#EXTINF:-1 tvg-id="華視新聞資訊" tvg-name="華視新聞資訊" group-title="星火源",華視新聞資訊 #3
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-id="足协杯 兰州陇原竞技VS梅州客家 赛场原声 15:20" tvg-name="足协杯 兰州陇原竞技VS梅州客家 赛场原声 15:20" group-title="星火源",足协杯 兰州陇原竞技VS梅州客家 赛场原声 15:20
-http://120.24.194.118:10002/964768675
-#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" group-title="星火源",靖天卡通
-https://t.freetv.fun/live/jing-tian-qia-tong.php
-#EXTINF:-1 tvg-id="靖天戲劇" tvg-name="靖天戲劇" group-title="星火源",靖天戲劇
-https://t.freetv.fun/live/jing-tian-xi-ju.m3u8
-#EXTINF:-1 tvg-id="靖天戲劇" tvg-name="靖天戲劇" group-title="星火源",靖天戲劇 #2
-https://t.freetv.fun/live/jing-tian-xi-ju-1.php
-#EXTINF:-1 tvg-id="靖天日本" tvg-name="靖天日本" group-title="星火源",靖天日本
-https://t.freetv.fun/live/jing-tian-ri-ben.php
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" group-title="星火源",靖天映画
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" group-title="星火源",靖天映畫
-https://t.freetv.fun/live/jing-tian-ying-hua.m3u8
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" group-title="星火源",靖天映畫 #2
-https://t.freetv.fun/live/jing-tian-ying-hua-1.php
-#EXTINF:-1 tvg-id="靖天綜合" tvg-name="靖天綜合" group-title="星火源",靖天綜合
-https://t.freetv.fun/live/jing-tian-zong-he.php
-#EXTINF:-1 tvg-id="靖天育樂" tvg-name="靖天育樂" group-title="星火源",靖天育樂
-https://t.freetv.fun/live/jing-tian-yu-le.php
-#EXTINF:-1 tvg-id="靖天資訊" tvg-name="靖天資訊" group-title="星火源",靖天資訊
-https://t.freetv.fun/live/jing-tian-zi-xun.m3u8
-#EXTINF:-1 tvg-id="靖天資訊" tvg-name="靖天資訊" group-title="星火源",靖天資訊 #2
-https://t.freetv.fun/live/jing-tian-zi-xun-1.php
-#EXTINF:-1 tvg-id="靖天電影" tvg-name="靖天電影" group-title="星火源",靖天電影
-https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
-#EXTINF:-1 tvg-id="靖天電影" tvg-name="靖天電影" group-title="星火源",靖天電影 #2
-https://t.freetv.fun/live/jing-tian-dian-ying-1.php
-#EXTINF:-1 tvg-id="靖天電影" tvg-name="靖天電影" group-title="星火源",靖天電影 #3
-https://t.freetv.fun/live/jing-tian-dian-ying-1-1.php
-#EXTINF:-1 tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" group-title="星火源",靖洋戲劇
-https://t.freetv.fun/live/jing-yang-xi-ju.m3u8
-#EXTINF:-1 tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" group-title="星火源",靖洋戲劇 #2
-https://t.freetv.fun/live/jing-yang-xi-ju-1.php
-#EXTINF:-1 tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" group-title="星火源",靖洋戲劇 #3
-https://t.freetv.fun/live/jing-yang-xi-ju-1-1.php
-#EXTINF:-1 tvg-id="非凡商業" tvg-name="非凡商業" group-title="星火源",非凡商業
-https://t.freetv.fun/live/fei-fan-shang-ye.php
-#EXTINF:-1 tvg-id="非凡新聞HD" tvg-name="非凡新聞HD" group-title="星火源",非凡新聞HD
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-id="非凡新聞HD" tvg-name="非凡新聞HD" group-title="星火源",非凡新聞HD #2
-https://t.freetv.fun/live/fei-fan-xin-wen-3.php
-#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" group-title="星火源",龍華偶像
-https://t.freetv.fun/live/long-hua-ou-xiang.php
-#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" group-title="星火源",龍華偶像 #2
-https://t.freetv.fun/live/long-hua-ou-xiang-1.m3u8
-#EXTINF:-1 tvg-id="龍華卡通" tvg-name="龍華卡通" group-title="星火源",龍華卡通
-https://t.freetv.fun/live/long-hua-qia-tong.php
-#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" group-title="星火源",龍華戲劇
-https://t.freetv.fun/live/long-hua-xi-ju.php
-#EXTINF:-1 tvg-id="龍華日韓" tvg-name="龍華日韓" group-title="星火源",龍華日韓
-https://t.freetv.fun/live/long-hua-ri-han.php
-#EXTINF:-1 tvg-id="龍華日韓" tvg-name="龍華日韓" group-title="星火源",龍華日韓 #2
-https://t.freetv.fun/live/long-hua-ri-han-b.m3u8
-#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" group-title="星火源",龍華洋片
-https://t.freetv.fun/live/long-hua-yang-pian.php
-#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" group-title="星火源",龍華洋片 #2
-https://t.freetv.fun/live/long-hua-yang-pian-1.php
-#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" group-title="星火源",龍華洋片 #3
-https://t.freetv.fun/live/long-hua-yang-pian-2.m3u8
-#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" group-title="星火源",龍華洋片 #4
-https://t.freetv.fun/live/long-hua-yang-pian-3.m3u8
-#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" group-title="星火源",龍華經典
-https://t.freetv.fun/live/long-hua-jing-dian.php
-#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" group-title="星火源",龍華經典 #2
-https://t.freetv.fun/live/long-hua-jing-dian-b.m3u8
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" group-title="星火源",龍華電影
-https://t.freetv.fun/live/long-hua-dian-ying.php
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" group-title="星火源",龍華電影 #2
-https://t.freetv.fun/live/long-hua-dian-ying-1.php
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" group-title="星火源",龍華電影 #3
-https://t.freetv.fun/live/long-hua-dian-ying-2.m3u8
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" group-title="星火源",龍華電影 #4
-https://t.freetv.fun/live/long-hua-dian-ying-b.m3u8
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" group-title="星火源",澳視澳門
-https://t.freetv.fun/live/ao-shi-ao-men-5.m3u8
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" group-title="星火源",澳視澳門 #2
-https://t.freetv.fun/live/ch-ng-ao-shi-ao-men.m3u8
-#EXTINF:-1 tvg-id="澳視綜藝" tvg-name="澳視綜藝" group-title="星火源",澳視綜藝
-https://t.freetv.fun/live/ao-shi-zong-yi-1.m3u8
-#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" group-title="星火源",澳視葡文
-https://t.freetv.fun/live/ao-shi-pu-wen.m3u8
-#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" group-title="星火源",澳視葡文 #2
-https://t.freetv.fun/live/ch-ng-ao-shi-pu-wen.m3u8
-#EXTINF:-1 tvg-id="澳視資訊" tvg-name="澳視資訊" group-title="星火源",澳視資訊
-https://t.freetv.fun/live/ao-shi-zi-xun.m3u8
-#EXTINF:-1 tvg-id="澳視資訊" tvg-name="澳視資訊" group-title="星火源",澳視資訊 #2
-https://t.freetv.fun/live/ch-ng-ao-shi-zi-xun.m3u8
-#EXTINF:-1 tvg-id="澳視體育" tvg-name="澳視體育" group-title="星火源",澳視體育
-https://t.freetv.fun/live/ao-shi-ti-yu-1.m3u8
-#EXTINF:-1 tvg-id="澳視體育" tvg-name="澳視體育" group-title="星火源",澳視體育 #2
-https://t.freetv.fun/live/ch-ng-ao-shi-ti-yu.m3u8
-#EXTINF:-1 tvg-id="澳門MACAU" tvg-name="澳門MACAU" group-title="星火源",澳門MACAU
-https://t.freetv.fun/live/ao-men-macau-1.m3u8
-#EXTINF:-1 tvg-id="澳門蓮花" tvg-name="澳門蓮花" group-title="星火源",澳門蓮花
-https://t.freetv.fun/live/ao-men-lian-hua.m3u8
-#EXTINF:-1 tvg-id="Canal Macau Ch. 92 (720p) [Not 24/7]" tvg-name="Canal Macau Ch. 92 (720p) [Not 24/7]" group-title="星火源",Canal Macau Ch. 92 (720p) [Not 24/7]
-https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="HOY Infotainment (1080p) [Geo-blocked]" tvg-name="HOY Infotainment (1080p) [Geo-blocked]" group-title="星火源",HOY Infotainment (1080p) [Geo-blocked]
-https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
-#EXTINF:-1 tvg-id="HOY International Business Channel (1080p) [Geo-blocked]" tvg-name="HOY International Business Channel (1080p) [Geo-blocked]" group-title="星火源",HOY International Business Channel (1080p) [Geo-blocked]
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" group-title="星火源",HOY TV
-https://t.freetv.fun/live/hoy-tv.php
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" group-title="星火源",HOY TV #2
-https://t.freetv.fun/live/hoy-tv-1.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" group-title="星火源",HOY TV #3
-https://t.freetv.fun/live/hoy-77-sg.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" group-title="星火源",HOY TV #4
-http://173.208.234.146/live/hoy77.m3u8
-#EXTINF:-1 tvg-id="HOY TV (1080p) [Geo-blocked]" tvg-name="HOY TV (1080p) [Geo-blocked]" group-title="星火源",HOY TV (1080p) [Geo-blocked]
-https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 tvg-id="HOY 資訊臺" tvg-name="HOY 資訊臺" group-title="星火源",HOY 資訊臺
-http://173.208.234.146/live/hoy78.m3u8
-#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" group-title="星火源",HOY76
-http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" group-title="星火源",HOY77
-http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
-#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" group-title="星火源",HOY78
-http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
-#EXTINF:-1 tvg-id="HOY國際財經" tvg-name="HOY國際財經" group-title="星火源",HOY國際財經
-http://173.208.234.146/live/hoy76.m3u8
-#EXTINF:-1 tvg-id="HOY資訊台" tvg-name="HOY資訊台" group-title="星火源",HOY資訊台
-http://3niao.lielangys.top/play/1568275619470108006.m3u8
-#EXTINF:-1 tvg-id="Lotus Macau HD 720p (720p)" tvg-name="Lotus Macau HD 720p (720p)" group-title="星火源",Lotus Macau HD 720p (720p)
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="Ou-Mun Macau Satellite Ch. 96 (720p)" tvg-name="Ou-Mun Macau Satellite Ch. 96 (720p)" group-title="星火源",Ou-Mun Macau Satellite Ch. 96 (720p)
-https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]" tvg-name="RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]" group-title="星火源",RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]" tvg-name="RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]" group-title="星火源",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]" tvg-name="RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]" group-title="星火源",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1 tvg-id="RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]" tvg-name="RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]" group-title="星火源",RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" group-title="星火源",RTHK31
-https://t.freetv.fun/live/rthk31.php
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" group-title="星火源",RTHK31 #2
-https://t.freetv.fun/live/rthk31-sg.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" group-title="星火源",RTHK32
-https://t.freetv.fun/live/rthk32.php
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" group-title="星火源",RTHK32 #2
-https://t.freetv.fun/live/rthk32-sg.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31" tvg-name="RTHKTV31" group-title="星火源",RTHKTV31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="TDM Info. Macau (720p) [Not 24/7]" tvg-name="TDM Info. Macau (720p) [Not 24/7]" group-title="星火源",TDM Info. Macau (720p) [Not 24/7]
-https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TDM Ou Mun Macau Ch. 91 (720p)" tvg-name="TDM Ou Mun Macau Ch. 91 (720p)" group-title="星火源",TDM Ou Mun Macau Ch. 91 (720p)
-http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus
-https://t.freetv.fun/live/tvb-plus-1.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #2
-https://t.freetv.fun/live/tvb-plus-2.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #3
-https://t.freetv.fun/live/tvb-plus-3.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #4
-https://t.freetv.fun/live/tvb-plus-5.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #5
-https://t.freetv.fun/live/etv-plus-1.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #6
-https://t.freetv.fun/live/tv-puls.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #7
-https://t.freetv.fun/live/tvb-pluschao-qing.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" group-title="星火源",TVB Plus #8
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-id="TVB Vietnam (1080p)" tvg-name="TVB Vietnam (1080p)" group-title="星火源",TVB Vietnam (1080p)
-https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇
-https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #2
-https://t.freetv.fun/live/tvbsya-zhou-2.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #3
-https://t.freetv.fun/live/tvbsya-zhou.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #4
-https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #5
-https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #6
-https://t.freetv.fun/live/tvbsya-zhou-6.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #7
-https://t.freetv.fun/live/tvbsya-zhou-7.m3u8
-#EXTINF:-1 tvg-id="TVB亞洲劇" tvg-name="TVB亞洲劇" group-title="星火源",TVB亞洲劇 #8
-https://t.freetv.fun/live/tvbya-zhou-ju-tai.m3u8
-#EXTINF:-1 tvg-id="TVB星河(粵)" tvg-name="TVB星河(粵)" group-title="星火源",TVB星河(粵)
-https://t.freetv.fun/live/tvbxing-he.m3u8
-#EXTINF:-1 tvg-id="TVB星河(粵)" tvg-name="TVB星河(粵)" group-title="星火源",TVB星河(粵) #2
-https://t.freetv.fun/live/tvbxing-he-1.m3u8
-#EXTINF:-1 tvg-id="TVB星河(粵)" tvg-name="TVB星河(粵)" group-title="星火源",TVB星河(粵) #3
-https://t.freetv.fun/live/tvbxing-he-2.m3u8
-#EXTINF:-1 tvg-id="TVB星河(粵)" tvg-name="TVB星河(粵)" group-title="星火源",TVB星河(粵) #4
-https://t.freetv.fun/live/tvbxing-he-3.php
-#EXTINF:-1 tvg-id="TVB星河(粵)" tvg-name="TVB星河(粵)" group-title="星火源",TVB星河(粵) #5
-https://t.freetv.fun/live/tvbxing-he-4.m3u8
-#EXTINF:-1 tvg-id="TVB星河國語" tvg-name="TVB星河國語" group-title="星火源",TVB星河國語
-http://74.91.26.218:82/live/tvbxh.m3u8
-#EXTINF:-1 tvg-id="TVB華劇" tvg-name="TVB華劇" group-title="星火源",TVB華劇
-https://t.freetv.fun/live/tvb-fei-cui-tai-sg.m3u8
-#EXTINF:-1 tvg-id="TVB黃金翡翠台" tvg-name="TVB黃金翡翠台" group-title="星火源",TVB黃金翡翠台
-https://t.freetv.fun/live/tvbfei-cui-1.flv
-#EXTINF:-1 tvg-id="TVB黃金翡翠台" tvg-name="TVB黃金翡翠台" group-title="星火源",TVB黃金翡翠台 #2
-rtmp://118.145.86.104/live/yifatv-jade01
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD
-https://t.freetv.fun/live/viutv.m3u8
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #2
-https://t.freetv.fun/live/viutv-2.php
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #3
-https://t.freetv.fun/live/viutv-3.m3u8
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #4
-https://t.freetv.fun/live/viutv-4.m3u8
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #5
-https://t.freetv.fun/live/viutv-7.m3u8
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #6
-https://t.freetv.fun/live/viutv-8.php
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #7
-https://t.freetv.fun/live/viutv6.php
-#EXTINF:-1 tvg-id="ViuTV HD" tvg-name="ViuTV HD" group-title="星火源",ViuTV HD #8
-https://t.freetv.fun/live/viutv-sg.m3u8
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="星火源",ViuTVsix
-https://t.freetv.fun/live/viutvsix.m3u8
-#EXTINF:-1 tvg-id="【力量之火凤凰】" tvg-name="【力量之火凤凰】" group-title="星火源",【力量之火凤凰】
-https://live.ottiptv.cc/yy/1508456184
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="星火源",凤凰中文
-http://101.35.240.114:88/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰中文 (720p)" tvg-name="凤凰中文 (720p)" group-title="星火源",凤凰中文 (720p)
-http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-id="凤凰传奇全部歌曲24h循环播放" tvg-name="凤凰传奇全部歌曲24h循环播放" group-title="星火源",凤凰传奇全部歌曲24h循环播放
-https://goodiptv.club/bilibili/27404696
-#EXTINF:-1 tvg-id="凤凰传奇全部歌曲24h循环播放" tvg-name="凤凰传奇全部歌曲24h循环播放" group-title="星火源",凤凰传奇全部歌曲24h循环播放 #2
-https://live.ottiptv.cc/bilibili/27404696
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="星火源",凤凰资讯
-http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰资讯 (720p)" tvg-name="凤凰资讯 (720p)" group-title="星火源",凤凰资讯 (720p)
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="凤凰星火源" tvg-name="凤凰星火源" group-title="星火源",凤凰星火源
-http://101.35.240.114:88/phenix.php?id=fhhk
-#EXTINF:-1 tvg-id="名媛望族-精彩港剧" tvg-name="名媛望族-精彩港剧" group-title="星火源",名媛望族-精彩港剧
-https://goodiptv.club/yy/1354932431
-#EXTINF:-1 tvg-id="宫心计-港剧-古装" tvg-name="宫心计-港剧-古装" group-title="星火源",宫心计-港剧-古装
-https://goodiptv.club/yy/1354933540
-#EXTINF:-1 tvg-id="当旺爸爸-港剧" tvg-name="当旺爸爸-港剧" group-title="星火源",当旺爸爸-港剧
-https://goodiptv.club/yy/1354936208
-#EXTINF:-1 tvg-id="当旺爸爸-港剧" tvg-name="当旺爸爸-港剧" group-title="星火源",当旺爸爸-港剧 #2
-https://live.ottiptv.cc/yy/1354936208
-#EXTINF:-1 tvg-id="流金岁月-经典港剧" tvg-name="流金岁月-经典港剧" group-title="星火源",流金岁月-经典港剧
-https://goodiptv.club/yy/1382736891
-#EXTINF:-1 tvg-id="流金岁月-经典港剧" tvg-name="流金岁月-经典港剧" group-title="星火源",流金岁月-经典港剧 #2
-https://live.ottiptv.cc/yy/1382736891
-#EXTINF:-1 tvg-id="港剧-警犬巴打" tvg-name="港剧-警犬巴打" group-title="星火源",港剧-警犬巴打
-https://goodiptv.club/yy/1354932397
-#EXTINF:-1 tvg-id="港剧-警犬巴打" tvg-name="港剧-警犬巴打" group-title="星火源",港剧-警犬巴打 #2
-https://live.ottiptv.cc/yy/1354932397
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" group-title="星火源",港台电视31
-http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" group-title="星火源",港台电视32
-http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-#EXTINF:-1 tvg-id="破案港剧" tvg-name="破案港剧" group-title="星火源",破案港剧
-https://goodiptv.club/yy/1350670730
-#EXTINF:-1 tvg-id="破案港剧" tvg-name="破案港剧" group-title="星火源",破案港剧 #2
-https://live.ottiptv.cc/yy/1350670730
-#EXTINF:-1 tvg-id="经典星火源电影" tvg-name="经典星火源电影" group-title="星火源",经典星火源电影
-http://120.24.194.118:10002/625703337
-#EXTINF:-1 tvg-id="经典星火源电影" tvg-name="经典星火源电影" group-title="星火源",经典星火源电影 #2
-http://106.5.174.241:5678/625703337
-#EXTINF:-1 tvg-id="经典星火源电影" tvg-name="经典星火源电影" group-title="星火源",经典星火源电影 #3
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV1
+http://45.192.97.170:8880/play/1.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV2
+http://45.192.97.170:8880/play/2.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV3
+http://45.192.97.170:8880/play/3.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV4
+http://45.192.97.170:8880/play/4.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV5
+http://45.192.97.170:8880/play/5.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV5+
+http://45.192.97.170:8880/play/6.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV6
+http://45.192.97.170:8880/play/7.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV7
+http://45.192.97.170:8880/play/8.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV8
+http://45.192.97.170:8880/play/9.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV9
+http://45.192.97.170:8880/play/10.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV10
+http://45.192.97.170:8880/play/11.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV11
+http://45.192.97.170:8880/play/12.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV12
+http://45.192.97.170:8880/play/13.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV13
+http://45.192.97.170:8880/play/14.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV14
+http://45.192.97.170:8880/play/15.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV15
+http://45.192.97.170:8880/play/16.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV17
+http://45.192.97.170:8880/play/17.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV4欧洲
+http://45.192.97.170:8880/play/18.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV4美洲
+http://45.192.97.170:8880/play/19.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",赛事最经典
+http://45.192.97.170:8880/play/20.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",体坛名栏汇
+http://45.192.97.170:8880/play/21.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",四海钓鱼
+http://45.192.97.170:8880/play/22.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",大湾区卫视
+http://45.192.97.170:8880/play/23.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",陕西体育
+http://45.192.97.170:8880/play/24.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",辽宁体育
+http://45.192.97.170:8880/play/25.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",东方卫视
+http://45.192.97.170:8880/play/26.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",东方卫视
+http://bp-resource-dfl.bestv.cn/151/3/video.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",江苏卫视
+http://45.192.97.170:8880/play/27.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",广东卫视
+http://45.192.97.170:8880/play/28.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",北京卫视
+http://45.192.97.170:8880/play/29.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",辽宁卫视
+http://45.192.97.170:8880/play/30.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",河北卫视
+http://45.192.97.170:8880/play/31.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",江西卫视
+http://45.192.97.170:8880/play/32.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",陕西卫视
+http://45.192.97.170:8880/play/33.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",湖北卫视
+http://45.192.97.170:8880/play/34.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",农林卫视
+http://45.192.97.170:8880/play/35.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",兵团卫视
+http://45.192.97.170:8880/play/36.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",宁夏卫视
+https://hls.nxhhy.cn/live/nxws1M.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",延边卫视
+https://srs.iybtv.cn/video/CYS1/index.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV1@
+http://f.123.rr.kg/163189/cctv1
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV2@
+http://f.123.rr.kg/163189/cctv2
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV3@
+http://f.123.rr.kg/163189/cctv3
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV4@
+http://f.123.rr.kg/163189/cctv4
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV5@
+http://f.123.rr.kg/163189/cctv5
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV5@
+http://f.123.rr.kg/163189/cctv5-2
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV5+@
+http://f.123.rr.kg/163189/cctv5p
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV5+@
+http://f.123.rr.kg/163189/cctv5p-2
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV6@
+http://f.123.rr.kg/163189/cctv6
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV7@
+http://f.123.rr.kg/163189/cctv7
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV8@
+http://f.123.rr.kg/163189/cctv8
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV9@
+http://f.123.rr.kg/163189/cctv9
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV10@
+http://f.123.rr.kg/163189/cctv10
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV11@
+http://f.123.rr.kg/163189/cctv11
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV12@
+http://f.123.rr.kg/163189/cctv12
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV13@
+http://f.123.rr.kg/163189/cctv13
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV14@
+http://f.123.rr.kg/163189/cctv14
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV15@
+http://f.123.rr.kg/163189/cctv15
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV16@
+http://f.123.rr.kg/163189/cctv16
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV16@
+http://f.123.rr.kg/163189/cctv16-2
+#EXTINF:-1 group-title="🇨🇳央卫视直播1",CCTV17@
+http://f.123.rr.kg/163189/cctv17
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV1综合
+http://120.48.113.49:6006/608807420
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV2财经
+http://120.48.113.49:6006/631780532
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV3综艺
+http://120.48.113.49:6006/624878271
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV4中文国际
+http://120.48.113.49:6006/631780421
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV5体育
+http://120.48.113.49:6006/641886683
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV5+体育赛事
+http://120.48.113.49:6006/641886773
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV6电影
+http://120.48.113.49:6006/624878396
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV7国防军事
+http://120.48.113.49:6006/673168121
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV8电视剧
+http://120.48.113.49:6006/624878356
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV9纪录
+http://120.48.113.49:6006/673168140
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV10科教
+http://120.48.113.49:6006/624878405
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV11戏曲
+http://120.48.113.49:6006/667987558
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV12社会与法
+http://120.48.113.49:6006/673168185
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV13新闻
+http://120.48.113.49:6006/608807423
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV14少儿
+http://120.48.113.49:6006/624878440
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV15音乐
+http://120.48.113.49:6006/673168223
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV17农业农村
+http://120.48.113.49:6006/673168256
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV4欧洲
+http://120.48.113.49:6006/608807419
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CCTV4美洲
+http://120.48.113.49:6006/608807416
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CGTN外语纪录
+http://120.48.113.49:6006/609006487
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CGTN阿拉伯语
+http://120.48.113.49:6006/609154345
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CGTN西班牙语
+http://120.48.113.49:6006/609006450
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CGTN法语
+http://120.48.113.49:6006/609006476
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CGTN俄语
+http://120.48.113.49:6006/609006446
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",老故事
+http://120.48.113.49:6006/884121956
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",发现之旅
+http://120.48.113.49:6006/624878970
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",中学生
+http://120.48.113.49:6006/708869532
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CGTN
+http://120.48.113.49:6006/609017205
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",东方卫视
+http://120.48.113.49:6006/651632648
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",江苏卫视
+http://120.48.113.49:6006/623899368
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",广东卫视
+http://120.48.113.49:6006/608831231
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",北京卫视
+http://120.48.113.49:6006/630287636
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",辽宁卫视
+http://120.48.113.49:6006/630291707
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",河北卫视
+http://120.48.113.49:6006/962042070
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",江西卫视
+http://120.48.113.49:6006/783847495
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",河南卫视
+http://120.48.113.49:6006/790187291
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",陕西卫视
+http://120.48.113.49:6006/738910838
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",大湾区卫视
+http://120.48.113.49:6006/608917627
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",湖北卫视
+http://120.48.113.49:6006/947472496
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",吉林卫视
+http://120.48.113.49:6006/947472500
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",青海卫视
+http://120.48.113.49:6006/947472506
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",东南卫视
+http://120.48.113.49:6006/849116810
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",海南卫视
+http://120.48.113.49:6006/947472502
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",海峡卫视
+http://120.48.113.49:6006/849119120
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",中国农林卫视
+http://120.48.113.49:6006/956904896
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",兵团卫视
+http://120.48.113.49:6006/956923145
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",宁夏卫视
+http://120.48.113.49:6006/738910535
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",重庆卫视
+http://120.48.113.49:6006/738910914
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",三沙卫视
+http://120.48.113.49:6006/961023778
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",黑龙江卫视
+http://120.48.113.49:6006/738906901
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",赛事最经典
+http://120.48.113.49:6006/646596895
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",体坛名栏汇
+http://120.48.113.49:6006/629943305
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",四海钓鱼
+http://120.48.113.49:6006/637444975
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",24小时城市联赛轮播台
+http://120.48.113.49:6006/915512915
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",武术世界
+http://120.48.113.49:6006/958475359
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",快乐垂钓
+http://120.48.113.49:6006/961930263
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",建党105周年巡礼
+http://120.48.113.49:6006/713600957
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",经典香港电影
 http://120.48.113.49:6006/625703337
-#EXTINF:-1 tvg-id="缺宅男女-精彩港剧" tvg-name="缺宅男女-精彩港剧" group-title="星火源",缺宅男女-精彩港剧
-https://goodiptv.club/yy/1382745088
-#EXTINF:-1 tvg-id="缺宅男女-精彩港剧" tvg-name="缺宅男女-精彩港剧" group-title="星火源",缺宅男女-精彩港剧 #2
-https://live.ottiptv.cc/yy/1382745088
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台
-http://101.35.240.114:88/live.php?id=翡翠台
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #2
-https://t.freetv.fun/live/fei-cui-6.php
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #3
-https://t.freetv.fun/live/fei-cui-tai.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #4
-https://t.freetv.fun/live/fei-cui-2.php
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #5
-https://t.freetv.fun/live/fei-cui-4.php
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #6
-https://t.freetv.fun/live/fei-cui-5.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #7
-https://t.freetv.fun/live/fei-cui-7.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="星火源",翡翠台 #8
-https://t.freetv.fun/live/fei-cui-8.php
-#EXTINF:-1 tvg-id="迷网-警匪悬疑港剧" tvg-name="迷网-警匪悬疑港剧" group-title="星火源",迷网-警匪悬疑港剧
-https://live.ottiptv.cc/yy/1354888747
-#EXTINF:-1 tvg-id="金玉满堂：精彩港剧" tvg-name="金玉满堂：精彩港剧" group-title="星火源",金玉满堂：精彩港剧
-https://goodiptv.club/yy/1382736881
-#EXTINF:-1 tvg-id="金玉满堂：精彩港剧" tvg-name="金玉满堂：精彩港剧" group-title="星火源",金玉满堂：精彩港剧 #2
-https://live.ottiptv.cc/yy/1382736881
-#EXTINF:-1 tvg-id="非常保镖-经典港剧" tvg-name="非常保镖-经典港剧" group-title="星火源",非常保镖-经典港剧
-https://goodiptv.club/yy/1382736903
-#EXTINF:-1 tvg-id="非常保镖-经典港剧" tvg-name="非常保镖-经典港剧" group-title="星火源",非常保镖-经典港剧 #2
-https://live.ottiptv.cc/yy/1382736903
-#EXTINF:-1 tvg-id="星火源片系列" tvg-name="星火源片系列" group-title="星火源",星火源片系列
-https://huyazhibo.de5.net/?id=30631706
-#EXTINF:-1 tvg-id="星火源院线大片-最新" tvg-name="星火源院线大片-最新" group-title="星火源",星火源院线大片-最新
-https://goodiptv.club/yy/1354936242
-#EXTINF:-1 tvg-id="星火源院线大片-最新" tvg-name="星火源院线大片-最新" group-title="星火源",星火源院线大片-最新 #2
-https://live.ottiptv.cc/yy/1354936242
-#EXTINF:-1 tvg-id="高分港剧合集" tvg-name="高分港剧合集" group-title="星火源",高分港剧合集
-https://goodiptv.club/yy/1382735542
-#EXTINF:-1 tvg-id="高分港剧合集" tvg-name="高分港剧合集" group-title="星火源",高分港剧合集 #2
-https://live.ottiptv.cc/yy/1382735542
-#EXTINF:-1 tvg-id="鬼片喜剧动作港剧" tvg-name="鬼片喜剧动作港剧" group-title="星火源",鬼片喜剧动作港剧
-https://goodiptv.club/yy/1355269576
-#EXTINF:-1 tvg-id="鳳凰中文臺" tvg-name="鳳凰中文臺" group-title="星火源",鳳凰中文臺
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",新片放映厅
+http://120.48.113.49:6006/619495952
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CHC影迷电影
+http://120.48.113.49:6006/952383261
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CHC动作电影
+http://120.48.113.49:6006/644368714
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CHC家庭影院
+http://120.48.113.49:6006/644368373
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",和美乡途轮播台
+http://120.48.113.49:6006/713591450
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",南方影视
+http://120.48.113.49:6006/614961829
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",中国天气
+http://120.48.113.49:6006/959986621
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CETV1
+http://120.48.113.49:6006/923287154
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CETV2
+http://120.48.113.49:6006/923287211
+#EXTINF:-1 group-title="🇨🇳央卫视直播2",CETV4
+http://120.48.113.49:6006/923287339
+#EXTINF:-1 group-title="🔮港澳台直播",Now新聞臺
+http://173.208.234.146/live/nowxw.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",Now爆谷臺
+http://173.208.234.146/live/nowbg.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",Now爆谷星影臺
+http://173.208.234.146/live/nowxy.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",美亞電影臺粵語
+http://173.208.234.146/live/mymovie.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",Popc
+http://173.208.234.146/live/popc.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",HOY國際財經
+http://173.208.234.146/live/hoy76.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",HOY TV
+http://173.208.234.146/live/hoy77.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",HOY 資訊臺
+http://173.208.234.146/live/hoy78.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",翡翠臺
+http://173.208.234.146/live/jade.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",無線新聞臺
+http://173.208.234.146/live/inews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",鳳凰中文臺
 http://173.208.234.146/live/fhzw.m3u8
-#EXTINF:-1 tvg-id="鳳凰衛視-中文台" tvg-name="鳳凰衛視-中文台" group-title="星火源",鳳凰衛視-中文台
-http://3niao.lielangys.top/play/1608285342287698006.m3u8
-#EXTINF:-1 tvg-id="鳳凰衛視-資訊台" tvg-name="鳳凰衛視-資訊台" group-title="星火源",鳳凰衛視-資訊台
-http://3niao.lielangys.top/play/1685677773164578006.m3u8
-#EXTINF:-1 tvg-id="鳳凰衛視-星火源台" tvg-name="鳳凰衛視-星火源台" group-title="星火源",鳳凰衛視-星火源台
-http://3niao.lielangys.top/play/1608285422787728006.m3u8
-#EXTINF:-1 tvg-id="鳳凰衛視中文" tvg-name="鳳凰衛視中文" group-title="星火源",鳳凰衛視中文
-https://t.freetv.fun/live/feng-huang-wei-shi.php
-#EXTINF:-1 tvg-id="鳳凰衛視中文" tvg-name="鳳凰衛視中文" group-title="星火源",鳳凰衛視中文 #2
-https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-#EXTINF:-1 tvg-id="鳳凰衛視中文" tvg-name="鳳凰衛視中文" group-title="星火源",鳳凰衛視中文 #3
-https://t.freetv.fun/live/feng-huang-zhong-wen-1.flv
-#EXTINF:-1 tvg-id="鳳凰衛視中文" tvg-name="鳳凰衛視中文" group-title="星火源",鳳凰衛視中文 #4
-https://t.freetv.fun/live/feng-huang-zhong-wen-sg.m3u8
-#EXTINF:-1 tvg-id="鳳凰資訊HD" tvg-name="鳳凰資訊HD" group-title="星火源",鳳凰資訊HD
-https://t.freetv.fun/live/feng-huang-zi-xun-1.php
-#EXTINF:-1 tvg-id="鳳凰資訊HD" tvg-name="鳳凰資訊HD" group-title="星火源",鳳凰資訊HD #2
-https://t.freetv.fun/live/feng-huang-zi-xun.flv
-#EXTINF:-1 tvg-id="鳳凰資訊HD" tvg-name="鳳凰資訊HD" group-title="星火源",鳳凰資訊HD #3
-https://t.freetv.fun/live/feng-huang-zi-xun-2.php
-#EXTINF:-1 tvg-id="鳳凰資訊HD" tvg-name="鳳凰資訊HD" group-title="星火源",鳳凰資訊HD #4
-https://t.freetv.fun/live/feng-huang-zi-xun-6.php
-#EXTINF:-1 tvg-id="鳳凰資訊臺" tvg-name="鳳凰資訊臺" group-title="星火源",鳳凰資訊臺
+#EXTINF:-1 group-title="🔮港澳台直播",鳳凰資訊臺
 http://173.208.234.146/live/fhzx.m3u8
-#EXTINF:-1 tvg-id="鳳凰電影" tvg-name="鳳凰電影" group-title="星火源",鳳凰電影
-https://t.freetv.fun/live/feng-huang-dian-ying.m3u8
-#EXTINF:-1 tvg-id="鳳凰星火源" tvg-name="鳳凰星火源" group-title="星火源",鳳凰星火源
-https://t.freetv.fun/live/feng-huang-xiang-gang-sg.m3u8
-#EXTINF:-1 tvg-id="鳳凰星火源臺" tvg-name="鳳凰星火源臺" group-title="星火源",鳳凰星火源臺
+#EXTINF:-1 group-title="🔮港澳台直播",鳳凰香港臺
 http://173.208.234.146/live/fhxg.m3u8
-#EXTINF:-1 tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" group-title="星火源",黄金翡翠台
+#EXTINF:-1 group-title="🔮港澳台直播",中視
+http://173.208.234.146/live/ctv.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",中視新聞
+http://173.208.234.146/live/ctvnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",中視經典
+http://173.208.234.146/live/ctvjd.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",中視菁採
+http://173.208.234.146/live/ctvjc.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",臺視
+http://173.208.234.146/live/ttv.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",臺視新聞
+http://173.208.234.146/live/ttvnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",臺視綜合
+http://173.208.234.146/live/ttvzh.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",臺視財經
+http://173.208.234.146/live/ttvcj.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",民視
+http://173.208.234.146/live/ftv.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",民視新聞臺
+http://173.208.234.146/live/ftvnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",民視臺灣臺
+http://173.208.234.146/live/ftvtw.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",民視第一臺
+http://173.208.234.146/live/ftvdy.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",華視
+http://173.208.234.146/live/cts.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",華視新聞資訊
+http://173.208.234.146/live/ctsnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",華視教育體育文化
+http://173.208.234.146/live/ctsjy.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",公視
+http://173.208.234.146/live/pts.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",公視臺語臺
+http://173.208.234.146/live/ptsty.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",小公視
+http://173.208.234.146/live/ptsse.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",中天新聞
+http://173.208.234.146/live/ctinews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",TVBS新聞臺
+http://173.208.234.146/live/tvbsnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",東森新聞
+http://173.208.234.146/live/ebcnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",三立新聞
+http://173.208.234.146/live/setnews.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",HOY資訊台
+http://3niao.lielangys.top/play/1568275619470108006.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",鳳凰衛視-香港台
+http://3niao.lielangys.top/play/1608285422787728006.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",鳳凰衛視-中文台
+http://3niao.lielangys.top/play/1608285342287698006.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",鳳凰衛視-資訊台
+http://3niao.lielangys.top/play/1685677773164578006.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",翡翠台
+http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+#EXTINF:-1 group-title="🔮港澳台直播",TVBPlus
+http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+#EXTINF:-1 group-title="🔮港澳台直播",HOY76
+http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
+#EXTINF:-1 group-title="🔮港澳台直播",HOY77
+http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+#EXTINF:-1 group-title="🔮港澳台直播",HOY78
+http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+#EXTINF:-1 group-title="🔮港澳台直播",黄金华剧台
+https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+#EXTINF:-1 group-title="🔮港澳台直播",黄金华剧台粤
+https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+#EXTINF:-1 group-title="🔮港澳台直播",黄金翡翠台
 https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-#EXTINF:-1 tvg-id="👉👉支持所有线路" tvg-name="👉👉支持所有线路" group-title="星火源",👉👉支持所有线路
-http://110.42.52.180:6688/live/live.php?token=ZV2gub2wNNxD&id=cctv8&zy.m3u8@0@1@@token@user_agent@CCTV8电视剧
+#EXTINF:-1 group-title="🔮港澳台直播",美亚电影台粤
+https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+#EXTINF:-1 group-title="🔮港澳台直播",美亚电影台国
+https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+#EXTINF:-1 group-title="🔮港澳台直播",港台电视31
+http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+#EXTINF:-1 group-title="🔮港澳台直播",港台电视32
+http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
+#EXTINF:-1 group-title="🔮港澳台直播",LIVE三立
+https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",TVBS新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",民视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",中天新闻
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",CGN中文台
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",Dali TV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",TITV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🔮港澳台直播",RTHKTV31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇲🇾马来西亚直播",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Sansad TV 1
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Sansad TV 2
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",DD Sports SD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",DD Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Odisha TV
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 group-title="🇮🇳印度直播",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",NHK G
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+#EXTINF:-1 group-title="🇯🇵日本直播",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",日テレNEWSセレクト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",共同通信News
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",NewsWorld
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",オリコンニュース
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",Bloomberg TV+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",Euronews
+https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",Reuters 60
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ビジネス・プレミアム (FAST)
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",エンタメニュース (FAST)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",NHK World-Japan
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",TOP BARÇA
+https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",NTV Pro Wrestling
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",刺激ストロングSPORTS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",FUEL TV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",GOLF LIFE (FAST)
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ムビドラTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",時代劇TV (FAST)
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",LeminoTV (FAST)
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",エンタメ・アジア (FAST)
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",Kids Staton
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="🇯🇵日本直播",手塚プロダクションTV
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",キッズ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",アニマックス FREE (FAST)
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",that’s 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",that’s 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",that’s 90s00s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",that’s Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ペットTV (FAST)
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",キャンプ・アウトドア (FAST)
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",今日のごはんなに? (FAST)
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",観るたび (FAST)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",囲碁・将棋ライト
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",麻雀
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",パチンコ・パチスロ
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ぷれいば！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ワンニャンチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",九州・沖縄　街ネタ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",丸ごと九州 (FAST)
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ぴあ落語ざんまい (FAST)
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",FASHIONPLUS (FAST)
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",囲碁・将棋ライト (FAST)
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",丸ごと北海道 (FAST)
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",東海ロキポ (FAST)
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",エンタメ～テレDEEP
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",韓流チャンネル (FAST)
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",ショップチャンネル
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",セクシーエンタメチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵日本直播",映画（年齢制限あり）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",GCN24 Korean (720p)
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",MBC Yeosu (여수 MBC)[Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",tvchosun2
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",EBS1
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 group-title="🇰🇷韩国直播",EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸美国直播",CBS 2 New York
+http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
+
