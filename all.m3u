@@ -1123,6 +1123,164 @@ http://211.23.95.147:18881/live/dtv44_h265.ts
 #EXTINF:-1 group-title="TW怡淳211",湖南國際
 http://211.23.95.147:18881/live/dtv45_h265.ts
 
+#EXTM3U
+#EXTINF:-1 group-title="台湾125",凤凰中文
+http://125.227.210.55:39004/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",台视新闻
+http://125.227.210.55:3089/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",中视新闻
+http://125.227.210.55:3079/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",华视新闻资讯
+http://125.227.210.55:3093/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",民视新闻
+http://125.227.210.55:3017/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TVBS新闻
+http://125.227.210.55:1036/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",东森新闻
+http://125.227.210.55:4046/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",非凡新闻
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",台视财经
+http://125.227.210.55:3090/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",国会频道1
+http://125.227.210.55:3094/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",国会频道2
+http://125.227.210.55:3095/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TaiwanPlus
+http://125.227.210.55:3083/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",东森电影
+http://125.227.210.55:3052/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",东森洋片
+http://125.227.210.55:3055/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",好莱坞电影
+http://125.227.210.55:4049/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",龙祥时代
+http://125.227.210.55:1084/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",纬来电影
+http://125.227.210.55:1082/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",台视
+http://125.227.210.55:1008/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",台视
+http://125.227.210.55:3018/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",中视
+http://125.227.210.55:3049/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",华视
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",民视
+http://125.227.210.55:8093/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",公视
+http://125.227.210.55:3024/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",台视综合
+http://125.227.210.55:3091/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",中视经典
+http://125.227.210.55:3080/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",中视菁采
+http://125.227.210.55:3081/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",民视第一
+http://125.227.210.55:3084/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",民视台湾
+http://125.227.210.55:3085/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TVBS欢乐
+http://125.227.210.55:3047/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",八大第一
+http://125.227.210.55:1085/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",东森超视
+http://125.227.210.55:1087/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",三立台湾
+http://125.227.210.55:3020/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",纬来日本
+http://125.227.210.55:1083/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",中天娱乐
+http://125.227.210.55:3044/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",中天综合
+http://125.227.210.55:4048/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",东森幼幼
+http://125.227.210.55:4052/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",博斯网球
+http://125.227.210.55:3060/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",纬来体育
+http://125.227.210.55:1005/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",华视教育体育文化
+http://125.227.210.55:3092/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",客家电视
+http://125.227.210.55:3087/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",原住民族电视
+http://125.227.210.55:3088/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",Al Jazeera English
+http://125.227.210.55:16382/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",Animax
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",Arirang
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",AXN
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",BBCNews
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CCTV1
+http://125.227.210.55:4043/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CCTV1
+http://125.227.210.55:8175/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CCTV9
+http://125.227.210.55:1094/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CCTV5+
+http://125.227.210.55:8177/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",Channel 7
+http://125.227.210.55:3078/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CineMax
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CNA
+http://125.227.210.55:4044/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CNBC
+http://125.227.210.55:1002/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CNN
+http://125.227.210.55:3026/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",CN卡通频道
+http://125.227.210.55:3027/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",DW News
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",HBO HD
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",JTBC Sports
+http://125.227.210.55:3066/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",KBS World
+http://125.227.210.55:1025/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",NHK WORLD JAPAN 
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",NHKBS
+http://125.227.210.55:8210/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",NHKBSP4K
+http://125.227.210.55:8215/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",nnu
+http://125.227.210.55:3077/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",On Channel
+http://125.227.210.55:8172/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",PPTV36
+http://125.227.210.55:3076/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",PTSxs
+http://125.227.210.55:3086/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",BS フジ
+http://125.227.210.55:1092/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",SPOTV2
+http://125.227.210.55:8171/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TLC
+http://125.227.210.55:4047/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TV5 News
+http://125.227.210.55:1091/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TV5MONDE
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",TVBS
+http://125.227.210.55:1038/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",GMA
+http://125.227.210.55:3057/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",VTV4
+http://125.227.210.55:1090/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",博斯高球1
+http://125.227.210.55:3059/VideoInput/play.ts
+#EXTINF:-1 group-title="台湾125",博斯运动1
+http://125.227.210.55:8173/VideoInput/play.ts
+
 #EXTINF:-1 group-title="myvideo",DAZN體育台
 https://hb.msbot.dpdns.org/?id=dazn
 #EXTINF:-1 group-title="myvideo",MyVideo體育台
