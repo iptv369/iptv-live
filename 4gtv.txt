@@ -511,19 +511,84 @@ CBeebies,https://hb.msbot.dpdns.org/?id=bbc-cbeebies
 
 台灣油管新聞,#genre#
 
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
-三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+凤凰中文,http://125.227.210.55:39004/VideoInput/play.ts
+台视新闻,http://125.227.210.55:3089/VideoInput/play.ts
+中视新闻,http://125.227.210.55:3079/VideoInput/play.ts
+华视新闻资讯,http://125.227.210.55:3093/VideoInput/play.ts
+民视新闻,http://125.227.210.55:3017/VideoInput/play.ts
+TVBS新闻,http://125.227.210.55:1036/VideoInput/play.ts
+东森新闻,http://125.227.210.55:4046/VideoInput/play.ts
+非凡新闻,http://125.227.210.55:1086/VideoInput/play.ts
+台视财经,http://125.227.210.55:3090/VideoInput/play.ts
+国会频道1,http://125.227.210.55:3094/VideoInput/play.ts
+国会频道2,http://125.227.210.55:3095/VideoInput/play.ts
+TaiwanPlus,http://125.227.210.55:3083/VideoInput/play.ts
+东森电影,http://125.227.210.55:3052/VideoInput/play.ts
+东森洋片,http://125.227.210.55:3055/VideoInput/play.ts
+好莱坞电影,http://125.227.210.55:4049/VideoInput/play.ts
+龙祥时代,http://125.227.210.55:1084/VideoInput/play.ts
+纬来电影,http://125.227.210.55:1082/VideoInput/play.ts
+台视,http://125.227.210.55:1008/VideoInput/play.ts
+台视,http://125.227.210.55:3018/VideoInput/play.ts
+中视,http://125.227.210.55:3049/VideoInput/play.ts
+华视,http://125.227.210.55:8163/VideoInput/play.ts
+民视,http://125.227.210.55:8093/VideoInput/play.ts
+公视,http://125.227.210.55:3024/VideoInput/play.ts
+台视综合,http://125.227.210.55:3091/VideoInput/play.ts
+中视经典,http://125.227.210.55:3080/VideoInput/play.ts
+中视菁采,http://125.227.210.55:3081/VideoInput/play.ts
+民视第一,http://125.227.210.55:3084/VideoInput/play.ts
+民视台湾,http://125.227.210.55:3085/VideoInput/play.ts
+TVBS欢乐,http://125.227.210.55:3047/VideoInput/play.ts
+八大第一,http://125.227.210.55:1085/VideoInput/play.ts
+东森超视,http://125.227.210.55:1087/VideoInput/play.ts
+三立台湾,http://125.227.210.55:3020/VideoInput/play.ts
+纬来日本,http://125.227.210.55:1083/VideoInput/play.ts
+中天娱乐,http://125.227.210.55:3044/VideoInput/play.ts
+中天综合,http://125.227.210.55:4048/VideoInput/play.ts
+东森幼幼,http://125.227.210.55:4052/VideoInput/play.ts
+博斯网球,http://125.227.210.55:3060/VideoInput/play.ts
+纬来体育,http://125.227.210.55:1005/VideoInput/play.ts
+华视教育体育文化,http://125.227.210.55:3092/VideoInput/play.ts
+客家电视,http://125.227.210.55:3087/VideoInput/play.ts
+原住民族电视,http://125.227.210.55:3088/VideoInput/play.ts
+Al Jazeera English,http://125.227.210.55:16382/VideoInput/play.ts
+Animax,http://125.227.210.55:3056/VideoInput/play.ts
+Arirang,http://125.227.210.55:48553/VideoInput/play.ts
+AXN,http://125.227.210.55:4050/VideoInput/play.ts
+BBCNews,http://125.227.210.55:8165/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+CCTV1,http://125.227.210.55:4043/VideoInput/play.ts
+CCTV1,http://125.227.210.55:8175/VideoInput/play.ts
+CCTV9,http://125.227.210.55:1094/VideoInput/play.ts
+CCTV5+,http://125.227.210.55:8177/VideoInput/play.ts
+Channel 7,http://125.227.210.55:3078/VideoInput/play.ts
+CineMax,http://125.227.210.55:1001/VideoInput/play.ts
+CNA,http://125.227.210.55:4044/VideoInput/play.ts
+CNBC,http://125.227.210.55:1002/VideoInput/play.ts
+CNN,http://125.227.210.55:3026/VideoInput/play.ts
+CN卡通频道,http://125.227.210.55:3027/VideoInput/play.ts
+DW News,http://125.227.210.55:42534/VideoInput/play.ts
+HBO HD,http://125.227.210.55:1003/VideoInput/play.ts
+JTBC Sports,http://125.227.210.55:3066/VideoInput/play.ts
+KBS World,http://125.227.210.55:1025/VideoInput/play.ts
+NHK WORLD JAPAN ,http://125.227.210.55:35802/VideoInput/play.ts
+NHKBS,http://125.227.210.55:8210/VideoInput/play.ts
+NHKBSP4K,http://125.227.210.55:8215/VideoInput/play.ts
+nnu,http://125.227.210.55:3077/VideoInput/play.ts
+On Channel,http://125.227.210.55:8172/VideoInput/play.ts
+PPTV36,http://125.227.210.55:3076/VideoInput/play.ts
+PTSxs,http://125.227.210.55:3086/VideoInput/play.ts
+BS フジ,http://125.227.210.55:1092/VideoInput/play.ts
+SPOTV2,http://125.227.210.55:8171/VideoInput/play.ts
+TLC,http://125.227.210.55:4047/VideoInput/play.ts
+TV5 News,http://125.227.210.55:1091/VideoInput/play.ts
+TV5MONDE,http://125.227.210.55:15533/VideoInput/play.ts
+TVBS,http://125.227.210.55:1038/VideoInput/play.ts
+GMA,http://125.227.210.55:3057/VideoInput/play.ts
+VTV4,http://125.227.210.55:1090/VideoInput/play.ts
+博斯高球1,http://125.227.210.55:3059/VideoInput/play.ts
+博斯运动1,http://125.227.210.55:8173/VideoInput/play.ts
 Rakuten-JP,#genre#
  日テレNEWS,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
  FNNプライムオンライン,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
