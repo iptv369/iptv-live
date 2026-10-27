@@ -1,4 +1,4 @@
-凤凰秀,#genre#
+凤凰频道,#genre#
 凤凰中文台,http://154.40.58.126/fhx_proxy.php?id=2
 凤凰资讯台,http://154.40.58.126/fhx_proxy.php?id=1
 凤凰香港台,http://154.40.58.126/fhx_proxy.php?id=3
