@@ -1,0 +1,4 @@
+测试,#genre#
+A-FLV脚本,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@30224e169d1db941ac51b31b41868cf1acd2ef66/ku9/js/fenghuang.js?id=pcc
+B-HLS中转,http://154.40.58.126/fhx_proxy.php?id=2
+C-HLS资讯,http://154.40.58.126/fhx_proxy.php?id=1
