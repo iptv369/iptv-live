@@ -40,7 +40,7 @@ function main(item) {
             || !/[?&]txTime=[a-f0-9]+(?:&|$)/i.test(url)) {
         throw new Error('凤凰频道缺少有效的签名播放地址：' + channel[2]);
     }
-    // 官网配置的 HTTPS 电视 CDN；三台均提供 FLV。保留接口签名，不缓存过期 URL。
-    // 不能将 .flv 直接改为 .m3u8，当前 HLS 端点返回 403。
-    return {url: 'https://tlive.fengshows.com' + match[1], referer: page, userAgent: userAgent};
+    // 原样使用接口下发的主机与全部参数：国内 dispatch.fengshows.cn:8484 可直连，
+    // 301 跳 qctv.fengshows.cn 后即为 FLV 直播流。不要改成 tlive，该域名国内 403。
+    return {url: url, referer: page, userAgent: userAgent};
 }
