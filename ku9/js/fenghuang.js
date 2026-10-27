@@ -40,7 +40,11 @@ function main(item) {
             || !/[?&]txTime=[a-f0-9]+(?:&|$)/i.test(url)) {
         throw new Error('凤凰频道缺少有效的签名播放地址：' + channel[2]);
     }
-    // 原样使用接口下发的主机与全部参数：国内 dispatch.fengshows.cn:8484 可直连，
-    // 301 跳 qctv.fengshows.cn 后即为 FLV 直播流。不要改成 tlive，该域名国内 403。
-    return {url: url, referer: page, userAgent: userAgent};
+    // 接口下发的是 http://dispatch.fengshows.cn:8484（301 跳 qctv），该地址用 HTTP
+    // 会每 0.2 秒就 Connection: Close 断一次，导致播放几秒一卡。
+    // 换成 301 的目标主机并改用 HTTPS，可分片连续出流（实测 30 秒不断）。
+    // 只换主机与协议，路径和 txSecret/txTime 原样保留。
+    var playUrl = url.replace(/^http:\/\/dispatch\.fengshows\.cn:8484/i,
+                              'https://qctv.fengshows.cn');
+    return {url: playUrl, referer: page, userAgent: userAgent};
 }
