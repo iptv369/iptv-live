@@ -1,4 +1,4 @@
 凤凰频道,#genre#
-凤凰中文台,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@70b2158f31a1f11dbb5608e64be4654c079eeba8/ku9/js/fenghuang.js?id=pcc
-凤凰资讯台,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@70b2158f31a1f11dbb5608e64be4654c079eeba8/ku9/js/fenghuang.js?id=pin
-凤凰香港台,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@70b2158f31a1f11dbb5608e64be4654c079eeba8/ku9/js/fenghuang.js?id=phk
+凤凰中文台,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@25d6ed17f589920447d28387390758f1f1509cf3/ku9/js/fenghuang.js?id=pcc
+凤凰资讯台,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@25d6ed17f589920447d28387390758f1f1509cf3/ku9/js/fenghuang.js?id=pin
+凤凰香港台,https://fastly.jsdelivr.net/gh/iptv369/iptv-live@25d6ed17f589920447d28387390758f1f1509cf3/ku9/js/fenghuang.js?id=phk
