@@ -590,3 +590,150 @@ VTV4,http://125.227.210.55:1090/VideoInput/play.ts
 博斯高球1,http://125.227.210.55:3059/VideoInput/play.ts
 博斯运动1,http://125.227.210.55:8173/VideoInput/play.ts
 
+sop源,#genre#
+CCTV1,sop://br4.gmtv.net:80/20003
+CCTV3,sop://br4.gmtv.net:80/20005
+CCTV5+,sop://br4.gmtv.net:80/20008
+CCTV6,sop://br4.gmtv.net:80/20009
+CCTV7,sop://br4.gmtv.net:80/20010
+CCTV8,sop://br4.gmtv.net:80/20011
+CCTV9,sop://br4.gmtv.net:80/20012
+CCTV10,sop://br4.gmtv.net:80/20013
+CCTV11,sop://br4.gmtv.net:80/20014
+CCTV12,sop://br4.gmtv.net:80/20015
+CCTV14,sop://br4.gmtv.net:80/20017
+CCTV15,sop://br4.gmtv.net:80/20018
+CCTV17,sop://br4.gmtv.net:80/20072
+北京衛視,sop://br4.gmtv.net:80/20001
+東方衛視,sop://br4.gmtv.net:80/20019
+山東衛視,sop://br4.gmtv.net:80/20020
+東南衛視,sop://br4.gmtv.net:80/20021
+廣東體育,sop://br4.gmtv.net:80/20023
+陝西衛視,sop://br4.gmtv.net:80/20024
+貴州衛視,sop://br4.gmtv.net:80/20027
+河北衛視,sop://br4.gmtv.net:80/20028
+湖北衛視,sop://br4.gmtv.net:80/20030
+遼寧衛視,sop://br4.gmtv.net:80/20033
+大亞灣衛視,sop://br4.gmtv.net:80/20034
+深圳衛視,sop://br4.gmtv.net:80/20037
+四川衛視,sop://br4.gmtv.net:80/20038
+天津衛視,sop://br4.gmtv.net:80/20039
+浙江衛視,sop://br4.gmtv.net:80/20040
+重慶衛視,sop://br4.gmtv.net:80/20041
+廣東衛視,sop://br4.gmtv.net:80/20042
+廣東珠江,sop://br4.gmtv.net:80/20043
+安徽衛視,sop://br4.gmtv.net:80/20044
+翡翠臺,sop://br4.gmtv.net:80/23106
+TVB J1,sop://br4.gmtv.net:80/40032
+TVB PLUS,sop://br4.gmtv.net:80/20098
+TVBS 新聞,sop://br4.gmtv.net:80/23103
+TVB娛樂新聞臺,sop://br4.gmtv.net:80/20104
+TVB明珠臺,sop://br4.gmtv.net:80/23111
+TVB星河頻道,sop://br4.gmtv.net:80/23114
+TVB無線新聞臺,sop://br4.gmtv.net:80/23110
+TVB經典,sop://br4.gmtv.net:80/23096
+VIU TV 6,sop://br4.gmtv.net:80/40025
+VIUTV,sop://br4.gmtv.net:80/23105
+HOY TV,sop://br4.gmtv.net:80/20338
+HOY資訊臺,sop://br4.gmtv.net:80/40008
+NOW LIVE,sop://br4.gmtv.net:80/40001
+NOW NEWS,sop://br4.gmtv.net:80/43002
+RTHK TV 31,sop://br4.gmtv.net:80/40003
+RTHK TV 32,sop://br4.gmtv.net:80/40004
+新時代 1,sop://br4.gmtv.net:80/43026
+新時代 2,sop://br4.gmtv.net:80/40021
+新時代西部,sop://br4.gmtv.net:80/40022
+有線18臺,sop://br4.gmtv.net:80/20100
+澳門蓮花,sop://br4.gmtv.net:80/40023
+澳門衛視,sop://br4.gmtv.net:80/40017
+罪案偵緝,sop://br4.gmtv.net:80/20250
+耀才財經,sop://br4.gmtv.net:80/40016
+陽光衛視,sop://br4.gmtv.net:80/40028
+香港國際財經臺,sop://br4.gmtv.net:80/40013
+香港衛視HKS,sop://br4.gmtv.net:80/40010
+鳳凰中文臺,sop://br4.gmtv.net:80/20108
+鳳凰衛視臺,sop://br4.gmtv.net:80/20107
+鳳凰資訊臺,sop://br4.gmtv.net:80/20109
+鳳凰香港,sop://br4.gmtv.net:80/20107
+黃金翡翠臺,sop://br4.gmtv.net:80/40009
+智林體育台,sop://br4.gmtv.net:80/20045
+TRACE,sop://br4.gmtv.net:80/20046
+八大娛樂台,sop://br4.gmtv.net:80/20051
+Discovery Asia,sop://br4.gmtv.net:80/20056
+EVE,sop://br4.gmtv.net:80/20057
+DMAX,sop://br4.gmtv.net:80/20058
+雲南衛視,sop://br4.gmtv.net:80/20084
+TVN,sop://br4.gmtv.net:80/20087
+龍華偶像,sop://br4.gmtv.net:80/20088
+中視菁采,sop://br4.gmtv.net:80/20089
+博斯魅力,sop://br4.gmtv.net:80/20091
+龍華電影,sop://br4.gmtv.net:80/20092
+動物星球,sop://br4.gmtv.net:80/20093
+采昌,sop://br4.gmtv.net:80/20095
+好消息1台,sop://br4.gmtv.net:80/20101
+TVBS歡樂台,sop://br4.gmtv.net:80/20102#sop://br4.gmtv.net:80/20311
+娛樂新聞台,sop://br4.gmtv.net:80/20104
+信大,sop://br4.gmtv.net:80/20142
+好消息2台,sop://br4.gmtv.net:80/20143
+龍華日韓,sop://br4.gmtv.net:80/20145
+非凡商業,sop://br4.gmtv.net:80/20220
+台視財經,sop://br4.gmtv.net:80/20222
+靖天國際台,sop://br4.gmtv.net:80/20225
+靖天育樂台,sop://br4.gmtv.net:80/20226
+靖天日本台,sop://br4.gmtv.net:80/20227
+靖天歡樂台,sop://br4.gmtv.net:80/20228
+靖天資訊台,sop://br4.gmtv.net:80/20229
+靖天綜合台,sop://br4.gmtv.net:80/20230
+靖天卡通台,sop://br4.gmtv.net:80/20231
+八大精彩台,sop://br4.gmtv.net:80/20232
+寰宇財經台,sop://br4.gmtv.net:80/20241
+天映頻道,sop://br4.gmtv.net:80/20242
+龍華戲劇,sop://br4.gmtv.net:80/20247
+Hakkatv,sop://br4.gmtv.net:80/20249
+ANIMAX,sop://br4.gmtv.net:80/20251
+靖天電影台,sop://br4.gmtv.net:80/20252
+緯來戲劇,sop://br4.gmtv.net:80/20254
+ELTA綜合,sop://br4.gmtv.net:80/20255
+ELTA體育1,sop://br4.gmtv.net:80/20257
+ELTA體育max1,sop://br4.gmtv.net:80/20258
+ELTA體育max2,sop://br4.gmtv.net:80/20259
+ELTA體育max3,sop://br4.gmtv.net:80/20260
+靖洋戲劇台,sop://br4.gmtv.net:80/20261
+CN卡通,sop://br4.gmtv.net:80/20264
+龍華卡通,sop://br4.gmtv.net:80/20265
+HBO HITS,sop://br4.gmtv.net:80/20266
+TLC,sop://br4.gmtv.net:80/20269
+公視台語台,sop://br4.gmtv.net:80/20271
+ELTA體育max4,sop://br4.gmtv.net:80/20272
+八大第一台,sop://br4.gmtv.net:80/20273
+時尚運動x,sop://br4.gmtv.net:80/20275
+八大綜合台,sop://br4.gmtv.net:80/20276
+博斯高球1,sop://br4.gmtv.net:80/20277
+博斯高球2,sop://br4.gmtv.net:80/20278
+博斯網球,sop://br4.gmtv.net:80/20279
+博斯運動2,sop://br4.gmtv.net:80/20281
+博斯運動1,sop://br4.gmtv.net:80/20282
+台視,sop://br4.gmtv.net:80/20283
+大愛1,sop://br4.gmtv.net:80/20284
+龍華經典,sop://br4.gmtv.net:80/20287
+東森戲劇,sop://br4.gmtv.net:80/20288
+Z,sop://br4.gmtv.net:80/20297
+TVBS精采台,sop://br4.gmtv.net:80/20305
+韓國娛樂台,sop://br4.gmtv.net:80/20306
+環宇新聞台灣台,sop://br4.gmtv.net:80/20309
+環宇新聞台,sop://br4.gmtv.net:80/20310
+三立戲劇台,sop://br4.gmtv.net:80/20313
+影劇,sop://br4.gmtv.net:80/20315
+東森超視,sop://br4.gmtv.net:80/20316
+ELTA影劇,sop://br4.gmtv.net:80/20318
+博斯無限2,sop://br4.gmtv.net:80/20319
+ELTAmax9,sop://br4.gmtv.net:80/20320
+國會頻道1,sop://br4.gmtv.net:80/20322
+國會頻道2,sop://br4.gmtv.net:80/20323
+人間衛視,sop://br4.gmtv.net:80/20325
+生命電視台,sop://br4.gmtv.net:80/20327
+民視台灣台,sop://br4.gmtv.net:80/20335
+三立綜合台,sop://br4.gmtv.net:80/20343
+台視新聞,sop://br4.gmtv.net:80/20345
+緯來娛樂,sop://br4.gmtv.net:80/20351
+MOMO親子台,sop://br4.gmtv.net:80/21101
