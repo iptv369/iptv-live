@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="http://192.168.10.25:8577/epg.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv1.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-1 综合
+http://192.168.10.25:8577/ysp/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv2.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-2 财经
+http://192.168.10.25:8577/ysp/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv3.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-3 综艺
+http://192.168.10.25:8577/ysp/cctv3.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文国际" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv4.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-4 中文国际
+http://192.168.10.25:8577/ysp/cctv4.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv5.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-5 体育
+http://192.168.10.25:8577/ysp/cctv5.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv5p.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-5+ 体育赛事
+http://192.168.10.25:8577/ysp/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv6.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-6 电影
+http://192.168.10.25:8577/ysp/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv7.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-7 国防军事
+http://192.168.10.25:8577/ysp/cctv7.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv8.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-8 电视剧
+http://192.168.10.25:8577/ysp/cctv8.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv9.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-9 纪录
+http://192.168.10.25:8577/ysp/cctv9.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv10.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-10 科教
+http://192.168.10.25:8577/ysp/cctv10.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv11.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-11 戏曲
+http://192.168.10.25:8577/ysp/cctv11.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv12.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-12 社会与法
+http://192.168.10.25:8577/ysp/cctv12.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv13.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-13 新闻
+http://192.168.10.25:8577/ysp/cctv13.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv14.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-14 少儿
+http://192.168.10.25:8577/ysp/cctv14.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv15.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-15 音乐
+http://192.168.10.25:8577/ysp/cctv15.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv16.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-16 奥林匹克
+http://192.168.10.25:8577/ysp/cctv16.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv17.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV-17 农业农村
+http://192.168.10.25:8577/ysp/cctv17.m3u8
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV 风云剧场" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctvfyjc.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV 风云剧场
+http://192.168.10.25:8577/ysp/cctvfyjc.m3u8
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctvdyjc.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV 第一剧场
+http://192.168.10.25:8577/ysp/cctvdyjc.m3u8
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctvhjjc.png" group-title="央视频 (设备协议 v9.5) / 央视FHD",CCTV 怀旧剧场
+http://192.168.10.25:8577/ysp/cctvhjjc.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv164k.png" group-title="央视频 (设备协议 v9.5) / 央视UHD",CCTV-16 4K
+http://192.168.10.25:8577/ysp/cctv164k.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K 超高清" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv4k.png" group-title="央视频 (设备协议 v9.5) / 央视UHD",CCTV-4K 超高清
+http://192.168.10.25:8577/ysp/cctv4k.m3u8
+#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K 超高清" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv8k.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / 央视UHD",CCTV-8K 超高清
+http://192.168.10.25:8577/ysp/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtn.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / CGTN",CGTN
+http://192.168.10.25:8577/ysp/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN 法语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnfr.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / CGTN",CGTN 法语
+http://192.168.10.25:8577/ysp/cgtnfr.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN 俄语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnru.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / CGTN",CGTN 俄语
+http://192.168.10.25:8577/ysp/cgtnru.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN 阿拉伯语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnar.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / CGTN",CGTN 阿拉伯语
+http://192.168.10.25:8577/ysp/cgtnar.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN 西班牙语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnes.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / CGTN",CGTN 西班牙语
+http://192.168.10.25:8577/ysp/cgtnes.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN 纪录" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtndoc.png" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视频 (设备协议 v9.5) / CGTN",CGTN 纪录
+http://192.168.10.25:8577/ysp/cgtndoc.m3u8
